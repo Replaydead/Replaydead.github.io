@@ -73,6 +73,39 @@
 
 <article class="first-entry"> 
   <header class="entry-header">
+    <h2 class="entry-hint-parent">「Hugo &#43; GitHub Pagesでブログを1時間以内に立ち上げた話」
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>エンジニアをやっていると、いつかブログを作りたいと思いながらずっと先延ばしにしていることがある。今回は思い立ったが吉日で、実際にやってみたら1時間かからずに公開まで漕ぎ着けた。その記録を残しておく。
+使ったもの
+Hugo（静的サイトジェネレーター）
+GitHub Pages（無料ホスティング）
+PaperMod（Hugoテーマ）
+Git / GitHub Actions（自動デプロイ）
+手順の流れ
+まずHugoをインストールした。Windowsならwinget install Hugo.Hugo.Extended一発で入る。次にhugo new site myblogでプロジェクトを作成、PaperModをサブモジュールとして追加した。
+GitHub側はリポジトリをユーザー名.github.ioという名前で作成し、GitHub ActionsのワークフローファイルをYAMLで書いてpushするだけで自動デプロイが走る設計にした。
+デザインはassets/css/extended/custom.cssにCSSを置くだけでPaperModを上書きできる。黒ベースにセピア系のテキストカラーを入れてフィルムっぽい雰囲気にした。
+やってみて
+思ったより圧倒的に簡単だった。環境構築からデザインの骨格まで1時間以内に終わる。WordPressより軽くて無料で、記事はMarkdownで書けるのでエンジニアには向いている。
+これをベースに映画分析を中心としたブログを育てていく予定だ。
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2026-06-09 20:47:18 +0900 JST'>June 9, 2026</span></footer>
+  <a class="entry-link" aria-label="post link to 「Hugo &#43; GitHub Pagesでブログを1時間以内に立ち上げた話」" href="http://localhost:1313/posts/blog-start/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2 class="entry-hint-parent">First Post
       <span class="entry-hint" title="Draft">
         <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">

@@ -6,8 +6,27 @@
     <description>Recent content in Posts on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 20:12:09 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 20:47:18 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「Hugo &#43; GitHub Pagesでブログを1時間以内に立ち上げた話」</title>
+      <link>http://localhost:1313/posts/blog-start/</link>
+      <pubDate>Tue, 09 Jun 2026 20:47:18 +0900</pubDate>
+      <guid>http://localhost:1313/posts/blog-start/</guid>
+      <description>&lt;p&gt;エンジニアをやっていると、いつかブログを作りたいと思いながらずっと先延ばしにしていることがある。今回は思い立ったが吉日で、実際にやってみたら1時間かからずに公開まで漕ぎ着けた。その記録を残しておく。&lt;/p&gt;
+&lt;p&gt;使ったもの&lt;/p&gt;
+&lt;p&gt;Hugo（静的サイトジェネレーター）&lt;/p&gt;
+&lt;p&gt;GitHub Pages（無料ホスティング）&lt;/p&gt;
+&lt;p&gt;PaperMod（Hugoテーマ）&lt;/p&gt;
+&lt;p&gt;Git / GitHub Actions（自動デプロイ）&lt;/p&gt;
+&lt;p&gt;手順の流れ&lt;/p&gt;
+&lt;p&gt;まずHugoをインストールした。Windowsならwinget install Hugo.Hugo.Extended一発で入る。次にhugo new site myblogでプロジェクトを作成、PaperModをサブモジュールとして追加した。&lt;/p&gt;
+&lt;p&gt;GitHub側はリポジトリをユーザー名.github.ioという名前で作成し、GitHub ActionsのワークフローファイルをYAMLで書いてpushするだけで自動デプロイが走る設計にした。&lt;/p&gt;
+&lt;p&gt;デザインはassets/css/extended/custom.cssにCSSを置くだけでPaperModを上書きできる。黒ベースにセピア系のテキストカラーを入れてフィルムっぽい雰囲気にした。&lt;/p&gt;
+&lt;p&gt;やってみて&lt;/p&gt;
+&lt;p&gt;思ったより圧倒的に簡単だった。環境構築からデザインの骨格まで1時間以内に終わる。WordPressより軽くて無料で、記事はMarkdownで書けるのでエンジニアには向いている。&lt;/p&gt;
+&lt;p&gt;これをベースに映画分析を中心としたブログを育てていく予定だ。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>First Post</title>
       <link>http://localhost:1313/posts/first-post/</link>
