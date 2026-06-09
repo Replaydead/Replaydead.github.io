@@ -2,3 +2,5 @@ baseURL = "https://Replaydead.github.io/"
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "PaperMod"
+[params]
+  defaultTheme = "dark"

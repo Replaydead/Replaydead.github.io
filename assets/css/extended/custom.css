@@ -1,0 +1,12 @@
+body {
+    background-color: #1a1410 !important;
+    color: #d4c4a0 !important;
+}
+
+.post-title a, h1, h2, h3, p {
+    color: #d4c4a0 !important;
+}
+
+a {
+    color: #8b6914 !important;
+}
