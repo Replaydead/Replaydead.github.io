@@ -6,8 +6,38 @@
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 20:47:18 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 20:52:06 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugoでよく使うコマンド一覧</title>
+      <link>http://localhost:1313/posts/command/</link>
+      <pubDate>Tue, 09 Jun 2026 20:52:06 +0900</pubDate>
+      <guid>http://localhost:1313/posts/command/</guid>
+      <description>&lt;p&gt;Hugo日常コマンド&lt;/p&gt;
+&lt;p&gt;# 新規記事作成&lt;/p&gt;
+&lt;p&gt;hugo new content posts/記事名.md&lt;/p&gt;
+&lt;p&gt;# ローカルサーバー起動（下書き含む）&lt;/p&gt;
+&lt;p&gt;hugo server &amp;ndash;buildDrafts&lt;/p&gt;
+&lt;p&gt;# ローカルサーバー起動（公開記事のみ）&lt;/p&gt;
+&lt;p&gt;hugo server&lt;/p&gt;
+&lt;p&gt;Git日常コマンド&lt;/p&gt;
+&lt;p&gt;# 変更を全部ステージング&lt;/p&gt;
+&lt;p&gt;git add .&lt;/p&gt;
+&lt;p&gt;# コミット&lt;/p&gt;
+&lt;p&gt;git commit -m &amp;ldquo;コメント&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;# 本番に反映&lt;/p&gt;
+&lt;p&gt;git push&lt;/p&gt;
+&lt;p&gt;記事の公開/非公開&lt;/p&gt;
+&lt;p&gt;# 下書き（本番に出ない）&lt;/p&gt;
+&lt;p&gt;draft = true&lt;/p&gt;
+&lt;p&gt;# 公開&lt;/p&gt;
+&lt;p&gt;draft = false&lt;/p&gt;
+&lt;p&gt;流れとしては&lt;/p&gt;
+&lt;p&gt;hugo new content で記事ファイル作成&lt;/p&gt;
+&lt;p&gt;メモ帳で編集&lt;/p&gt;
+&lt;p&gt;hugo server &amp;ndash;buildDrafts でローカル確認&lt;/p&gt;
+&lt;p&gt;git add . → git commit → git push で本番反映&lt;/p&gt;</description>
+    </item>
     <item>
       <title>「Hugo &#43; GitHub Pagesでブログを1時間以内に立ち上げた話」</title>
       <link>http://localhost:1313/posts/blog-start/</link>

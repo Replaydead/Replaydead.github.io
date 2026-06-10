@@ -1,16 +1,38 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto" data-theme="dark">
 
-<head>
-	<meta name="generator" content="Hugo 0.163.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>My New Hugo Project</title>
-
-<meta name="description" content="">
+<title>Hugoでよく使うコマンド一覧 | My New Hugo Project</title>
+<meta name="keywords" content="">
+<meta name="description" content="Hugo日常コマンド
+# 新規記事作成
+hugo new content posts/記事名.md
+# ローカルサーバー起動（下書き含む）
+hugo server &ndash;buildDrafts
+# ローカルサーバー起動（公開記事のみ）
+hugo server
+Git日常コマンド
+# 変更を全部ステージング
+git add .
+# コミット
+git commit -m &ldquo;コメント&rdquo;
+# 本番に反映
+git push
+記事の公開/非公開
+# 下書き（本番に出ない）
+draft = true
+# 公開
+draft = false
+流れとしては
+hugo new content で記事ファイル作成
+メモ帳で編集
+hugo server &ndash;buildDrafts でローカル確認
+git add . → git commit → git push で本番反映">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/">
+<link rel="canonical" href="http://localhost:1313/posts/command/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.ade4e7d23321b3cf238b99e314c3e8784f7f3db576c351c75051a65d92aa914c.css" integrity="sha256-reTn0jMhs88ji5njFMPoeE9/PbV2w1HHUFGmXZKqkUw=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -19,8 +41,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="rss">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/command/">
 <noscript>
     <style>
         #theme-toggle,
@@ -37,7 +58,7 @@
 
 </script>
 </head>
-<body class="list" id="top">
+<body id="top">
     <header class="header">
     <nav class="header-nav">
         <div class="logo">
@@ -69,103 +90,58 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
+<main class="main">
 
-<article class="first-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hugoでよく使うコマンド一覧
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Hugoでよく使うコマンド一覧
       <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+        <svg xmlns="http://www.w3.org/2000/svg" height="35" viewBox="0 -960 960 960" fill="currentColor">
           <path
             d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
         </svg>
       </span>
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Hugo日常コマンド
-# 新規記事作成
-hugo new content posts/記事名.md
-# ローカルサーバー起動（下書き含む）
-hugo server –buildDrafts
-# ローカルサーバー起動（公開記事のみ）
-hugo server
-Git日常コマンド
-# 変更を全部ステージング
-git add .
-# コミット
-git commit -m “コメント”
-# 本番に反映
-git push
-記事の公開/非公開
-# 下書き（本番に出ない）
-draft = true
-# 公開
-draft = false
-流れとしては
-hugo new content で記事ファイル作成
-メモ帳で編集
-hugo server –buildDrafts でローカル確認
-git add . → git commit → git push で本番反映
-</p>
+    </h1>
+    <div class="post-meta">
+
+<span title='2026-06-09 20:52:06 +0900 JST'>June 9, 2026</span>
+
+</div>
+  </header> 
+  <div class="post-content md-content"><p>Hugo日常コマンド</p>
+<p># 新規記事作成</p>
+<p>hugo new content posts/記事名.md</p>
+<p># ローカルサーバー起動（下書き含む）</p>
+<p>hugo server &ndash;buildDrafts</p>
+<p># ローカルサーバー起動（公開記事のみ）</p>
+<p>hugo server</p>
+<p>Git日常コマンド</p>
+<p># 変更を全部ステージング</p>
+<p>git add .</p>
+<p># コミット</p>
+<p>git commit -m &ldquo;コメント&rdquo;</p>
+<p># 本番に反映</p>
+<p>git push</p>
+<p>記事の公開/非公開</p>
+<p># 下書き（本番に出ない）</p>
+<p>draft = true</p>
+<p># 公開</p>
+<p>draft = false</p>
+<p>流れとしては</p>
+<p>hugo new content で記事ファイル作成</p>
+<p>メモ帳で編集</p>
+<p>hugo server &ndash;buildDrafts でローカル確認</p>
+<p>git add . → git commit → git push で本番反映</p>
+
+
   </div>
-  <footer class="entry-footer">
 
-<span title='2026-06-09 20:52:06 +0900 JST'>June 9, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to Hugoでよく使うコマンド一覧" href="http://localhost:1313/posts/command/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">「Hugo &#43; GitHub Pagesでブログを1時間以内に立ち上げた話」
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>エンジニアをやっていると、いつかブログを作りたいと思いながらずっと先延ばしにしていることがある。今回は思い立ったが吉日で、実際にやってみたら1時間かからずに公開まで漕ぎ着けた。その記録を残しておく。
-使ったもの
-Hugo（静的サイトジェネレーター）
-GitHub Pages（無料ホスティング）
-PaperMod（Hugoテーマ）
-Git / GitHub Actions（自動デプロイ）
-手順の流れ
-まずHugoをインストールした。Windowsならwinget install Hugo.Hugo.Extended一発で入る。次にhugo new site myblogでプロジェクトを作成、PaperModをサブモジュールとして追加した。
-GitHub側はリポジトリをユーザー名.github.ioという名前で作成し、GitHub ActionsのワークフローファイルをYAMLで書いてpushするだけで自動デプロイが走る設計にした。
-デザインはassets/css/extended/custom.cssにCSSを置くだけでPaperModを上書きできる。黒ベースにセピア系のテキストカラーを入れてフィルムっぽい雰囲気にした。
-やってみて
-思ったより圧倒的に簡単だった。環境構築からデザインの骨格まで1時間以内に終わる。WordPressより軽くて無料で、記事はMarkdownで書けるのでエンジニアには向いている。
-これをベースに映画分析を中心としたブログを育てていく予定だ。
-</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-06-09 20:47:18 +0900 JST'>June 9, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to 「Hugo &#43; GitHub Pagesでブログを1時間以内に立ち上げた話」" href="http://localhost:1313/posts/blog-start/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">First Post
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p></p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-06-09 20:12:09 +0900 JST'>June 9, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to First Post" href="http://localhost:1313/posts/first-post/"></a>
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
 </article>
     </main>
     

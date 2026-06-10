@@ -77,6 +77,50 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2 class="entry-hint-parent">Hugoでよく使うコマンド一覧
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Hugo日常コマンド
+# 新規記事作成
+hugo new content posts/記事名.md
+# ローカルサーバー起動（下書き含む）
+hugo server –buildDrafts
+# ローカルサーバー起動（公開記事のみ）
+hugo server
+Git日常コマンド
+# 変更を全部ステージング
+git add .
+# コミット
+git commit -m “コメント”
+# 本番に反映
+git push
+記事の公開/非公開
+# 下書き（本番に出ない）
+draft = true
+# 公開
+draft = false
+流れとしては
+hugo new content で記事ファイル作成
+メモ帳で編集
+hugo server –buildDrafts でローカル確認
+git add . → git commit → git push で本番反映
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2026-06-09 20:52:06 +0900 JST'>June 9, 2026</span></footer>
+  <a class="entry-link" aria-label="post link to Hugoでよく使うコマンド一覧" href="http://localhost:1313/posts/command/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2 class="entry-hint-parent">「Hugo &#43; GitHub Pagesでブログを1時間以内に立ち上げた話」
       <span class="entry-hint" title="Draft">
         <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
