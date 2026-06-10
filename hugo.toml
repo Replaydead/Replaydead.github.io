@@ -1,6 +1,6 @@
 baseURL = "https://Replaydead.github.io/"
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Bleeding Frames'
 theme = "PaperMod"
 [params]
   defaultTheme = "dark"
