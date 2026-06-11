@@ -1,6 +1,6 @@
 +++
 date = '2026-06-09T20:47:18+09:00'
-draft = true
+draft = false
 title = '「Hugo + GitHub Pagesでブログを1時間以内に立ち上げた話」'
 +++
 

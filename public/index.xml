@@ -1,68 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>My New Hugo Project</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Project</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 20:52:06 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugoでよく使うコマンド一覧</title>
-      <link>http://localhost:1313/posts/command/</link>
-      <pubDate>Tue, 09 Jun 2026 20:52:06 +0900</pubDate>
-      <guid>http://localhost:1313/posts/command/</guid>
-      <description>&lt;p&gt;Hugo日常コマンド&lt;/p&gt;
-&lt;p&gt;# 新規記事作成&lt;/p&gt;
-&lt;p&gt;hugo new content posts/記事名.md&lt;/p&gt;
-&lt;p&gt;# ローカルサーバー起動（下書き含む）&lt;/p&gt;
-&lt;p&gt;hugo server &amp;ndash;buildDrafts&lt;/p&gt;
-&lt;p&gt;# ローカルサーバー起動（公開記事のみ）&lt;/p&gt;
-&lt;p&gt;hugo server&lt;/p&gt;
-&lt;p&gt;Git日常コマンド&lt;/p&gt;
-&lt;p&gt;# 変更を全部ステージング&lt;/p&gt;
-&lt;p&gt;git add .&lt;/p&gt;
-&lt;p&gt;# コミット&lt;/p&gt;
-&lt;p&gt;git commit -m &amp;ldquo;コメント&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;# 本番に反映&lt;/p&gt;
-&lt;p&gt;git push&lt;/p&gt;
-&lt;p&gt;記事の公開/非公開&lt;/p&gt;
-&lt;p&gt;# 下書き（本番に出ない）&lt;/p&gt;
-&lt;p&gt;draft = true&lt;/p&gt;
-&lt;p&gt;# 公開&lt;/p&gt;
-&lt;p&gt;draft = false&lt;/p&gt;
-&lt;p&gt;流れとしては&lt;/p&gt;
-&lt;p&gt;hugo new content で記事ファイル作成&lt;/p&gt;
-&lt;p&gt;メモ帳で編集&lt;/p&gt;
-&lt;p&gt;hugo server &amp;ndash;buildDrafts でローカル確認&lt;/p&gt;
-&lt;p&gt;git add . → git commit → git push で本番反映&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>「Hugo &#43; GitHub Pagesでブログを1時間以内に立ち上げた話」</title>
-      <link>http://localhost:1313/posts/blog-start/</link>
-      <pubDate>Tue, 09 Jun 2026 20:47:18 +0900</pubDate>
-      <guid>http://localhost:1313/posts/blog-start/</guid>
-      <description>&lt;p&gt;エンジニアをやっていると、いつかブログを作りたいと思いながらずっと先延ばしにしていることがある。今回は思い立ったが吉日で、実際にやってみたら1時間かからずに公開まで漕ぎ着けた。その記録を残しておく。&lt;/p&gt;
-&lt;p&gt;使ったもの&lt;/p&gt;
-&lt;p&gt;Hugo（静的サイトジェネレーター）&lt;/p&gt;
-&lt;p&gt;GitHub Pages（無料ホスティング）&lt;/p&gt;
-&lt;p&gt;PaperMod（Hugoテーマ）&lt;/p&gt;
-&lt;p&gt;Git / GitHub Actions（自動デプロイ）&lt;/p&gt;
-&lt;p&gt;手順の流れ&lt;/p&gt;
-&lt;p&gt;まずHugoをインストールした。Windowsならwinget install Hugo.Hugo.Extended一発で入る。次にhugo new site myblogでプロジェクトを作成、PaperModをサブモジュールとして追加した。&lt;/p&gt;
-&lt;p&gt;GitHub側はリポジトリをユーザー名.github.ioという名前で作成し、GitHub ActionsのワークフローファイルをYAMLで書いてpushするだけで自動デプロイが走る設計にした。&lt;/p&gt;
-&lt;p&gt;デザインはassets/css/extended/custom.cssにCSSを置くだけでPaperModを上書きできる。黒ベースにセピア系のテキストカラーを入れてフィルムっぽい雰囲気にした。&lt;/p&gt;
-&lt;p&gt;やってみて&lt;/p&gt;
-&lt;p&gt;思ったより圧倒的に簡単だった。環境構築からデザインの骨格まで1時間以内に終わる。WordPressより軽くて無料で、記事はMarkdownで書けるのでエンジニアには向いている。&lt;/p&gt;
-&lt;p&gt;これをベースに映画分析を中心としたブログを育てていく予定だ。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Tue, 09 Jun 2026 20:12:09 +0900</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description></description>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Bleeding Frames</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on Bleeding Frames</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Thu, 11 Jun 2026 20:03:02 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>バンビ～ノ！1話レビュー(後編)</title>
+            <link>http://localhost:1313/posts/%E3%83%90%E3%83%B3%E3%83%93%E3%83%BC%E3%83%8E1%E8%A9%B1%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E5%BE%8C%E7%B7%A8/</link>
+            <pubDate>Thu, 11 Jun 2026 20:03:02 +0900</pubDate>
+            <guid>http://localhost:1313/posts/%E3%83%90%E3%83%B3%E3%83%93%E3%83%BC%E3%83%8E1%E8%A9%B1%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E5%BE%8C%E7%B7%A8/</guid>
+            <description>&lt;p&gt;　さて、ようやく60分。長いもんだなぁ。&lt;/p&gt;&#xA;&lt;p&gt;学生時代を思い出すと45分でも長く感じたものだから、そもそも長い時間何かに集中するというのは大変なことなのかもしれない。&lt;/p&gt;&#xA;&lt;p&gt;普段趣味として映画を見るので、1時間半ぐらいはあっという間に過ぎるのだが、この『バンビ～ノ！』というドラマは他の方のレビューにもあるように、飲食店としてのリアルを描いている作品のようなので、その分重さがあって疲れが溜まりやすいんだろう。&lt;/p&gt;&#xA;&lt;p&gt;ともかく後編である。&lt;/p&gt;&#xA;&lt;p&gt;　1話の中盤までは、主人公・伴は先輩調理師である香取に負けたくないために、見よう見まねでブロードを作り、ものの見事に失敗したところである。&lt;/p&gt;&#xA;&lt;p&gt;その失敗具合たるや、作った本人ですらひと口でまずいと顔に出てしまう程度のものであったし、厨房のメンバーもそのブロードをひと口飲んでは「なんだよこれ」みたいな反応をしていた。&lt;/p&gt;&#xA;&lt;p&gt;忙しい割にはそんな余裕あるんだな。&lt;/p&gt;&#xA;&lt;p&gt;そんな厨房の様子に気付いたからなのか、宍戸シェフがやってきて、そのブロードをひとくち味見して一言。&lt;/p&gt;&#xA;&lt;p&gt;「お前、ブロード作ったことあるのか。」&lt;/p&gt;&#xA;&lt;p&gt;伴は申し訳なさや、やるせなさや情けなさやら、何かよく分からない感情の末に、「博多のシェフが作っているのを見たことはあるけど、自分ではないです」とようやく認めた。&lt;/p&gt;&#xA;&lt;p&gt;さすがにブロードの味見はしていたんだろうが、そんな状態なのでお客さんの前に出ることはなかったはずだ。&lt;/p&gt;&#xA;&lt;p&gt;とはいえ、店の食材を台無しにし、料理の決め手となる出汁を提供できない状態にしてしまった。店に対して多大な迷惑をかけたことに変わりはない。&lt;/p&gt;&#xA;&lt;p&gt;伴は拳を大きく振り上げた宍戸シェフを見て、自分が殴られるものだと思い、目をつぶって耐えようとした。&lt;/p&gt;&#xA;&lt;p&gt;しかし強く殴られ、地面に伏せたのは香取だった。&lt;/p&gt;&#xA;&lt;p&gt;宍戸シェフは香取に対して、「面倒見てやれと言っただろ。もう一度作り直せ」と言う。&lt;/p&gt;&#xA;&lt;p&gt;香取は「ウス」とだけ答え、口元の血を拭った。&lt;/p&gt;&#xA;&lt;p&gt;それを見て伴は、「俺には殴られる資格すらないのか」と呟いた。&lt;/p&gt;&#xA;&lt;p&gt;どうやら体育会系かつ殴りつける風潮は宍戸シェフから来ているものらしいので、組織的にそういう集団なのだろう。&lt;/p&gt;&#xA;&lt;p&gt;でも伴を殴らず、教育係として仕事をしなかった香取を殴ったのは正しい判断だと思う。&lt;/p&gt;&#xA;&lt;p&gt;香取も香取で黙って殴られて、伴に対して八つ当たりをしなかったのは少し見直した。やればできるじゃないか。&lt;/p&gt;&#xA;&lt;p&gt;香取自身の失敗でもあるんだから、殴られて終わる男としては情けないしね。&lt;/p&gt;&#xA;&lt;p&gt;　そんなこんなで失敗したブロード作り。そのままでは当然営業に支障が出るので、「リゾット系のメニューは外しておけ」とホールには指示が飛ぶ。&lt;/p&gt;&#xA;&lt;p&gt;そりゃそうなんだけどさぁ。&lt;/p&gt;&#xA;&lt;p&gt;そもそもブロードが出来てない状態で営業開始してるのおかしくないか？&lt;/p&gt;&#xA;&lt;p&gt;どの飲食店でも営業時間よりだいぶ早い時間に仕込みは終わらせておくもんだと思ってたんだが、どうやらバッカナーレではそうじゃないらしい。&lt;/p&gt;&#xA;&lt;p&gt;130人も来るようなレストランで「頼みたいメニューがない」と言われたら結構ブーイングものだと思うんだけど、どうかな。&lt;/p&gt;&#xA;&lt;p&gt;困った伴と香取。&lt;/p&gt;&#xA;&lt;p&gt;ここからは急いで香取がブロードを作り直すしか手がないはずだ。頑張れ香取。&lt;/p&gt;&#xA;&lt;p&gt;　そう思ったのも束の間。&lt;/p&gt;&#xA;&lt;p&gt;さすがにさっき殴られた部分から、香取もちゃんと教育をしないといけないと思ったんだろう。&lt;/p&gt;&#xA;&lt;p&gt;伴に「面貸せ」と言って外に場面転換。&lt;/p&gt;&#xA;&lt;p&gt;いや、その前に作れよ。2時間かかるんだろうが。&lt;/p&gt;&#xA;&lt;p&gt;辿り着いた先は大雨の降っている路地裏。&lt;/p&gt;&#xA;&lt;p&gt;説教かと思ったが、そのまま雨に打たれる二人。&lt;/p&gt;&#xA;&lt;p&gt;衛生管理的にまずいんじゃないの？今更なので何も言うまい。&lt;/p&gt;&#xA;&lt;p&gt;香取だってな。きっと伴を教育しないといけないと思って、こんな大雨の中、シェフに殴られたこともいとわず指導しようとしてるんだ。&lt;/p&gt;&#xA;&lt;p&gt;バキッ！(香取が伴を殴る音)&lt;/p&gt;&#xA;&lt;p&gt;ええええええ思いっきり伴殴ってるんですけど。&lt;/p&gt;&#xA;&lt;p&gt;大雨の中、調理服のまま地面に倒れる勢いで殴りつけられる伴。&lt;/p&gt;&#xA;&lt;p&gt;「俺はなぁ、お前みたいな半端者が一番嫌いなんだよ」&lt;/p&gt;&#xA;&lt;p&gt;教育じゃなかった。&lt;/p&gt;&#xA;&lt;p&gt;雨の中、パンチや膝蹴りを無防備に食らい続ける伴。&lt;/p&gt;&#xA;&lt;p&gt;料理物というよりは『マトリックス レボリューションズ』の最終戦だ。&lt;/p&gt;&#xA;&lt;p&gt;香取も喧嘩キックをくらい、ゴミ箱に吹き飛ばされる。&lt;/p&gt;&#xA;&lt;p&gt;もはや衛生も何もない。&lt;/p&gt;&#xA;&lt;p&gt;でも伴はそのまま帰ればいいからいいのかもしれない。香取はどうするんだろう。その格好のまま、さすがに厨房には戻れないだろうか。&lt;/p&gt;&#xA;&lt;p&gt;　雨にまみれ、自分の情けなさを痛感する伴。&lt;/p&gt;&#xA;&lt;p&gt;「何も言い返せなかった。」&lt;/p&gt;&#xA;&lt;p&gt;このまま惨めに引き下がれば、きっと伴はその日一日をずっと後悔して過ごすことになるだろう。&lt;/p&gt;&#xA;&lt;p&gt;でも、さすがにその泥まみれでずぶ濡れの格好で厨房に入るべきではないと思う。&lt;/p&gt;&#xA;&lt;p&gt;いや普通に戻ってきたわ。&lt;/p&gt;&#xA;&lt;p&gt;さっきの格好のまま、雨の日散歩した後の犬状態で厨房に戻ってきた伴。&lt;/p&gt;&#xA;&lt;p&gt;よく見たらジャニーズパワーでズボンだけ普通に乾いてる。&lt;/p&gt;&#xA;&lt;p&gt;「ブロードの作り方、教えてください」&lt;/p&gt;&#xA;&lt;p&gt;第一話完。&lt;/p&gt;&#xA;&lt;p&gt;～第一話の感想総括～&lt;/p&gt;&#xA;&lt;p&gt;　第一話にして嫌な人間しかいない。&lt;/p&gt;&#xA;&lt;p&gt;主人公に感情移入がしにくい。&lt;/p&gt;&#xA;&lt;p&gt;唯一のオアシスは寮にいたオカマっぽい男一人、与那嶺司(演：北村一輝)。&lt;/p&gt;&#xA;&lt;p&gt;さて、ここから果たして文字通り面白くなるのか。&lt;/p&gt;&#xA;&lt;p&gt;そんなふうに思うが、これは確かに人間ドラマであるのは間違いないね。&lt;/p&gt;&#xA;&lt;p&gt;松潤演じる伴の成長物語として見るのが大半だと思うが、俺としては伴だけじゃなく、香取や周囲のスタッフの成長具合も気になるところだ。&lt;/p&gt;&#xA;&lt;p&gt;また格闘ドラマとして見るとなかなか面白い。&lt;/p&gt;&#xA;&lt;p&gt;散々香取は手が早いと書いてきたが、まさか本当に手を出すシーンが出てくるとは思わなかった。&lt;/p&gt;&#xA;&lt;p&gt;今後のアクションシーンにも期待したい。&lt;/p&gt;&#xA;&lt;p&gt;伴の成長についても、青二才の状態から負け犬のまま終わるわけにはいかないよな。&lt;/p&gt;&#xA;&lt;p&gt;引き続き応援したいところである。&lt;/p&gt;&#xA;&lt;p&gt;PS　感動返せ香取。&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>バンビ～ノ！1話レビュー(中編)</title>
+            <link>http://localhost:1313/posts/%E3%83%90%E3%83%B3%E3%83%93%E3%83%BC%E3%83%8E1%E8%A9%B1%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E4%B8%AD%E7%B7%A8/</link>
+            <pubDate>Thu, 11 Jun 2026 19:56:46 +0900</pubDate>
+            <guid>http://localhost:1313/posts/%E3%83%90%E3%83%B3%E3%83%93%E3%83%BC%E3%83%8E1%E8%A9%B1%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E4%B8%AD%E7%B7%A8/</guid>
+            <description>&lt;p&gt;　そもそも俺はドラマをほとんど見ずに育った人間なので詳しくないんだが・・・。&lt;/p&gt;&#xA;&lt;p&gt;このドラマ、第一話は60分もある。&lt;/p&gt;&#xA;&lt;p&gt;長い。&lt;/p&gt;&#xA;&lt;p&gt;正直ずっと見るにはしんどいくらい長いぞ。&lt;/p&gt;&#xA;&lt;p&gt;しかし頑張っている伴くんを応援したいので、そのまま視聴を続けていこうと思う。&lt;/p&gt;&#xA;&lt;p&gt;　前回、パスタを任されたが戦力になりきれず皿洗いへ回された伴。&lt;/p&gt;&#xA;&lt;p&gt;その裏では、バイトが終わったメンバーが賭けに興じていた。&lt;/p&gt;&#xA;&lt;p&gt;賭けの内容は、今日やってきた新人が2日目以降も続くかどうか。&lt;/p&gt;&#xA;&lt;p&gt;しかも厨房ではなくホールで堂々とそれを行っている。&lt;/p&gt;&#xA;&lt;p&gt;賭博するならもっと見えにくいところでやれよ。&lt;/p&gt;&#xA;&lt;p&gt;伴に唯一公平に接していると思われる妙にカマっぽい男、与那嶺。&lt;/p&gt;&#xA;&lt;p&gt;彼だけが唯一「続ける」に票を入れた。&lt;/p&gt;&#xA;&lt;p&gt;それ以外の厨房スタッフたちはこぞって「続かない」に投票している。&lt;/p&gt;&#xA;&lt;p&gt;この時点で厨房のチーム感は高いことが分かる。&lt;/p&gt;&#xA;&lt;p&gt;ただ何というか、閉鎖的というか排他的というか。&lt;/p&gt;&#xA;&lt;p&gt;これで仮に誰かが厨房を辞めますとなった時に困るのは自分たちではないのか。&lt;/p&gt;&#xA;&lt;p&gt;外からの空気を取り入れて循環しなければ、内部は腐っていくものだと思うのだが。&lt;/p&gt;&#xA;&lt;p&gt;そんな賭けが行われているとは露知らず、伴は今日の寝床として宍戸シェフから渡された鍵を持ち、自室へ戻っていた。&lt;/p&gt;&#xA;&lt;p&gt;何とか彼女に電話をかけようとするも、前日の寝不足と初日の疲労から寝落ちしてしまう。&lt;/p&gt;&#xA;&lt;p&gt;彼は天狗ではあるが、負けん気だけは間違いないので、賭けは与那嶺の一人勝ちとなった。&lt;/p&gt;&#xA;&lt;p&gt;　そして2日目。&lt;/p&gt;&#xA;&lt;p&gt;さすがに宍戸シェフも前日のパスタ騒動は聞いていたのだろう。&lt;/p&gt;&#xA;&lt;p&gt;伴にブロードを作ったことがあるか尋ねる。&lt;/p&gt;&#xA;&lt;p&gt;伴は、「はい、勿論です」と答えてしまう。&lt;/p&gt;&#xA;&lt;p&gt;伴の良くないところは、自分の腕に自信を持っていることと、それ以上に物を断れないことなんじゃないだろうか。&lt;/p&gt;&#xA;&lt;p&gt;そしてあろうことか、そのブロード作りを、手の速さだけなら一丁前の料理人・香取とペアを組んで行うという指示が出される。&lt;/p&gt;&#xA;&lt;p&gt;前日、香取は「田舎に帰れ」と伴に言ったり、頭に向かってトマト缶を投げつけたり、洗い物の皿を放り投げたりしていた。&lt;/p&gt;&#xA;&lt;p&gt;既に伴が苦手を通り越して嫌いになっている相手である。&lt;/p&gt;&#xA;&lt;p&gt;そんな香取は前日の態度が嘘のように、&lt;/p&gt;&#xA;&lt;p&gt;「今日はよろしく頼むな。何か分からないことがあったら聞いてくれ。まぁ、ないと思うけどな」&lt;/p&gt;&#xA;&lt;p&gt;と皮肉たっぷりの爽やかスマイルでその場を去っていく。ちっとは教えろや。&lt;/p&gt;&#xA;&lt;p&gt;残された伴は、「絶対に聞くか」と、一人でブロード作りを始めてしまう。&lt;/p&gt;&#xA;&lt;p&gt;だがシェフに答えた時の表情から分かったように、伴はブロードを作ったことがなかったのである。&lt;/p&gt;&#xA;&lt;p&gt;前日のパスタの時もそうだが、店の味を知らずに作るのはどうなのか。&lt;/p&gt;&#xA;&lt;p&gt;　ブロードというのは、イタリアン版の出汁のようなものらしく、リゾットやパスタなどの味を決める重要な食材である。&lt;/p&gt;&#xA;&lt;p&gt;そんなものを作ったこともなく、店のレシピもよく分からない人間がいきなり作れるのか。&lt;/p&gt;&#xA;&lt;p&gt;案の定、少しだけ味見をして見よう見まねで作ったブロードは、伴自身が味見しても飲めたものではない代物になってしまった。&lt;/p&gt;&#xA;&lt;p&gt;そこへ眼鏡男の桑原(演：佐々木蔵之介)が現れ、「鶏肉の血抜きが足りないから臭みが残ってるんだ」と、唯一冷静なアドバイスをしてくれる。&lt;/p&gt;&#xA;&lt;p&gt;しかし、もはや2時間も煮込んだブロードはどうにもならない。&lt;/p&gt;&#xA;&lt;p&gt;結局、新しく作り直すことになってしまった。&lt;/p&gt;&#xA;&lt;p&gt;今回のレビューはここまで。&lt;/p&gt;&#xA;&lt;p&gt;第一話前半は厨房の忙しさや伴の人間性がメインで描かれていたが、今回見た部分は人間関係、特に相性の悪い職場の人とのコミュニケーションについて考えさせられる内容だったと思う。&lt;/p&gt;&#xA;&lt;p&gt;果たして伴は、まともなブロードを作ることができるのだろうか。&lt;/p&gt;&#xA;&lt;p&gt;それ以上に、伴は香取と肉体言語以外の会話ができるのだろうか。&lt;/p&gt;&#xA;&lt;p&gt;後編に続く。&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>バンビーノ1話レビュー(前編)</title>
+            <link>http://localhost:1313/posts/%E3%83%90%E3%83%B3%E3%83%93%E3%83%BC%E3%83%8E1%E8%A9%B1%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E5%89%8D%E7%B7%A8/</link>
+            <pubDate>Wed, 10 Jun 2026 19:02:18 +0900</pubDate>
+            <guid>http://localhost:1313/posts/%E3%83%90%E3%83%B3%E3%83%93%E3%83%BC%E3%83%8E1%E8%A9%B1%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E5%89%8D%E7%B7%A8/</guid>
+            <description>&lt;p&gt;『バンビーノ！』とは、せきやてつじの漫画を原作としたドラマで、2007年に松本潤が主演を務めた作品だ。&lt;/p&gt;&#xA;&lt;p&gt;2007年と言うと、ジャニーズに詳しくない俺でも分かる程度には、おそらく嵐が最も売れていた時代の1年だったと思う。学校へ行っても嵐、コンビニへ行っても嵐、もちろん家に帰ればテレビからも嵐、嵐、嵐。そんな嵐三昧の時代だった。&lt;/p&gt;&#xA;&lt;p&gt;そのせいか、なんとなく流行に乗るのが苦手な自分は、その全盛期にほとんど嵐のドラマを見ることがなかった。&lt;/p&gt;&#xA;&lt;p&gt;見た記憶があるのは『流星の絆』、『プラチナデータ』、『硫黄島からの手紙』、『山田太郎ものがたり』あたり。&lt;/p&gt;&#xA;&lt;p&gt;改めて振り返ると、意外と見ていた方かもしれない。&lt;/p&gt;&#xA;&lt;p&gt;ただ、我が家はニノ派だった事もあり、松潤主演作品はほとんど見たことがなかった。&lt;/p&gt;&#xA;&lt;p&gt;そんな中、2026年に嵐が活動を終えることになった……というのは特に関係なく、知人から「バンビーノ！ってドラマが面白いよ」と勧められたことで、20年越しの松潤デビューを果たす事になったわけだ。&lt;/p&gt;&#xA;&lt;p&gt;　さて、『バンビーノ！』とはイタリアンレストランの料理人を描いたドラマである。&lt;/p&gt;&#xA;&lt;p&gt;主人公の伴省吾は、九州・博多のレストランでアルバイトをしている大学4年生。アルバイトながらシェフから料理を任されるほど腕に自信があり、物語はそこから始まる。&lt;/p&gt;&#xA;&lt;p&gt;博多のシェフからも信頼されているし、かわいい彼女もいる。第一話の時点ではかなり恵まれた環境にいるわけだ。&lt;/p&gt;&#xA;&lt;p&gt;そんな伴に対し、信頼するシェフが「東京にいる弟が働くレストランへ行ってみないか」と話を持ちかける。&lt;/p&gt;&#xA;&lt;p&gt;伴としては、信頼するシェフのもとで最高の料理を作れているし、自分はもう料理人だと思っているので、最初は断ろうとする。&lt;/p&gt;&#xA;&lt;p&gt;しかし、ヘルプなら手伝ってやるかという気持ちで承諾し、彼女を残して東京・六本木にあるイタリアンレストラン『バッカナーレ』の門を叩く。&lt;/p&gt;&#xA;&lt;p&gt;　このバッカナーレという店だが、六本木という立地もあってか1日に130人ほど来店する繁盛店らしい。&lt;/p&gt;&#xA;&lt;p&gt;初めて店に来た伴は、「料理は何でもできます」と答えてしまったことで、いきなり厨房の花形であるパスタ場を任されることになる。&lt;/p&gt;&#xA;&lt;p&gt;そもそも仮にヘルプだったとしても、初日から厨房の花形であるパスタを、味も見せずにいきなり任せるのはいかがなのか。&lt;/p&gt;&#xA;&lt;p&gt;それでも何とか食らいつこうとする伴だが、厨房へ入った瞬間に専門用語が飛び交う。&lt;/p&gt;&#xA;&lt;p&gt;「なんたらかんたらスパゲッティウーノ！」(翻訳字幕無し)&lt;/p&gt;&#xA;&lt;p&gt;そこの説明も先にしといたほうがいいんじゃねーの。&lt;/p&gt;&#xA;&lt;p&gt;しかも伴はメニューすら把握していない状態でパスタを作ることになる。&lt;/p&gt;&#xA;&lt;p&gt;なんとか作ってシェフに味見を頼むが、返ってきた言葉は「時間をかけすぎだな」の一言。&lt;/p&gt;&#xA;&lt;p&gt;そこで必死に頑張るのだが、次々にオーダーが飛び交い、ついにスピードが追いつかなくなる。&lt;/p&gt;&#xA;&lt;p&gt;そしてパスタを持って移動中に転倒。&lt;/p&gt;&#xA;&lt;p&gt;ここで香取という先輩料理人が登場し、伴をパスタ場から外して皿洗いへ回す。&lt;/p&gt;&#xA;&lt;p&gt;その皿の数たるや。&lt;/p&gt;&#xA;&lt;p&gt;ドラゴンボールの悟空が食べるみたいなアホみたいな量の皿が洗い場に積み上げられていく。&lt;/p&gt;&#xA;&lt;p&gt;なんで皿洗いの人いないの？今までどうしてたんだ。&lt;/p&gt;&#xA;&lt;p&gt;伴が一生懸命洗っても全然追いつかない。&lt;/p&gt;&#xA;&lt;p&gt;そのうえ香取は使い終わった皿を投げるように洗い場へ放り込んでくる。あぶねえ。&lt;/p&gt;&#xA;&lt;p&gt;伴は相当な天狗ではあるが、まだ大学4年生だ。&lt;/p&gt;&#xA;&lt;p&gt;初めて東京のイタリアンレストランで働くことになり、前日も緊張で眠れていない状態だった。&lt;/p&gt;&#xA;&lt;p&gt;そんな中で初日からこの忙しさなのだから、疲労が蓄積するのも無理はない。&lt;/p&gt;&#xA;&lt;p&gt;そんなこんなで皿洗い中に眠りこけてしまう。&lt;/p&gt;&#xA;&lt;p&gt;そのことに気付いた香取は、近くにあったトマト缶を伴の頭へ投げつける。&lt;/p&gt;&#xA;&lt;p&gt;手の速さだけなら一丁前である。&lt;/p&gt;&#xA;&lt;p&gt;その後、仕事を終えた伴はシェフのもとへ行き、自分のパスタはどうだったのかを聞きに行く。&lt;/p&gt;&#xA;&lt;p&gt;しかしシェフから返ってきたのは、「器用な味だ」だった。&lt;/p&gt;&#xA;&lt;p&gt;「器用な味だ」と言った。シェフが言うに、それは博多の兄弟子の店の味を模倣したものであり、つまり君の味じゃないという事のようだ。&lt;/p&gt;&#xA;&lt;p&gt;じゃあクックパッドで作ってる我ら庶民はどうなるんだ？&lt;/p&gt;&#xA;&lt;p&gt;　とりあえず一旦視聴はここまで。&lt;/p&gt;&#xA;&lt;p&gt;物語としては、おそらく伴が料理人として成長していく青春ドラマなのだろう。&lt;/p&gt;&#xA;&lt;p&gt;ただ、あの厨房を見て果たしてどれだけの人が飲食店で働きたいと思うのだろうか。&lt;/p&gt;&#xA;&lt;p&gt;皿洗い雇う余裕が無いのか。コック帽被らなくて良いのか。店のトマト缶と皿を投げつけて良いのか。&lt;/p&gt;&#xA;&lt;p&gt;甚だ疑問である。&lt;/p&gt;&#xA;&lt;p&gt;客が求めているのは何もおいしい料理だけではない。&lt;/p&gt;&#xA;&lt;p&gt;店の雰囲気が悪ければ、温厚なサラリーマンでもアームロックをかけてくるのがここ日本である。&lt;/p&gt;&#xA;&lt;p&gt;厨房で怒号が飛び交っていても客席には聞こえないからいい、ということなのかもしれないが、ホールスタッフは厨房に出入りする。&lt;/p&gt;&#xA;&lt;p&gt;ホールスタッフがストレスを感じるような厨房で良いとは思えない。&lt;/p&gt;&#xA;&lt;p&gt;また、伴の扱いも相当ひどい。&lt;/p&gt;&#xA;&lt;p&gt;伴でなくても、ヘルプで来た人間に対して仕事をまったく教えないというのは、料理人気取り以前の問題ではないだろうか。&lt;/p&gt;&#xA;&lt;p&gt;もし自分がシフトを組む立場なら、初日は厨房の様子を見せながら皿洗いを任せるところから始めると思う。&lt;/p&gt;&#xA;&lt;p&gt;ただ、今回のミスマッチの原因は伴でも香取でもない。&lt;/p&gt;&#xA;&lt;p&gt;「弟の店で仕込まれているから大丈夫だろう」と思い込み、基本的な情報を伝えていなかった博多のシェフが一番悪い気がする。&lt;/p&gt;&#xA;&lt;p&gt;この調子で果たして伴はまともに厨房へ立てるのだろうか。&lt;/p&gt;&#xA;&lt;p&gt;中編に続く。&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>Hugoでよく使うコマンド一覧</title>
+            <link>http://localhost:1313/posts/command/</link>
+            <pubDate>Tue, 09 Jun 2026 20:52:06 +0900</pubDate>
+            <guid>http://localhost:1313/posts/command/</guid>
+            <description>&lt;p&gt;Hugo日常コマンド&lt;/p&gt;&#xA;&lt;p&gt;# 新規記事作成&lt;/p&gt;&#xA;&lt;p&gt;hugo new content posts/記事名.md&lt;/p&gt;&#xA;&lt;p&gt;# ローカルサーバー起動（下書き含む）&lt;/p&gt;&#xA;&lt;p&gt;hugo server &amp;ndash;buildDrafts&lt;/p&gt;&#xA;&lt;p&gt;# ローカルサーバー起動（公開記事のみ）&lt;/p&gt;&#xA;&lt;p&gt;hugo server&lt;/p&gt;&#xA;&lt;p&gt;Git日常コマンド&lt;/p&gt;&#xA;&lt;p&gt;# 変更を全部ステージング&lt;/p&gt;&#xA;&lt;p&gt;git add .&lt;/p&gt;&#xA;&lt;p&gt;# コミット&lt;/p&gt;&#xA;&lt;p&gt;git commit -m &amp;ldquo;コメント&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;# 本番に反映&lt;/p&gt;&#xA;&lt;p&gt;git push&lt;/p&gt;&#xA;&lt;p&gt;記事の公開/非公開&lt;/p&gt;&#xA;&lt;p&gt;# 下書き（本番に出ない）&lt;/p&gt;&#xA;&lt;p&gt;draft = false&lt;/p&gt;&#xA;&lt;p&gt;# 公開&lt;/p&gt;&#xA;&lt;p&gt;draft = false&lt;/p&gt;&#xA;&lt;p&gt;流れとしては&lt;/p&gt;&#xA;&lt;p&gt;hugo new content で記事ファイル作成&lt;/p&gt;&#xA;&lt;p&gt;メモ帳で編集&lt;/p&gt;&#xA;&lt;p&gt;hugo server &amp;ndash;buildDrafts でローカル確認&lt;/p&gt;&#xA;&lt;p&gt;git add . → git commit → git push で本番反映&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>「Hugo &#43; GitHub Pagesでブログを1時間以内に立ち上げた話」</title>
+            <link>http://localhost:1313/posts/blog-start/</link>
+            <pubDate>Tue, 09 Jun 2026 20:47:18 +0900</pubDate>
+            <guid>http://localhost:1313/posts/blog-start/</guid>
+            <description>&lt;p&gt;エンジニアをやっていると、いつかブログを作りたいと思いながらずっと先延ばしにしていることがある。今回は思い立ったが吉日で、実際にやってみたら1時間かからずに公開まで漕ぎ着けた。その記録を残しておく。&lt;/p&gt;&#xA;&lt;p&gt;使ったもの&lt;/p&gt;&#xA;&lt;p&gt;Hugo（静的サイトジェネレーター）&lt;/p&gt;&#xA;&lt;p&gt;GitHub Pages（無料ホスティング）&lt;/p&gt;&#xA;&lt;p&gt;PaperMod（Hugoテーマ）&lt;/p&gt;&#xA;&lt;p&gt;Git / GitHub Actions（自動デプロイ）&lt;/p&gt;&#xA;&lt;p&gt;手順の流れ&lt;/p&gt;&#xA;&lt;p&gt;まずHugoをインストールした。Windowsならwinget install Hugo.Hugo.Extended一発で入る。次にhugo new site myblogでプロジェクトを作成、PaperModをサブモジュールとして追加した。&lt;/p&gt;&#xA;&lt;p&gt;GitHub側はリポジトリをユーザー名.github.ioという名前で作成し、GitHub ActionsのワークフローファイルをYAMLで書いてpushするだけで自動デプロイが走る設計にした。&lt;/p&gt;&#xA;&lt;p&gt;デザインはassets/css/extended/custom.cssにCSSを置くだけでPaperModを上書きできる。黒ベースにセピア系のテキストカラーを入れてフィルムっぽい雰囲気にした。&lt;/p&gt;&#xA;&lt;p&gt;やってみて&lt;/p&gt;&#xA;&lt;p&gt;思ったより圧倒的に簡単だった。環境構築からデザインの骨格まで1時間以内に終わる。WordPressより軽くて無料で、記事はMarkdownで書けるのでエンジニアには向いている。&lt;/p&gt;&#xA;&lt;p&gt;これをベースに映画分析を中心としたブログを育てていく予定だ。&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>First Post</title>
+            <link>http://localhost:1313/posts/first-post/</link>
+            <pubDate>Tue, 09 Jun 2026 20:12:09 +0900</pubDate>
+            <guid>http://localhost:1313/posts/first-post/</guid>
+            <description></description>
+        </item></channel>
 </rss>

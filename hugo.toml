@@ -1,6 +1,9 @@
-baseURL = "https://Replaydead.github.io/"
-locale = 'en-us'
-title = 'Bleeding Frames'
+baseURL = "https://Replaydead.github.io/bleeding-frames/"
+languageCode = "ja"
+title = "Bleeding Frames"
 theme = "hugo-theme-stack"
+paginate = 10
+
 [params]
   defaultTheme = "dark"
+  mainSections = ["posts"]

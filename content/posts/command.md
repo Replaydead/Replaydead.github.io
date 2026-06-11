@@ -1,6 +1,6 @@
 +++
 date = '2026-06-09T20:52:06+09:00'
-draft = true
+draft = false
 title = 'Hugoでよく使うコマンド一覧'
 +++
 
@@ -44,7 +44,7 @@ git push
 
 \# 下書き（本番に出ない）
 
-draft = true
+draft = false
 
 
 
