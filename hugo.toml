@@ -1,9 +1,47 @@
 baseURL = "https://Replaydead.github.io/"
-languageCode = "ja"
+locale = "ja"
 title = "Bleeding Frames"
 theme = "hugo-theme-stack"
 paginate = 10
 
 [params]
-  defaultTheme = "dark"
-  mainSections = ["posts"]
+    mainSections = ["posts"]
+    defaultTheme = "dark"
+
+[params.sidebar]
+    emoji = "🎬"
+    subtitle = "映画・アニメ・技術"
+
+[params.article]
+    math = false
+    toc = true
+    readingTime = true
+
+[params.colorScheme]
+    toggle = true
+    default = "dark"
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "ホーム"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "posts"
+        name = "記事"
+        url = "/posts/"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "archives"
+        name = "アーカイブ"
+        url = "/archives/"
+        weight = 3
+
+    [[menu.main]]
+        identifier = "tags"
+        name = "タグ"
+        url = "/tags/"
+        weight = 4
