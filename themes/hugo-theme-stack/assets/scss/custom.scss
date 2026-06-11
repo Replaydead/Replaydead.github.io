@@ -13,3 +13,39 @@
     --card-text-color-tertiary: #aaa;
     --card-separator-color: rgba(100, 100, 100, 0.5);
 }
+
+.prev-next-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    gap: 1rem;
+
+    a {
+        display: flex;
+        flex-direction: column;
+        padding: 1rem;
+        background: var(--card-background);
+        border-radius: 8px;
+        text-decoration: none;
+        max-width: 48%;
+
+        &:hover {
+            background: var(--card-background-selected);
+        }
+    }
+
+    .nav-label {
+        font-size: 0.8rem;
+        color: var(--card-text-color-secondary);
+    }
+
+    .nav-title {
+        font-size: 0.95rem;
+        color: var(--card-text-color-main);
+    }
+
+    .next-article {
+        margin-left: auto;
+        text-align: right;
+    }
+}

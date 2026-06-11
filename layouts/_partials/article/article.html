@@ -1,0 +1,42 @@
+<article class="{{ if .Params.image }}has-image {{ end }}main-article">
+    {{ partial "article/components/header" (dict "Page" . "IsList" false) }}
+
+    {{ if .Scratch.Get "TOCEnabled" }}
+    <aside class="article-toc">
+        <details>
+            <summary>
+                <div class="article-toc-title">
+                    {{ partial "helper/icon" "chevron-right" }}
+                    <span>{{ T "article.tableOfContents" }}</span>
+                </div>
+            </summary>
+            <nav class="toc-nav">
+                {{ partial "article/components/toc" . | safeHTML }}
+            </nav>
+        </details>
+    </aside>
+    {{ end }}
+
+    {{ partial "article/components/content" . }}
+
+    {{ partial "article/components/footer" . }}
+
+<nav class="prev-next-nav">
+    {{ with .PrevInSection }}
+        <a class="prev-article" href="{{ .Permalink }}">
+            <span class="nav-label">← 前の記事</span>
+            <span class="nav-title">{{ .Title }}</span>
+        </a>
+    {{ end }}
+    {{ with .NextInSection }}
+        <a class="next-article" href="{{ .Permalink }}">
+            <span class="nav-label">次の記事 →</span>
+            <span class="nav-title">{{ .Title }}</span>
+        </a>
+    {{ end }}
+</nav>
+
+    {{ if or .Params.math .Site.Params.article.math }}
+        {{ partialCached "article/components/math.html" . }}
+    {{ end }}
+</article>
