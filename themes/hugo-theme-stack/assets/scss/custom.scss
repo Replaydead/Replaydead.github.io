@@ -1,1 +1,15 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+
+:root {
+    --body-background: #303030;
+    --accent-color: #ecf0f1;
+    --accent-color-darker: #bdc3c7;
+    --accent-color-text: #000;
+    --body-text-color: rgba(255, 255, 255, 0.7);
+    --card-background: #3a3a3a;
+    --card-background-selected: #4a4a4a;
+    --card-text-color-main: #fff;
+    --card-text-color-secondary: #bbb;
+    --card-text-color-tertiary: #aaa;
+    --card-separator-color: rgba(100, 100, 100, 0.5);
+}
