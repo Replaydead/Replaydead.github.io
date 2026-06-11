@@ -16,6 +16,11 @@ paginate = 10
     math = false
     toc = true
     readingTime = true
+    license.enabled = false
+
+[params.widgets]
+    homepage = ["search", "archives", "tag-cloud"]
+    page = ["toc"]
 
 [params.colorScheme]
     toggle = true
@@ -23,25 +28,17 @@ paginate = 10
 
 [menu]
     [[menu.main]]
-        identifier = "home"
-        name = "ホーム"
-        url = "/"
+        identifier = "drama"
+        name = "ドラマ"
+        url = "#"
         weight = 1
 
     [[menu.main]]
-        identifier = "posts"
-        name = "記事"
-        url = "/posts/"
-        weight = 2
+        identifier = "bambino"
+        name = "バンビ～ノ！レビュー"
+        url = "/posts/bambino/"
+        parent = "drama"
+        weight = 1
 
-    [[menu.main]]
-        identifier = "archives"
-        name = "アーカイブ"
-        url = "/archives/"
-        weight = 3
 
-    [[menu.main]]
-        identifier = "tags"
-        name = "タグ"
-        url = "/tags/"
-        weight = 4
+    
