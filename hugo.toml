@@ -29,6 +29,8 @@ paginate = 10
         url = "#"
         weight = 1
 
+        
+
     [[menu.main]]
         identifier = "bambino"
         name = "バンビ～ノ！レビュー"
@@ -36,5 +38,19 @@ paginate = 10
         parent = "drama"
         weight = 1
 
+[params.comments]
+    enabled = true
+    provider = "giscus"
+
+[params.comments.giscus]
+    repo = "Replaydead/Replaydead.github.io"
+    repoID = "R_kgDOS1ViAQ"
+    category = "Announcements"
+    categoryID = "DIC_kwDOS1ViAc4C_AqB"
+    mapping = "pathname"
+    reactionsEnabled = 1
+    emitMetadata = 0
+    inputPosition = "bottom"
+    lang = "ja"
 
     
