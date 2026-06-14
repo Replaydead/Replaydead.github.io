@@ -43,4 +43,5 @@ paginate = 10
 [params.comments.disqus]
     shortname = "bleeding-frames"
 
+disqusShortname = "bleeding-frames"
     
