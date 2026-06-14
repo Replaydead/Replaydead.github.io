@@ -3,6 +3,7 @@ date = '2026-06-12T16:15:00+09:00'
 draft = false
 title = 'バットマン(1989)レビュー'
 comments = true
+categories = ["batman"]
 +++
 
 ![batman](/images/batman/batman.webp "batman")
