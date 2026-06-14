@@ -29,7 +29,7 @@ paginate = 10
         url = "#"
         weight = 1
         [menu.main.params]
-            icon = "tv"
+            icon = "hash"
     [[menu.main]]
         identifier = "bambino"
         name = "バンビ～ノ！レビュー"
@@ -42,7 +42,7 @@ paginate = 10
         url = "#"
         weight = 2
         [menu.main.params]
-            icon = "movie"
+            icon = "home"
     [[menu.main]]
         identifier = "batman"
         name = "バットマンレビュー"
