@@ -23,26 +23,26 @@ paginate = 10
     default = "dark"
 
 [menu]
-    [[menu.main]]
+    [[menu.sidebar]]
         identifier = "drama"
         name = "ドラマレビュー"
         url = "#"
         weight = 1
-    [[menu.main]]
+    [[menu.sidebar]]
         identifier = "bambino"
         name = "バンビ～ノ！レビュー"
-        url = "/categories/bambino/"
+        url = "/categories/バンビ～ノ！レビュー/"
         parent = "drama"
         weight = 1
-    [[menu.main]]
+    [[menu.sidebar]]
         identifier = "movie"
         name = "映画レビュー"
         url = "#"
         weight = 2
-    [[menu.main]]
+    [[menu.sidebar]]
         identifier = "batman"
         name = "バットマンレビュー"
-        url = "/categories/batman/"
+        url = "/categories/バットマンレビュー/"
         parent = "movie"
         weight = 1
 
