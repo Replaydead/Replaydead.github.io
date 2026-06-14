@@ -2,6 +2,8 @@
 date = '2026-06-10T19:02:18+09:00'
 draft = false
 title = 'バンビ～ノ！1話レビュー(前編)'
+categories = ["バンビ～ノ！レビュー"]
+comments = true
 +++
 
 
