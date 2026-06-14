@@ -49,3 +49,42 @@
         text-align: right;
     }
 }
+
+#main-menu {
+    > li > details > summary {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        cursor: pointer;
+        color: var(--body-text-color);
+        list-style: none;
+        padding: 0.4rem 0;
+
+        &::-webkit-details-marker {
+            display: none;
+        }
+
+        &:hover {
+            color: var(--accent-color);
+        }
+    }
+
+    > li > details[open] > summary {
+        color: var(--accent-color);
+    }
+
+.sub-menu {
+        padding-left: 1.5rem;
+        list-style: none;
+
+        li a {
+            color: var(--body-text-color);
+            &:hover {
+                color: var(--accent-color);
+            }
+        }
+        li.current a {
+            color: var(--accent-color);
+        }
+    }
+}
