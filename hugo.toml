@@ -25,16 +25,26 @@ paginate = 10
 [menu]
     [[menu.main]]
         identifier = "drama"
-        name = "ドラマ"
+        name = "ドラマレビュー"
         url = "#"
         weight = 1
-
-[[menu.main]]
-    identifier = "bambino"
-    name = "バンビ～ノ！レビュー"
-    url = "/categories/バンビ～ノ！レビュー/"
-    parent = "drama"
-    weight = 1
+    [[menu.main]]
+        identifier = "bambino"
+        name = "バンビ～ノ！レビュー"
+        url = "/categories/bambino/"
+        parent = "drama"
+        weight = 1
+    [[menu.main]]
+        identifier = "movie"
+        name = "映画レビュー"
+        url = "#"
+        weight = 2
+    [[menu.main]]
+        identifier = "batman"
+        name = "バットマンレビュー"
+        url = "/categories/batman/"
+        parent = "movie"
+        weight = 1
 
 [params.comments]
     enabled = true
