@@ -1,4 +1,4 @@
-baseURL = "https://Replaydead.github.io/"
+baseURL = "https://replaydead.github.io/"
 locale = "ja"
 title = "Bleeding Frames"
 theme = "hugo-theme-stack"
