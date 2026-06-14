@@ -4,7 +4,7 @@ draft = false
 title = 'Batman(1989)レビュー'
 +++
 
-![batman](/images/batman/batman.png "batman")
+![batman](/images/batman/batman.webp "batman")
 
 　『バットマン』とは、1939年よりDCコミックス社で連載されている、アメリカを代表するヒーロー作品の一つである。その登場人物と世界観を基に、ティム・バートン監督によって映画化されたものが1989年公開の『バットマン』である。
 
@@ -80,7 +80,7 @@ title = 'Batman(1989)レビュー'
 
 6割の犯罪率というのは嘘じゃないのだろう。当たり前のようにスリや強盗や殺人が起きている。
 
-![ゴッサムシティ](/images/batman/gotham.png "ゴッサムシティ")
+![ゴッサムシティ](/images/batman/gotham.webp "ゴッサムシティ")
 
 
 
@@ -90,7 +90,7 @@ title = 'Batman(1989)レビュー'
 
 「分け前が欲しくないのか？黙ってろ！」
 
-![志村！後ろ後ろ！](/images/batman/robbery.png "志村！後ろ後ろ！")
+![志村！後ろ後ろ！](/images/batman/robbery.webp "志村！後ろ後ろ！")
 
 
 
@@ -102,20 +102,20 @@ title = 'Batman(1989)レビュー'
 
 ゴッサムで生きる犯罪者ともなれば拳銃のひとつや2つ当然身に付けていたようで、あっけなく撃たれる蝙蝠怪人。
 
-![バットマン・完](/images/batman/damage.png "バットマン・完")
+![バットマン・完](/images/batman/damage.webp "バットマン・完")
 
 一瞬ドラキュラかと思えたが、鋼鉄のような強靭さを持つスーツを着た人間のようだった。
 
 そう犯罪者が確認するのもつかの間、起き上がり無力化される二人。
 
-![悪人面](/images/batman/closeup.png "悪人面")
+![悪人面](/images/batman/closeup.webp "悪人面")
 
 1人は蹴り飛ばされ、もう1人は先程の怪談話にあったように、ビルの屋上から突き落とされそうな状態になる。
 
 
 「助けよう、だが条件がある。皆に私のことを話せ」
 
-![「I'm Batman」](/images/batman/im_batman.png "「I'm Batman.」")
+![「I'm Batman」](/images/batman/im_batman.webp "「I'm Batman.」")
 
 
 
