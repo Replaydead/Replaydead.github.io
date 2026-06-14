@@ -29,12 +29,12 @@ paginate = 10
         url = "#"
         weight = 1
 
-    [[menu.main]]
-        identifier = "bambino"
-        name = "バンビ～ノ！レビュー"
-        url = "/posts/bambino/"
-        parent = "drama"
-        weight = 1
+[[menu.main]]
+    identifier = "bambino"
+    name = "バンビ～ノ！レビュー"
+    url = "/categories/バンビ～ノ！レビュー/"
+    parent = "drama"
+    weight = 1
 
 [params.comments]
     enabled = true
