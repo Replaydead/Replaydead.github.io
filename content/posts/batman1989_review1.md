@@ -216,8 +216,10 @@ categories = ["バットマンレビュー"]
 それにしても冒頭の人を殺すような目付きをした人間と同一人物に見られない。
 
 Before
+
 ![Before](/images/batman/closeup.webp "Before")
 After
+
 ![After](/images/batman/Bruce.webp "After")
 
 
