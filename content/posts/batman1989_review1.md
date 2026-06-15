@@ -218,6 +218,7 @@ categories = ["バットマンレビュー"]
 Before
 
 ![Before](/images/batman/closeup.webp "Before")
+
 After
 
 ![After](/images/batman/Bruce.webp "After")
