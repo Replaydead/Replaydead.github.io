@@ -47,10 +47,9 @@
 
                 {{ if $showReadingTime }}
     {{ partial "helper/icon" "clock" }}
-    <time class="article-time--reading">
-        {{ $runeCount := len (findRE "." $Page.Plain) }}
-        {{ T "article.readingTime" (math.Ceil (div (float $runeCount) 500.0)) }}
-    </time>
+<time class="article-time--reading">
+    テスト
+</time>
 {{ end }}
             </div>
         {{ end }}
