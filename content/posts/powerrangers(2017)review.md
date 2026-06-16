@@ -220,12 +220,12 @@ Go Go Power Rangers!!{{< youtube _ZeJvwuS4D0 >}}
 
  ![「マスク詐欺」](/images/powerrangers/poster2.webp "「マスク詐欺」")
 
-　だが、世界中のパワーレンジャーファンはきっと、パワーレンジャーの新章を楽しみに心待ちにしている。
- 
-頑張れ、パワーレンジャー。
+<span style="font-size: 2em; font-weight: bold;">　だが、世界中のパワーレンジャーファンはきっと、パワーレンジャーの新章を楽しみに心待ちにしている。</span>
 
-Go Go Power Rangers！
+<span style="font-size: 2em; font-weight: bold;">頑張れ、パワーレンジャー!</span>
 
-Go Go Power Rangers！
+<span style="color: red; font-size: 2em; font-weight: bold;">Go Go Power Rangers!</span>
 
-Go Go Power Rang-
+<span style="color: red; font-size: 2em; font-weight: bold;">Go Go Power Rangers!</span>
+
+<span style="color: red; font-size: 2em; font-weight: bold;">Go Go Power Rang-</span>
