@@ -67,3 +67,7 @@ disqusShortname = "bleeding-frames"
     
 [markup.goldmark.renderer]
 unsafe = true
+
+[params]
+  readingSpeed = 500
+  
