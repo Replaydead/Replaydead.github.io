@@ -1,9 +1,9 @@
 +++
 date = '2026-06-16T22:11:00+09:00'
 draft = false
-title = 'Saturday_Night_Feverレビュー'
+title = 'saturday_Night_Feverレビュー'
 comments = true
-categories = ["Saturday_Night_Fever"]
+categories = ["Saturday_Night_Feverレビュー"]
 +++
 
 フィーバーと聞くと皆様何を思い浮かべるだろうか。 
