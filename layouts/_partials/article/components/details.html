@@ -48,7 +48,8 @@
                 {{ if $showReadingTime }}
     {{ partial "helper/icon" "clock" }}
     <time class="article-time--reading">
-        {{ T "article.readingTime" (math.Ceil (div (float $Page.WordCount) 500.0)) }}
+        {{ $runeCount := len (findRE "." $Page.Plain) }}
+        {{ T "article.readingTime" (math.Ceil (div (float $runeCount) 500.0)) }}
     </time>
 {{ end }}
             </div>
