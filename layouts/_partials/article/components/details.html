@@ -28,7 +28,7 @@
         {{ end }}
     </div>
 
-    {{ {{ $showReadingTime := true }}) }}
+    {{ $showReadingTime := true }}
     {{ $showDate := not $Page.Date.IsZero }}
     {{ $showTime := or $showDate $showReadingTime }}
     {{ $showTranslations := $Page.IsTranslated }}
