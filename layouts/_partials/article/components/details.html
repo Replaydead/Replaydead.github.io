@@ -48,7 +48,7 @@
                 {{ if $showReadingTime }}
     {{ partial "helper/icon" "clock" }}
     <time class="article-time--reading">
-        {{ math.Ceil (div (float $Page.WordCount) (float 500)) }}分
+        {{ math.Ceil (div (float (len (findRE "." $Page.Plain))) (float 500)) }}分
     </time>
 {{ end }}
             </div>
