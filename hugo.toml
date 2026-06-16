@@ -49,6 +49,12 @@ paginate = 10
         url = "/categories/バットマンレビュー/"
         parent = "movie"
         weight = 1
+            [[menu.main]]
+        identifier = "クソ映画レビュー"
+        name = "クソ映画レビュー"
+        url = "/categories/クソ映画レビュー/"
+        parent = "movie"
+        weight = 1
 
 [params.comments]
     enabled = true
