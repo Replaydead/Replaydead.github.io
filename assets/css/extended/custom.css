@@ -10,3 +10,7 @@ body {
 a {
     color: #8b6914 !important;
 }
+
+.article-title {
+  text-transform: uppercase;
+}
