@@ -65,3 +65,5 @@ paginate = 10
 
 disqusShortname = "bleeding-frames"
     
+[markup.goldmark.renderer]
+unsafe = true
