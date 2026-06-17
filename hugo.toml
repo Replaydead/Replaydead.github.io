@@ -43,6 +43,7 @@ paginate = 10
         url = "/categories/仮面ライダー剣レビュー/"
         parent = "drama"
         weight = 1
+
     [[menu.main]]
         identifier = "movie"
         name = "映画レビュー"
@@ -50,6 +51,14 @@ paginate = 10
         weight = 2
         [menu.main.params]
             icon = "home"
+
+            [[menu.main]]
+        identifier = "単発映画レビュー"
+        name = "単発映画レビュー"
+        url = "/categories/単発映画レビュー/"
+        parent = "movie"
+        weight = 1
+    
     [[menu.main]]
         identifier = "batman"
         name = "バットマンレビュー"
@@ -57,9 +66,9 @@ paginate = 10
         parent = "movie"
         weight = 1
     [[menu.main]]
-        identifier = "Saturday_Night_Fever"
-        name = "Saturday_Night_Feverレビュー"
-        url = "/categories/Saturday_Night_Feverレビュー/"
+        identifier = "saturday_night_fever"
+        name = "saturday_night_feverレビュー"
+        url = "/categories/saturday_night_feverレビュー/"
         parent = "movie"
         weight = 1
             [[menu.main]]
@@ -68,6 +77,14 @@ paginate = 10
         url = "/categories/クソ映画レビュー/"
         parent = "movie"
         weight = 1
+
+    [[menu.main]]
+        identifier = "coming soon"
+        name = "工事中"
+        url = "#"
+        weight = 3
+        [menu.main.params]
+            icon = "home"
 
 [params.comments]
     enabled = true
