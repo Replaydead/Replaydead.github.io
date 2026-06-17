@@ -34,13 +34,13 @@ paginate = 10
     [[menu.main]]
         identifier = "bambino"
         name = "バンビ～ノ！レビュー"
-        url = "/categories/バンビ～ノ！レビュー/"
+        url = "/categories/bambino_review/"
         parent = "drama"
         weight = 1
     [[menu.main]]
         identifier = "blade"
         name = "仮面ライダー剣レビュー"
-        url = "/categories/仮面ライダー剣レビュー/"
+        url = "/categories/blade_review/"
         parent = "drama"
         weight = 1
 
@@ -55,32 +55,33 @@ paginate = 10
             [[menu.main]]
         identifier = "単発映画レビュー"
         name = "単発映画レビュー"
-        url = "/categories/単発映画レビュー/"
+        url = "/categories/one_time_review/"
         parent = "movie"
         weight = 1
     
     [[menu.main]]
         identifier = "batman"
         name = "バットマンレビュー"
-        url = "/categories/バットマンレビュー/"
+        url = "/categories/batman_review/"
         parent = "movie"
         weight = 1
     [[menu.main]]
         identifier = "saturday_night_fever"
         name = "saturday_night_feverレビュー"
-        url = "/categories/saturday_night_feverレビュー/"
+        url = "/categories/saturday_night_fever_review/"
         parent = "movie"
         weight = 1
             [[menu.main]]
         identifier = "クソ映画レビュー"
         name = "クソ映画レビュー"
-        url = "/categories/クソ映画レビュー/"
+        url = "/categories/fuck_review/"
         parent = "movie"
         weight = 1
 
     [[menu.main]]
         identifier = "coming soon"
         name = "工事中"
+        url = "/categories/coming_soon/"
         url = "#"
         weight = 3
         [menu.main.params]
