@@ -38,6 +38,12 @@ paginate = 10
         parent = "drama"
         weight = 1
     [[menu.main]]
+        identifier = "blade"
+        name = "仮面ライダー剣レビュー"
+        url = "/categories/仮面ライダー剣レビュー/"
+        parent = "drama"
+        weight = 1
+    [[menu.main]]
         identifier = "movie"
         name = "映画レビュー"
         url = "#"
