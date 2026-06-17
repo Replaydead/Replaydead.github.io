@@ -8,7 +8,11 @@ paginate = 10
     mainSections = ["posts"]
     defaultTheme = "dark"
     readingSpeed = 500
-
+    
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  
 [params.sidebar]
     emoji = "🎬"
     subtitle = "映画・アニメ・技術"
