@@ -52,13 +52,12 @@ paginate = 10
         [menu.main.params]
             icon = "home"
 
-            [[menu.main]]
-        identifier = "単発映画レビュー"
+        [[menu.main]]
+        identifier = "one_time_review"
         name = "単発映画レビュー"
         url = "/categories/one_time_review/"
         parent = "movie"
         weight = 1
-    
     [[menu.main]]
         identifier = "batman"
         name = "バットマンレビュー"
@@ -79,10 +78,9 @@ paginate = 10
         weight = 1
 
     [[menu.main]]
-        identifier = "coming soon"
+        identifier = "coming_soon"
         name = "工事中"
         url = "/categories/coming_soon/"
-        url = "#"
         weight = 3
         [menu.main.params]
             icon = "home"
