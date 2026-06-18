@@ -109,3 +109,8 @@ disqusShortname = "bleeding-frames"
     
 [markup.goldmark.renderer]
 unsafe = true
+
+[[params.widgets.homepage]]
+    type = "latest-articles"
+    [params.widgets.homepage.params]
+        articleCount = 10
