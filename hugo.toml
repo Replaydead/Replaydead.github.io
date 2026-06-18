@@ -112,3 +112,7 @@ unsafe = true
 
 [params.widgets]
     homepage = [{type = "archives", params = {limit = 10}}]
+
+[params.footer]
+    since = 2026
+    customText = "開設: 2026/06/09"
