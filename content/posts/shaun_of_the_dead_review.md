@@ -417,6 +417,8 @@ comments = true
 
 個人的には、まさにこの物語を端的に表現した曲になっていると思う。
 
+{{< youtube rNiUqgYbjCo >}}
+
 「Life's an illusion, love is a dream」
 
 人生は幻で、愛は夢だ。
