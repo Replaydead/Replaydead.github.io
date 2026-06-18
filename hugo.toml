@@ -76,9 +76,9 @@ enableRobotsTXT = true
         parent = "movie"
         weight = 1
             [[menu.main]]
-        identifier = "クソ映画レビュー"
+        identifier = "trash_movie"
         name = "クソ映画レビュー"
-        url = "/categories/fuck_review/"
+        url = "/categories/trash_movie_review/"
         parent = "movie"
         weight = 1
 
