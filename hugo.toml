@@ -82,10 +82,18 @@ paginate = 10
         weight = 1
 
     [[menu.main]]
+        identifier = "note"
+        name = "雑記"
+        url = "/categories/note/"
+        weight = 3
+        [menu.main.params]
+            icon = "home"
+
+    [[menu.main]]
         identifier = "coming_soon"
         name = "工事中"
         url = "/categories/coming_soon/"
-        weight = 3
+        weight = 4
         [menu.main.params]
             icon = "home"
 
