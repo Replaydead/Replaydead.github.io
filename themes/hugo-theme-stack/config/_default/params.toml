@@ -6,7 +6,7 @@ rssFullContent = true
 SortBy         = "default"
 
 [footer]
-    since      = 2026/06/09
+    since      = 2026
     customText = ""
 
 [dateFormat]
