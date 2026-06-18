@@ -3,6 +3,7 @@ locale = "ja"
 title = "Bleeding Frames"
 theme = "hugo-theme-stack"
 paginate = 10
+enableRobotsTXT = true
 
 [params]
     mainSections = ["posts"]
