@@ -111,6 +111,6 @@ disqusShortname = "bleeding-frames"
 unsafe = true
 
 [[params.widgets.homepage]]
-    type = "latest-articles"
+    type = "archives"
     [params.widgets.homepage.params]
-        articleCount = 10
+        limit = 10
