@@ -110,7 +110,5 @@ disqusShortname = "bleeding-frames"
 [markup.goldmark.renderer]
 unsafe = true
 
-[[params.widgets.homepage]]
-    type = "archives"
-    [params.widgets.homepage.params]
-        limit = 10
+[params.widgets]
+    homepage = [{type = "archives", params = {limit = 10}}]
