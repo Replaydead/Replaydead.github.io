@@ -118,10 +118,4 @@ unsafe = true
     customText = "開設: 2026/06/09"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "Sitemap"]
-
-[outputFormats.Sitemap]
-  mediaType = "text/plain"
-  baseName = "sitemap"
-  isHTML = false
-  fromTemplate = true
+  home = ["HTML", "RSS", "JSON"]
