@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: {{ "sitemap.txt" | absURL }}
+Sitemap: https://replaydead.github.io/sitemap.xml
