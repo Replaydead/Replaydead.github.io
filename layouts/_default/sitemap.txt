@@ -1,4 +1,2 @@
-{{ range .RegularPages }}{{ .Permalink }}
-{{ end }}
-{{ range .Sections }}{{ .Permalink }}
-{{ end }}
+{{ range .Site.AllPages }}{{ if and (not .Params.private) (not .Params.hidden) }}{{ .Permalink }}
+{{ end }}{{ end }}
