@@ -1,0 +1,2 @@
+{{ range .Pages }}{{ if and (not .Params.private) (not .Params.hidden) }}{{ .Permalink }}
+{{ end }}{{ end }}
