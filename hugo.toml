@@ -116,3 +116,7 @@ unsafe = true
 [params.footer]
     since = 2026
     customText = "開設: 2026/06/09"
+
+    [outputs]
+    home = ["HTML", "RSS", "JSON"]
+
