@@ -6,7 +6,7 @@ categories = ["trash_movie_review"]
 comments = true
 +++
 
- ![「Power Rangers」](/images/powerrangers/poster.webp "「Power Rangers」")
+ ![「Power Rangers」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/powerrangers/poster.webp "「Power Rangers」")
 
 　今回は映画『パワーレンジャー（2017）』のレビューだ。
  
@@ -60,7 +60,7 @@ DCなら『ジャスティス・リーグ』、マーベルなら『アベンジ
  
  一方で否定派も数多く、せっかくの機能的で美しいオリジナルスーツをわざわざデザイン変更する必要はないという意見があった。まあ、いずれにせよ見た目のことが言われていたんじゃないかと思う。
 
- ![「結構格好良い」](/images/powerrangers/red.webp "「結構格好良い」")
+ ![「結構格好良い」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/powerrangers/red.webp "「結構格好良い」")
 
 筆者としては前者の「新しい見た目にして完全オリジナル作品として作ってくれるのであれば、この作品を見ても楽しめるんじゃないか」と期待を寄せていた。そう、期待していたのだ。
 
@@ -189,7 +189,7 @@ Go Go Power Rangers!!{{< youtube _ZeJvwuS4D0 >}}
 
 駆け出し俳優を売り出したかったのか？
 
- ![「脱いだら凄いんです」](/images/powerrangers/faceoff.webp "「脱いだら凄いんです」")
+ ![「脱いだら凄いんです」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/powerrangers/faceoff.webp "「脱いだら凄いんです」")
 
 これだと本当にただのコスプレ集団にしか見えない。
 そしてまともな合体ロボ戦などもないので、5人組はこのまま『トランスフォーマー』のごとくロボットに乗って、顔面のドアップをひたすら見せつける締まらない面面のまま物語が終わってしまう。
@@ -218,7 +218,7 @@ Go Go Power Rangers!!{{< youtube _ZeJvwuS4D0 >}}
 
 そういった意味でも、この2017年版は「わざわざ作られる必要がなかった」と言えよう。
 
- ![「マスク詐欺」](/images/powerrangers/poster2.webp "「マスク詐欺」")
+ ![「マスク詐欺」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/powerrangers/poster2.webp "「マスク詐欺」")
 
 <span style="font-size: 2em; font-weight: bold;">　だが、世界中のパワーレンジャーファンはきっと、パワーレンジャーの新章を楽しみに心待ちにしている。</span>
 
