@@ -9,14 +9,14 @@ categories = ["batman_review"]
 　アクシス工場に到着したジャック御一行は金庫(?)を開けて強盗を試みるも、中身が空っぽのため裏切りに気づく。
 グリソムに買われたエクハートとその部下たちはノリノリでジャックを殺しにかかるが、すぐにゴードン署長がやってくる。
 
-![生け捕り](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/nokill.webp "生け捕り")
+![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/nokill.webp "生け捕り")
 
 おっちゃんパーティのままの格好で来たのね。
 
 そんなこんなで警察に追われながらも激しい銃撃戦を繰り広げるチンピラ一味。
 負けじと打ち続ける警察達。
 
-![Today is Friday in California](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/TodayisFridayinCalifornia.webp "Shoot!")
+![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/TodayisFridayinCalifornia.webp "Shoot!")
 
 撃つな言ったろうが。
 
@@ -27,7 +27,7 @@ categories = ["batman_review"]
 ジャックは何とか捕らえられまいと別のジャックみたく消火斧で謎のタンクを破壊し警察の追っ手を足止め。
 Exitの目印を前に舌なめずり。
 
-![エクハート](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/eckhardt.webp "エクハート")
+![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/eckhardt.webp "エクハート")
 
 
 ![先を考えろ！](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/thinkaboutafuture.webp "先を考えろ！")
@@ -40,7 +40,7 @@ Exitの目印を前に舌なめずり。
 
 ジャックは危うく、錬金術師の釜のようなおどろおどろしい化学薬品のタンクに落ちそうになる。
 
-![兄さん！](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/niisan.webp "兄さん！")
+![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/niisan.webp "兄さん！")
 
 　バットマンは悪を脅かす存在ではあるが、不殺の精神を持つダークヒーローである。
 
@@ -48,19 +48,19 @@ Exitの目印を前に舌なめずり。
 
 その精神を存分に発揮してジャックを助けようとした。
 
-![だから顔こええって](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/closeup2.webp "だから顔こええって")
+![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/closeup2.webp "だから顔こええって")
 
 かと思えば、特に説明もなく手を離し、ジャックは化学薬品のタンクにぶち込まれてしまった。
 
-![兄さああああああん！](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/niisaaaan.webp "兄さああああああん！")
+![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/niisaaaan.webp "兄さああああああん！")
 
 不殺の精神はどこに行ったんだろうか。
 
 安心してほしい。このティム・バートン版のバットマンでは結構常に殺意全開なので、今後もこんな感じで割と人が死ぬ。
 
 うっかり殺人してしまったバットマンはスモークペレットを使いその場を立ち去った。
-![「スモークペレット」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smokepellet.webp "「スモークペレット」")
-![「スモークペレット2」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smokepellet2.webp "「スモークペレット2」")
+![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smokepellet.webp "「スモークペレット」")
+![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smokepellet2.webp "「スモークペレット2」")
 
  新聞社ではジャックが酸の樽にダイビングした話が早速ノックス達の耳に届いていた。
  
@@ -70,7 +70,7 @@ Exitの目印を前に舌なめずり。
 
 「塩を取ってくださる？」
 
-![「まあまあな量塩入れるビッキー」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/dinner.webp "「まあまあな量塩入れるビッキー」")
+![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/dinner.webp "「まあまあな量塩入れるビッキー」")
 
 うーん、こんなシーン確かにあったなぁ。なんか今作はデートシーンとか印象に残らないのよね。
 
@@ -82,7 +82,7 @@ Exitの目印を前に舌なめずり。
  
  アルフレッドが先に席を外した後、二人きりのタイミングで「家族は？」と尋ねるビッキー。
 
- ![「あのアルフレッドが家族ってわけさ」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/vicki&bruce.webp "「あのアルフレッドが家族ってわけさ」")
+ ![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/vicki&bruce.webp "「あのアルフレッドが家族ってわけさ」")
 
  そこそこに盛り上がった後、キスをするまでの仲になったようだ。
  
@@ -92,12 +92,12 @@ Exitの目印を前に舌なめずり。
 
 急に蝙蝠怪人に戻るブルース。
 
- ![「何やっ天皇」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/bat.webp "「何やっ天皇」")
+ ![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/bat.webp "I'mコウモリ男")
 
 
 　さて、目論見通りジャックを葬ることに成功したボスは、風呂上がりのガウンを着て、優雅にウイスキーでも飲もうとしていた。
 
- ![「ホラー映画特有のカット」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/boss&joker.webp "「ホラー映画特有のカット」")
+ ![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/boss&joker.webp "「ホラー映画特有のカット」")
 
 そんな時、部屋のエレベーターが開いた。てっきり彼女かと思い喜んだのもつかの間、そこに現れたのは死んだはずのジャックだった。
 
@@ -111,13 +111,13 @@ Exitの目印を前に舌なめずり。
 
 そう言うボスに対して、「ジャック？ジャックは死んだよ、俺はジョーカーだ」と答える新生ジャック。
 
- ![「ハッピーかい？」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/joker2.webp "「ハッピーかい？」")
+ ![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/joker2.webp "「ハッピーかい？」")
 
 ためらいもなく銃を乱射する。
 
 化学薬品で気が上がったことで、性格はむしろ道化のように愉快になったらしい。ダンスを踊るかのような優雅な動きで、グリソムの死体を銃で痛めつけた。
 
- ![「スッキリしたぜ」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/joker3.webp "「スッキリしたぜ」")
+ ![](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/joker3.webp "「スッキリしたぜ」")
 
 
 
