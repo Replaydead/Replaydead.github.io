@@ -74,9 +74,9 @@ export default (container: HTMLElement) => {
 
         /// Add figcaption if it exists
         let caption = img.getAttribute('alt');
-        if (img.getAttribute('data-title-escaped')) {
-            caption = unescapeHtml(img.getAttribute('data-title-escaped')!);
-        }
+        //if (img.getAttribute('data-title-escaped')) {
+            //caption = unescapeHtml(img.getAttribute('data-title-escaped')!);
+        //}
         if (caption) {
             const figcaption = document.createElement('figcaption');
             figcaption.innerHTML = caption;
