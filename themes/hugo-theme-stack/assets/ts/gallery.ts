@@ -73,14 +73,11 @@ export default (container: HTMLElement) => {
         figure.appendChild(el);
 
         /// Add figcaption if it exists
-        let caption = img.getAttribute('alt') || '';
-        //if (img.getAttribute('data-title-escaped')) {
-            //caption = unescapeHtml(img.getAttribute('data-title-escaped')!);
-        //}
-        if (caption) {
-            const figcaption = document.createElement('figcaption');
-            figcaption.innerHTML = caption;
-            figure.appendChild(figcaption);
+        let caption = img.getAttribute('alt');
+if (caption) {
+    const figcaption = document.createElement('figcaption');
+    figcaption.innerHTML = caption;
+    figure.appendChild(figcaption);
         }
     }
 
