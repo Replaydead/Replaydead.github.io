@@ -6,7 +6,7 @@ comments = true
 categories = ["batman_review"]
 +++
 
-![batman](/images/batman/batman.webp "batman")
+![batman](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/batman.webp "batman")
 
 　『バットマン』とは、1939年よりDCコミックス社で連載されている、アメリカを代表するヒーロー作品の一つである。その登場人物と世界観を基に、ティム・バートン監督によって映画化されたものが1989年公開の『バットマン』である。
 
@@ -82,7 +82,7 @@ categories = ["batman_review"]
 
 6割の犯罪率というのは嘘じゃないのだろう。当たり前のようにスリや強盗や殺人が起きている。
 
-![ゴッサムシティ](/images/batman/gotham.webp "ゴッサムシティ")
+![ゴッサムシティ](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/gotham.webp "ゴッサムシティ")
 
 
 
@@ -92,7 +92,7 @@ categories = ["batman_review"]
 
 「分け前が欲しくないのか？黙ってろ！」
 
-![志村！後ろ後ろ！](/images/batman/robbery.webp "志村！後ろ後ろ！")
+![志村！後ろ後ろ！](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/robbery.webp "志村！後ろ後ろ！")
 
 
 
@@ -104,22 +104,22 @@ categories = ["batman_review"]
 
 ゴッサムで生きる犯罪者ともなれば拳銃のひとつや2つ当然身に付けていたようで、あっけなく撃たれる蝙蝠怪人。
 
-![バットマン・完](/images/batman/damage.webp "バットマン・完")
+![バットマン・完](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/damage.webp "バットマン・完")
 
 その場に倒れたものの一瞬で起き上がる蝙蝠怪人。翼を大きく広げて威嚇する姿はさながらドラキュラのようである。
 
-![ドラキュラ伯爵](/images/batman/draculla.webp "ドラキュラ伯爵")
+![ドラキュラ伯爵](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/draculla.webp "ドラキュラ伯爵")
 
 そう犯罪者が確認するのもつかの間、起き上がり際に無力化される二人。
 
-![悪人面](/images/batman/closeup.webp "悪人面")
+![悪人面](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/closeup.webp "悪人面")
 
 1人は蹴り飛ばされ、もう1人は先程の怪談話にあったように、ビルの屋上から突き落とされそうな状態になる。
 
 必死で命乞いをする相手に対し、バットマンはこう語る。
 「助けよう、だが条件がある。皆に私のことを話せ」
 
-![「I'm Batman」](/images/batman/im_batman.webp "「I'm Batman.」")
+![「I'm Batman」](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/im_batman.webp "「I'm Batman.」")
 
 
 
@@ -130,7 +130,7 @@ categories = ["batman_review"]
 
 　物語の進行の速さの中で、すぐさま悪役となるであろう男が1人現れる。ジャック・ニコルソンが演じるジャックだ。
 
- ![ジャック](/images/batman/jack.webp "ジャック")
+ ![ジャック](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/jack.webp "ジャック")
 
 ジャックなんていたかなぁと思うかもしれないが、どうやらとあるキャラクターはこの作品オリジナルの名前になっているらしい。
 
@@ -139,7 +139,7 @@ categories = ["batman_review"]
 ジャックはマフィアの中で裏ボスのような存在になっている男である。
 ボスの愛人を彼女にし、組織からはナンバーワン扱いを受けており、周囲からも恐れられている。そんな存在だ。
 
-![左：グリソム、右：ジャック](/images/batman/boss&jack.webp "左：グリソム、右：ジャック")
+![左：グリソム、右：ジャック](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/boss&jack.webp "左：グリソム、右：ジャック")
 
 しかし恐れられるような存在であっても、所詮は飼い犬。ボスの指示には従わねばならない。
 
@@ -149,7 +149,7 @@ categories = ["batman_review"]
 
 その前にジョーカーのカードを持っているのはどういうわけだ？渡された役職じゃなくてジョーカーであるべきという暗示？
 
-![ジョーカー](/images/batman/joker.webp "ジョーカー")
+![ジョーカー](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/joker.webp "ジョーカー")
 
 「あばよ」「お前の運もここまでだ」
 やはりジャックを殺す気だったようだ。どうやらジャックについている彼女・アリシアはボスの愛人だったらしい。
@@ -157,7 +157,7 @@ categories = ["batman_review"]
 
 　舞台は変わり、新聞社では「コウモリ男を探す」というゴシップネタを追い続ける男アレクサンダー・ノックスと、本作のヒロインが登場する。
 
-![ノックスとビッキー登場](/images/batman/Vicki&Knox.webp "左：ノックス、右：ビッキー")
+![ノックスとビッキー登場](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/Vicki&Knox.webp "左：ノックス、右：ビッキー")
  
  イカしたアンヨにヌードモデル、戦場カメラマンのビッキーはそのゴシックに興味があったとの事で、共同取材をする事になる。
 
@@ -168,7 +168,7 @@ categories = ["batman_review"]
  早速、ボンボンのパーティに参加したビッキー達。
 単独で調査を開始したビッキーは「すみません、ブルースウェインは？」とその辺に突っ立ってた男に尋ねる。
 
-![お前や！](/images/batman/bruce.webp "お前や！")
+![お前や！](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/bruce.webp "お前や！")
 
 あれ？この特徴的な髪型はもしかして。
 
@@ -178,7 +178,7 @@ categories = ["batman_review"]
 
 　また別行動で警察にインタビューを試みるノックス。
 
-![ゴードン署長](/images/batman/gordon.webp "ゴードン署長")
+![ゴードン署長](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/gordon.webp "ゴードン署長")
  
 ちゃっかり話しかけた相手はゴードン署長。
 ご存じの通りバットマンシリーズではバットマンおよびブルースの数少なり理解者の一人なんだが、この映画ではただの警察のお偉いさんである。
@@ -187,11 +187,11 @@ categories = ["batman_review"]
 取材を軽くあしらわれ、続いてノックスが声をかけたのは謎の黒人男性。
 なんでもコウモリ男について話していた奴らしい。
 
-![Where is Harvey?](/images/batman/dent.webp "Where is Harvey?")
+![Where is Harvey?](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/dent.webp "Where is Harvey?")
 
 あ、冒頭にちょっと出てたけどもしかしてこいつハービー・デント？！
 
-![ハービーハービーハービーちゃん](/images/batman/harvey.webp "ハービーハービーハービーちゃん")
+![ハービーハービーハービーちゃん](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/harvey.webp "ハービーハービーハービーちゃん")
 
 ハービー・デントについてはバットマンでは重要人物の一人だが、今作では忘れてもらって構わない。なんか黒人になってるし。
 
@@ -199,13 +199,13 @@ categories = ["batman_review"]
 それを見て席を変えるノックスとビッキー。
 まともに招待されていないのに勝手に甲冑やら兜やらおかれた趣味の部屋を物色している。
 
-![金持ちの変人](/images/batman/Sneaking.webp "金持ちの変人")
-![金持ちの変人2](/images/batman/Sneaking2.webp "金持ちの変人2")
+![金持ちの変人](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/Sneaking.webp "金持ちの変人")
+![金持ちの変人2](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/Sneaking2.webp "金持ちの変人2")
 
  おい後ろに立つな金持ちの変人。
  気付かない二人。ブルースもブルースでなかなか声をかけず、ようやく気付かれる事なく声をかけた。
 
-![金持ちの変人3](/images/batman/Sneaking3.webp "金持ちの変人3")
+![金持ちの変人3](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/Sneaking3.webp "金持ちの変人3")
 
  ブルース・ウェインだ。じゃないよ今更。
  アレックス(ノックス)のコウモリの記事を読んでやってきたらしい。ちなみにビッキーも同じことを言っていた。
@@ -217,11 +217,11 @@ categories = ["batman_review"]
 
 Before
 
-![Before](/images/batman/closeup.webp "Before")
+![Before](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/closeup.webp "Before")
 
 After
 
-![After](/images/batman/bruce.webp "After")
+![After](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/bruce.webp "After")
 
 
 ブルースの本性は穏やかなのか、それともバットマンは狂気を演じているのか。
