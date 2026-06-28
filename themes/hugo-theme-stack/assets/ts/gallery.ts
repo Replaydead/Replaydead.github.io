@@ -73,7 +73,7 @@ export default (container: HTMLElement) => {
         figure.appendChild(el);
 
         /// Add figcaption if it exists
-        let caption = img.getAttribute('alt');
+        let caption = img.getAttribute('alt') || '';
         //if (img.getAttribute('data-title-escaped')) {
             //caption = unescapeHtml(img.getAttribute('data-title-escaped')!);
         //}
