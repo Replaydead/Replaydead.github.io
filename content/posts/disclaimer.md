@@ -1,9 +1,8 @@
 +++
 title = '免責事項'
-date = '2026-06-29T20:14:30+09:00'
 categories = ["default"]
 draft = false
-comments = true
+comments = false
 +++
 # 免責事項
 
