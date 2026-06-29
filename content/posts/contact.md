@@ -1,9 +1,7 @@
 +++
 title = 'お問い合わせ先'
-date = '2026-06-29T20:07:37+09:00'
 categories = ["default"]
 draft = false
-comments = true
 +++
 # お問い合わせ
 
