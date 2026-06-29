@@ -1,9 +1,5 @@
 <section class="footer-menu">
-    TEST FOOTER
-
-    <br>
-
-    <a href="/contact/">お問い合わせ</a>
-    <a href="/privacy-policy/">プライバシーポリシー</a>
-    <a href="/disclaimer/">免責事項</a>
+    {{ range .Site.Menus.footer }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
 </section>
