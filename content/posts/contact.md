@@ -2,6 +2,7 @@
 title = 'お問い合わせ先'
 categories = ["default"]
 draft = false
+comments = false
 +++
 # お問い合わせ
 
