@@ -1,6 +1,5 @@
 +++
 title = 'プライバシーポリシー'
-categories = ["default"]
 draft = false
 comments = false
 +++
