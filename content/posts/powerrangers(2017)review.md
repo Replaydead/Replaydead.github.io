@@ -2,7 +2,7 @@
 date = '2026-06-16T18:39:18+09:00'
 draft = false
 title = 'パワーレンジャー(2017)レビュー'
-categories = ["trash_movie_review"]
+categories = ["trash_review"]
 comments = true
 +++
 
