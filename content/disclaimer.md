@@ -1,6 +1,5 @@
 +++
 title = '免責事項'
-categories = ["default"]
 draft = false
 comments = false
 +++
