@@ -1,9 +1,8 @@
 +++
 title = 'プライバシーポリシー'
-date = '2026-06-29T20:13:49+09:00'
 categories = ["default"]
 draft = false
-comments = true
+comments = falce
 +++
 # プライバシーポリシー
 
