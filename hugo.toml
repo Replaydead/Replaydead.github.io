@@ -70,15 +70,21 @@ enableRobotsTXT = true
         parent = "movie"
         weight = 1
     [[menu.main]]
+        identifier = "matrix"
+        name = "マトリックスレビュー"
+        url = "/categories/matrix_review/"
+        parent = "movie"
+        weight = 1
+    [[menu.main]]
         identifier = "saturday_night_fever"
         name = "saturday_night_feverレビュー"
         url = "/categories/saturday_night_fever_review/"
         parent = "movie"
         weight = 1
             [[menu.main]]
-        identifier = "trash_movie"
-        name = "クソ映画レビュー"
-        url = "/categories/trash_movie_review/"
+        identifier = "trash"
+        name = "クソレビュー"
+        url = "/categories/trash_review/"
         parent = "movie"
         weight = 1
 
