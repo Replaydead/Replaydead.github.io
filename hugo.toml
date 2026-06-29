@@ -98,17 +98,17 @@ enableRobotsTXT = true
         [menu.main.params]
             icon = "home"
 
-[[menus.footer]]
+[[menu.footer]]
 name = "お問い合わせ"
 url = "/contact/"
 weight = 1
 
-[[menus.footer]]
+[[menu.footer]]
 name = "プライバシーポリシー"
 url = "/privacy-policy/"
 weight = 2
 
-[[menus.footer]]
+[[menu.footer]]
 name = "免責事項"
 url = "/disclaimer/"
 weight = 3
