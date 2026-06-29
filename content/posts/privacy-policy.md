@@ -2,7 +2,7 @@
 title = 'プライバシーポリシー'
 categories = ["default"]
 draft = false
-comments = falce
+comments = false
 +++
 # プライバシーポリシー
 
