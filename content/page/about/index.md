@@ -1,7 +1,10 @@
 ---
 title: "プロフィール"
-menu: main
-weight: 99
+menu:
+  main:
+    weight: 999
+    params:
+      icon: user
 ---
 
 名前：Baily
