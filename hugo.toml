@@ -16,7 +16,9 @@ enableRobotsTXT = true
   
 [params.sidebar]
     emoji = "🎬"
-    subtitle = "映画・アニメ・技術"
+    subtitle = """Baily
+なんちゃって底辺エンジニア。
+映画・アニメ・技術について好き勝手書く。"""
 
 [params.article]
     math = false
