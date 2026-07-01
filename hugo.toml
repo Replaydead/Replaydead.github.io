@@ -14,11 +14,10 @@ enableRobotsTXT = true
   category = "categories"
   tag = "tags"
   
-[params.sidebar]
-    emoji = "🎬"
-    subtitle = """Baily
-なんちゃって底辺エンジニア。
-映画・アニメ・技術について好き勝手書く。"""
+[params.profile]
+name = "Baily"
+title = "なんちゃって底辺エンジニア。"
+description = "映画・アニメ・技術について好き勝手書く。"
 
 [params.article]
     math = false
