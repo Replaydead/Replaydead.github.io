@@ -1,9 +1,3 @@
-{{ with .Content }}
-<div class="article-content">
-    {{ . }}
-</div>
-{{ end }}
-
 {{ define "main" }}
     <header>
         <h3 class="section-title">
@@ -43,6 +37,12 @@
             {{ end }}
         </div>
     </header>
+
+    {{ with .Content }}
+    <div class="article-content">
+        {{ . }}
+    </div>
+    {{ end }}
 
     {{- $pages := partial "helper/pages.html" . -}}
     {{- $subsections := .Sections -}}
