@@ -15,9 +15,9 @@ enableRobotsTXT = true
   tag = "tags"
   
 [params.profile]
-name = "Baily"
+name = "Redz"
 title = "なんちゃって底辺エンジニア。"
-description = "映画・アニメ・技術について好き勝手書く。"
+description = "辛口&超個人的意見で映画やアニメなどについて語るブログ。"
 
 [params.article]
     math = false
