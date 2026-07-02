@@ -6,7 +6,14 @@ paginate = 10
 enableRobotsTXT = true
 
 [params]
-    mainSections = ["posts"]
+mainSections = [
+  "batman",
+  "matrix",
+  "bambino",
+  "blade",
+  "one_time_review",
+  "note"
+]
     defaultTheme = "dark"
     readingSpeed = 500
     
@@ -64,10 +71,10 @@ description = "辛口&超個人的意見で映画やアニメなどについて�
         url = "/categories/one_time_review/"
         parent = "movie"
         weight = 1
-    [[menu.main]]
+        [[menu.main]]
         identifier = "batman"
-        name = "バットマンレビュー"
-        url = "/categories/batman_review/"
+        name = "バットマン"
+        url = "/batman/"
         parent = "movie"
         weight = 1
     [[menu.main]]
