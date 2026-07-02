@@ -38,8 +38,12 @@
         </div>
     </header>
 
-{{ if .Content }}
-    {{ partial "article/components/content" . }}
+{{ with .Content }}
+<article class="main-article">
+    <section class="article-content">
+        {{ . }}
+    </section>
+</article>
 {{ end }}
 
     {{- $pages := partial "helper/pages.html" . -}}
