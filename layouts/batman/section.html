@@ -28,4 +28,12 @@
 article-page
 {{ end }}
 
-{{ printf "%#v" .Sections }}
+<h2>Sections</h2>
+
+<ul>
+{{ range .Sections }}
+    <li>{{ .Title }} - {{ .RelPermalink }}</li>
+{{ else }}
+    <li>Sectionsは0件です</li>
+{{ end }}
+</ul>
