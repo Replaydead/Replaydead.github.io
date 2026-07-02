@@ -38,11 +38,9 @@
         </div>
     </header>
 
-    {{ with .Content }}
-    <div class="article-content">
-        {{ . }}
-    </div>
-    {{ end }}
+{{ if .Content }}
+    {{ partial "article/components/content" . }}
+{{ end }}
 
     {{- $pages := partial "helper/pages.html" . -}}
     {{- $subsections := .Sections -}}
