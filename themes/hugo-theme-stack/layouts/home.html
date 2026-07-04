@@ -1,22 +1,5 @@
-{{ define "main" }}
-    {{- $paginator := partial "helper/paginator.html" . -}}
-
-    <section class="article-list">
-        {{ range $index, $element := $paginator.Pages }}
-            {{ partial "article-list/default" . }}
-        {{ end }}
-    </section>
-
-    {{- partial "pagination.html" . -}}
-    {{- partial "footer/footer" . -}}
-{{ end }}
-
-{{ define "right-sidebar" }}
-    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
-{{ end }}
-
-<p>記事数: {{ len .Site.RegularPages }}</p>
-
-{{ range .Site.RegularPages }}
-    <p>{{ .Title }} | {{ .Type }}</p>
-{{ end }}
+<section class="article-list">
+    {{ range .Site.RegularPages }}
+        <p>{{ .Title }}</p>
+    {{ end }}
+</section>
