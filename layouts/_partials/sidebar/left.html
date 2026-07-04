@@ -134,3 +134,56 @@
         </li>
     </ol>
 </aside>
+
+{{ if eq .Section "categories" }}
+    <ol class="menu" id="main-menu">
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+        <li>
+            <a href="{{ $taxonomy.Page.RelPermalink }}">
+                {{ $taxonomy.Page.Title }}
+            </a>
+        </li>
+        {{ end }}
+    </ol>
+{{ else }}
+    <ol class="menu" id="main-menu">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        {{ $active := or (eq $currentPage.RelPermalink .URL) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
+        {{ if .Children }}
+        <li class="menu-item-has-children{{ if $active }} current{{ end }}">
+            <details {{ if $active }}open{{ end }}>
+                <summary>
+                    {{ with .Params.Icon }}
+                        {{ partial "helper/icon" . }}
+                    {{ end }}
+                    <span>{{- .Name -}}</span>
+                </summary>
+                <ol class="menu sub-menu">
+                    {{ range .Children }}
+                    {{ $childActive := or (eq $currentPage.RelPermalink .URL) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
+                    <li {{ if $childActive }} class='current'{{ end }}>
+                        <a href='{{ .URL }}'>
+                            {{ with .Params.Icon }}
+                                {{ partial "helper/icon" . }}
+                            {{ end }}
+                            <span>{{- .Name -}}</span>
+                        </a>
+                    </li>
+                    {{ end }}
+                </ol>
+            </details>
+        </li>
+        {{ else }}
+        <li {{ if $active }} class='current'{{ end }}>
+            <a href='{{ .URL }}'>
+                {{ with .Params.Icon }}
+                    {{ partial "helper/icon" . }}
+                {{ end }}
+                <span>{{- .Name -}}</span>
+            </a>
+        </li>
+        {{ end }}
+        {{ end }}
+    </ol>
+{{ end }}
