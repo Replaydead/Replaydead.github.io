@@ -55,22 +55,13 @@
     {{ $p := . }}
 
     <ol class="menu" id="main-menu">
-
-        {{ if eq $p.Kind "section" }}
-
-            {{ range where .Site.RegularPages "Section" $p.Section }}
-                <li>
-                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                </li>
-            {{ end }}
-
-        {{ else if eq $p.Kind "taxonomy" }}
-
-            {{ range $p.Pages }}
-                <li>
-                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                </li>
-            {{ end }}
+{{ range .Site.Taxonomies.categories }}
+    <li>
+        <a href="{{ .Page.RelPermalink }}">
+            {{ .Page.Title }}
+        </a>
+    </li>
+{{ end }}
 
         {{ else }}
 
