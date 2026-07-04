@@ -24,166 +24,102 @@
         {{ end }}
 
         <div class="site-meta">
-    <h1 class="site-name">
-        <a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
-    </h1>
+            <h1 class="site-name">
+                <a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
+            </h1>
 
-    <div class="site-description">
-        <strong>名前：{{ .Site.Params.profile.name }}</strong><br>
-        {{ .Site.Params.profile.title }}<br>
-        {{ .Site.Params.profile.description }}
-    </div>
-</div>
+            <div class="site-description">
+                <strong>名前：{{ .Site.Params.profile.name }}</strong><br>
+                {{ .Site.Params.profile.title }}<br>
+                {{ .Site.Params.profile.description }}
+            </div>
+        </div>
     </header>
 
-    {{- with .Site.Menus.social -}}
+    {{ with .Site.Menus.social }}
         <ol class="menu-social">
             {{ range . }}
                 <li>
-                    
-                        href='{{ .URL }}'
+                    <a href="{{ .URL }}"
                         {{ if .Params.newTab }}target="_blank"{{ end }}
-                        {{ with .Name }}title="{{ . }}"{{ end }}
                         rel="me"
-                    >
+                        {{ with .Name }}title="{{ . }}"{{ end }}>
                         {{ $icon := default "link" .Params.Icon }}
-                        {{ with $icon }}
-                            {{ partial "helper/icon" . }}
-                        {{ end }}
+                        {{ partial "helper/icon" $icon }}
                     </a>
                 </li>
             {{ end }}
         </ol>
-    {{- end -}}
+    {{ end }}
+
+    {{ $section := .Section }}
 
     <ol class="menu" id="main-menu">
-{{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-<li>
-    <a href="{{ $taxonomy.Page.RelPermalink }}">
-        {{ $taxonomy.Page.Title }}
-    </a>
-</li>
-{{ end }}
-        
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-        {{ $active := or (eq $currentPage.RelPermalink .URL) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
-        {{ if .Children }}
-        <li class="menu-item-has-children{{ if $active }} current{{ end }}">
-            <details {{ if $active }}open{{ end }}>
-                <summary>
-                    {{ with .Params.Icon }}
-                        {{ partial "helper/icon" . }}
-                    {{ end }}
-                    <span>{{- .Name -}}</span>
-                </summary>
-                <ol class="menu sub-menu">
-                    {{ range .Children }}
-                    {{ $childActive := or (eq $currentPage.RelPermalink .URL) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
-                    <li {{ if $childActive }} class='current'{{ end }}>
-                        <a href='{{ .URL }}' {{ if .Params.newTab }}target="_blank"{{ end }}>
-                            {{ with .Params.Icon }}
-                                {{ partial "helper/icon" . }}
-                            {{ end }}
-                            <span>{{- .Name -}}</span>
-                        </a>
-                    </li>
-                    {{ end }}
-                </ol>
-            </details>
-        </li>
-        {{ else }}
-        <li {{ if $active }} class='current'{{ end }}>
-            <a href='{{ .URL }}' {{ if .Params.newTab }}target="_blank"{{ end }}>
-                {{ with .Params.Icon }}
-                    {{ partial "helper/icon" . }}
-                {{ end }}
-                <span>{{- .Name -}}</span>
-            </a>
-        </li>
-        {{ end }}
-        {{ end }}
-        <li class="menu-bottom-section">
-            <ol class="menu">
-                {{- $currentLanguageCode := .Language.Name -}}
-                {{ if hugo.IsMultilingual }}
-                    <li id="i18n-switch">
-                        {{ partial "helper/icon" "language" }}
-                        <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
-                            {{ range .Site.Home.AllTranslations }}
-                                {{ $target := . }}
-                                {{ range $.AllTranslations }}
-                                    {{ if eq .Language.Name $target.Language.Name }}
-                                        {{ $target = . }}
-                                    {{ end }}
-                                {{ end }}
-                                <option value="{{ $target.RelPermalink }}" {{ if eq $target.Language.Name $currentLanguageCode }}selected{{ end }}>{{ .Language.Label }}</option>
-                            {{ end }}
-                        </select>
-                    </li>
-                {{ end }}
 
-                {{ if .Site.Params.colorScheme.toggle }}
-                    <li id="dark-mode-toggle">
-                        {{ partial "helper/icon" "toggle-left" }}
-                        {{ partial "helper/icon" "toggle-right" }}
-                        <span>{{ T "darkMode" }}</span>
-                    </li>
-                {{ end }}
-            </ol>
-        </li>
+        {{ if $section }}
+
+            {{ range where .Site.RegularPages "Section" $section }}
+                <li>
+                    <a href="{{ .RelPermalink }}">
+                        {{ .Title }}
+                    </a>
+                </li>
+            {{ end }}
+
+        {{ else }}
+
+            {{ range .Site.Menus.main }}
+                <li class="{{ if .Children }}menu-item-has-children{{ end }}">
+                    <a href="{{ .URL }}"
+                        {{ if .Params.newTab }}target="_blank"{{ end }}>
+                        {{ with .Params.Icon }}
+                            {{ partial "helper/icon" . }}
+                        {{ end }}
+                        <span>{{ .Name }}</span>
+                    </a>
+
+                    {{ if .Children }}
+                        <ol class="menu sub-menu">
+                            {{ range .Children }}
+                                <li>
+                                    <a href="{{ .URL }}">
+                                        {{ with .Params.Icon }}
+                                            {{ partial "helper/icon" . }}
+                                        {{ end }}
+                                        <span>{{ .Name }}</span>
+                                    </a>
+                                </li>
+                            {{ end }}
+                        </ol>
+                    {{ end }}
+                </li>
+            {{ end }}
+
+        {{ end }}
+
     </ol>
+
+    <li class="menu-bottom-section">
+        <ol class="menu">
+            {{ if hugo.IsMultilingual }}
+                <li id="i18n-switch">
+                    {{ partial "helper/icon" "language" }}
+                    <select onchange="window.location.href = this.selectedOptions[0].value">
+                        {{ range .Site.Home.AllTranslations }}
+                            <option value="{{ .RelPermalink }}">{{ .Language.Label }}</option>
+                        {{ end }}
+                    </select>
+                </li>
+            {{ end }}
+
+            {{ if .Site.Params.colorScheme.toggle }}
+                <li id="dark-mode-toggle">
+                    {{ partial "helper/icon" "toggle-left" }}
+                    {{ partial "helper/icon" "toggle-right" }}
+                    <span>{{ T "darkMode" }}</span>
+                </li>
+            {{ end }}
+        </ol>
+    </li>
+
 </aside>
-
-{{ if eq .Section "categories" }}
-    <ol class="menu" id="main-menu">
-        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-        <li>
-            <a href="{{ $taxonomy.Page.RelPermalink }}">
-                {{ $taxonomy.Page.Title }}
-            </a>
-        </li>
-        {{ end }}
-    </ol>
-{{ else }}
-    <ol class="menu" id="main-menu">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-        {{ $active := or (eq $currentPage.RelPermalink .URL) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
-        {{ if .Children }}
-        <li class="menu-item-has-children{{ if $active }} current{{ end }}">
-            <details {{ if $active }}open{{ end }}>
-                <summary>
-                    {{ with .Params.Icon }}
-                        {{ partial "helper/icon" . }}
-                    {{ end }}
-                    <span>{{- .Name -}}</span>
-                </summary>
-                <ol class="menu sub-menu">
-                    {{ range .Children }}
-                    {{ $childActive := or (eq $currentPage.RelPermalink .URL) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
-                    <li {{ if $childActive }} class='current'{{ end }}>
-                        <a href='{{ .URL }}'>
-                            {{ with .Params.Icon }}
-                                {{ partial "helper/icon" . }}
-                            {{ end }}
-                            <span>{{- .Name -}}</span>
-                        </a>
-                    </li>
-                    {{ end }}
-                </ol>
-            </details>
-        </li>
-        {{ else }}
-        <li {{ if $active }} class='current'{{ end }}>
-            <a href='{{ .URL }}'>
-                {{ with .Params.Icon }}
-                    {{ partial "helper/icon" . }}
-                {{ end }}
-                <span>{{- .Name -}}</span>
-            </a>
-        </li>
-        {{ end }}
-        {{ end }}
-    </ol>
-{{ end }}
