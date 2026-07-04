@@ -6,15 +6,7 @@ paginate = 10
 enableRobotsTXT = true
 
 [params]
-mainSections = [
-  "batman",
-  "matrix",
-  "bambino",
-  "blade",
-  "one_time_review",
-  "note",
-  "posts"
-]
+mainSections = []
     defaultTheme = "dark"
     readingSpeed = 500
     
