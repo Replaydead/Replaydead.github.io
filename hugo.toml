@@ -6,7 +6,7 @@ paginate = 10
 enableRobotsTXT = true
 
 [params]
-mainSections = []
+mainSections = ["posts"]
     defaultTheme = "dark"
     readingSpeed = 500
     
