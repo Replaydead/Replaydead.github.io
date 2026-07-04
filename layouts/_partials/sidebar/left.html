@@ -52,15 +52,17 @@
         </ol>
     {{ end }}
 
-    {{ $page := . }}
+{{ $page := . }}
 
-{{ range $name, $taxonomy := $page.Site.Taxonomies.categories }}
-    <li>
-        <a href="{{ $taxonomy.Page.RelPermalink }}">
-            {{ $taxonomy.Page.Title }}
-        </a>
-    </li>
-{{ end }}
+<ol class="menu" id="main-menu">
+    {{ range $name, $taxonomy := $page.Site.Taxonomies.categories }}
+        <li>
+            <a href="{{ $taxonomy.Page.RelPermalink }}">
+                {{ $taxonomy.Page.Title }}
+            </a>
+        </li>
+    {{ end }}
+</ol>
 
             {{ range .Site.Menus.main }}
                 <li class="{{ if .Children }}menu-item-has-children{{ end }}">
