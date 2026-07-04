@@ -12,7 +12,7 @@ mainSections = [
   "bambino",
   "blade",
   "one_time_review",
-  "note"
+  "note",
   "posts"
 ]
     defaultTheme = "dark"
