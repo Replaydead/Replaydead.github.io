@@ -55,15 +55,14 @@
     {{ $page := . }}
 
     <ol class="menu" id="main-menu">
-        {{ range $name, $taxonomy := $page.Site.Taxonomies.categories }}
-            <li>
-                <a href="{{ $taxonomy.Page.RelPermalink }}">
-                    {{ $taxonomy.Page.Title }}
-                </a>
-            </li>
-        {{ end }}
-
-        {{ range .Site.Menus.main }}
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+    <li>
+        <a href="{{ $taxonomy.Page.RelPermalink }}">
+            {{ $taxonomy.Page.Title }}
+        </a>
+    </li>
+{{ end }}
+        
             <li class="{{ if .Children }}menu-item-has-children{{ end }}">
                 <a href="{{ .URL }}"
                     {{ if .Params.newTab }}target="_blank"{{ end }}>
