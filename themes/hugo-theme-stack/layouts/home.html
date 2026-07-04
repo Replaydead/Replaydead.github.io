@@ -14,3 +14,9 @@
 {{ define "right-sidebar" }}
     {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
 {{ end }}
+
+<p>記事数: {{ len .Site.RegularPages }}</p>
+
+{{ range .Site.RegularPages }}
+    <p>{{ .Title }} | {{ .Type }}</p>
+{{ end }}
