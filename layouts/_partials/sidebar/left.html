@@ -61,9 +61,7 @@
             {{ .Page.Title }}
         </a>
     </li>
-{{ end }}
-
-        {{ else }}
+</ol>
 
             {{ range .Site.Menus.main }}
                 <li class="{{ if .Children }}menu-item-has-children{{ end }}">
