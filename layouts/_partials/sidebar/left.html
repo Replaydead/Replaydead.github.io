@@ -52,17 +52,23 @@
         </ol>
     {{ end }}
 
-    {{ $section := .Section }}
+    {{ $p := . }}
 
     <ol class="menu" id="main-menu">
 
-        {{ if $section }}
+        {{ if eq $p.Kind "section" }}
 
-            {{ range where .Site.RegularPages "Section" $section }}
+            {{ range $p.Pages }}
                 <li>
-                    <a href="{{ .RelPermalink }}">
-                        {{ .Title }}
-                    </a>
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </li>
+            {{ end }}
+
+        {{ else if eq $p.Kind "taxonomy" }}
+
+            {{ range $p.Pages }}
+                <li>
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                 </li>
             {{ end }}
 
@@ -121,4 +127,5 @@
             {{ end }}
         </ol>
     </li>
+
 </aside>
