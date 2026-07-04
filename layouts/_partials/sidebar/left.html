@@ -57,6 +57,14 @@
     {{- end -}}
 
     <ol class="menu" id="main-menu">
+{{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+<li>
+    <a href="{{ $taxonomy.Page.RelPermalink }}">
+        {{ $taxonomy.Page.Title }}
+    </a>
+</li>
+{{ end }}
+        
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
         {{ $active := or (eq $currentPage.RelPermalink .URL) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
