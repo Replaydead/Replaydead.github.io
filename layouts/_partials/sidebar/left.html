@@ -58,7 +58,7 @@
 
         {{ if eq $p.Kind "section" }}
 
-            {{ range $p.Pages }}
+            {{ range where .Site.RegularPages "Section" $p.Section }}
                 <li>
                     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                 </li>
