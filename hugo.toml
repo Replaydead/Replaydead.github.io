@@ -6,8 +6,7 @@ paginate = 10
 enableRobotsTXT = true
 
 [params]
-mainSections = ["batman", "matrix", "bambino", "blade", "one_time_review", "note"]
-
+mainSections = ["posts"]
 defaultTheme = "dark"
 readingSpeed = 500
 
@@ -39,10 +38,22 @@ url = "/"
 weight = 1
 
 [[menu.main]]
+identifier = "movie"
+name = "映画レビュー"
+url = "/categories/movie/"
+weight = 2
+
+[[menu.main]]
+identifier = "drama"
+name = "ドラマレビュー"
+url = "/categories/drama/"
+weight = 3
+
+[[menu.main]]
 identifier = "note"
 name = "雑記"
 url = "/categories/note/"
-weight = 2
+weight = 4
 
 [[menu.footer]]
 name = "お問い合わせ"
