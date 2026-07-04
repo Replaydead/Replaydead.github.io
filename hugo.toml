@@ -13,6 +13,7 @@ mainSections = [
   "blade",
   "one_time_review",
   "note"
+  "posts"
 ]
     defaultTheme = "dark"
     readingSpeed = 500
