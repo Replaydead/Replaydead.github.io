@@ -1,9 +1,16 @@
-<section class="article-list">
-{{ range $paginator.Pages }}
-    <p>★ {{ .Title }}</p>
+{{ define "main" }}
+    {{- $paginator := partial "helper/paginator.html" . -}}
 
-    {{ partial "article-list/default" . }}
+    <section class="article-list">
+        {{ range $paginator.Pages }}
+            {{ partial "article-list/default" . }}
+        {{ end }}
+    </section>
 
-    <hr>
+    {{ partial "pagination.html" . }}
+    {{ partial "footer/footer" . }}
 {{ end }}
-</section>
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}
