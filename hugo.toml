@@ -1,109 +1,48 @@
 baseURL = "https://replaydead.github.io/"
-locale = "ja"
+languageCode = "ja"
 title = "Bleeding Frames"
 theme = "hugo-theme-stack"
 paginate = 10
 enableRobotsTXT = true
 
 [params]
-mainSections = ["posts"]
-    defaultTheme = "dark"
-    readingSpeed = 500
-    
+mainSections = ["batman", "matrix", "bambino", "blade", "one_time_review", "note"]
+
+defaultTheme = "dark"
+readingSpeed = 500
+
 [taxonomies]
-  category = "categories"
-  tag = "tags"
-  
+category = "categories"
+tag = "tags"
+
 [params.profile]
 name = "Redz"
 title = "なんちゃって底辺エンジニア。"
 description = "辛口&超個人的意見で映画やアニメなどについて語るブログ。"
 
 [params.article]
-    math = false
-    toc = true
-    readingTime = true
-    license.enabled = false
+math = false
+toc = true
+readingTime = true
+license.enabled = false
 
 [params.colorScheme]
-    toggle = true
-    default = "dark"
+toggle = true
+default = "dark"
 
 [menu]
-    [[menu.main]]
-        identifier = "drama"
-        name = "ドラマレビュー"
-        url = "#"
-        weight = 1
-        [menu.main.params]
-            icon = "hash"
-    [[menu.main]]
-        identifier = "bambino"
-        name = "バンビ～ノ！レビュー"
-        url = "/categories/bambino_review/"
-        parent = "drama"
-        weight = 1
-    [[menu.main]]
-        identifier = "blade"
-        name = "仮面ライダー剣レビュー"
-        url = "/categories/blade_review/"
-        parent = "drama"
-        weight = 1
 
-    [[menu.main]]
-        identifier = "movie"
-        name = "映画レビュー"
-        url = "#"
-        weight = 2
-        [menu.main.params]
-            icon = "home"
+[[menu.main]]
+identifier = "home"
+name = "ホーム"
+url = "/"
+weight = 1
 
-        [[menu.main]]
-        identifier = "one_time_review"
-        name = "単発映画レビュー"
-        url = "/categories/one_time_review/"
-        parent = "movie"
-        weight = 1
-        [[menu.main]]
-        identifier = "batman"
-        name = "バットマン"
-        url = "/batman/"
-        parent = "movie"
-        weight = 1
-    [[menu.main]]
-        identifier = "matrix"
-        name = "マトリックスレビュー"
-        url = "/categories/matrix_review/"
-        parent = "movie"
-        weight = 1
-    [[menu.main]]
-        identifier = "saturday_night_fever"
-        name = "saturday_night_feverレビュー"
-        url = "/categories/saturday_night_fever_review/"
-        parent = "movie"
-        weight = 1
-            [[menu.main]]
-        identifier = "trash"
-        name = "クソレビュー"
-        url = "/categories/trash_review/"
-        parent = "movie"
-        weight = 1
-
-    [[menu.main]]
-        identifier = "note"
-        name = "雑記"
-        url = "/categories/note/"
-        weight = 3
-        [menu.main.params]
-            icon = "home"
-
-    [[menu.main]]
-        identifier = "coming_soon"
-        name = "工事中"
-        url = "/categories/coming_soon/"
-        weight = 4
-        [menu.main.params]
-            icon = "home"
+[[menu.main]]
+identifier = "note"
+name = "雑記"
+url = "/categories/note/"
+weight = 2
 
 [[menu.footer]]
 name = "お問い合わせ"
@@ -121,28 +60,28 @@ url = "/disclaimer/"
 weight = 3
 
 [params.comments]
-    enabled = true
-    provider = "disqus"
+enabled = true
+provider = "disqus"
 
 [params.comments.disqus]
-    shortname = "bleeding-frames"
+shortname = "bleeding-frames"
 
 disqusShortname = "bleeding-frames"
-    
+
 [markup.goldmark.renderer]
 unsafe = true
 
 [markup.highlight]
-  codeFences = true
-  noClasses = false
-  style = "monokai"
+codeFences = true
+noClasses = false
+style = "monokai"
 
 [params.widgets]
-    homepage = [{type = "archives", params = {limit = 10}}]
+homepage = [{type = "archives", params = {limit = 10}}]
 
 [params.footer]
-    since = 2026
-    customText = "開設: 2026/06/09"
+since = 2026
+customText = "開設: 2026/06/09"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
