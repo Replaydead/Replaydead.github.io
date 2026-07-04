@@ -52,47 +52,44 @@
         </ol>
     {{ end }}
 
-{{ $page := . }}
+    {{ $page := . }}
 
-<ol class="menu" id="main-menu">
-    {{ range $name, $taxonomy := $page.Site.Taxonomies.categories }}
-        <li>
-            <a href="{{ $taxonomy.Page.RelPermalink }}">
-                {{ $taxonomy.Page.Title }}
-            </a>
-        </li>
-    {{ end }}
-</ol>
-
-            {{ range .Site.Menus.main }}
-                <li class="{{ if .Children }}menu-item-has-children{{ end }}">
-                    <a href="{{ .URL }}"
-                        {{ if .Params.newTab }}target="_blank"{{ end }}>
-                        {{ with .Params.Icon }}
-                            {{ partial "helper/icon" . }}
-                        {{ end }}
-                        <span>{{ .Name }}</span>
-                    </a>
-
-                    {{ if .Children }}
-                        <ol class="menu sub-menu">
-                            {{ range .Children }}
-                                <li>
-                                    <a href="{{ .URL }}">
-                                        {{ with .Params.Icon }}
-                                            {{ partial "helper/icon" . }}
-                                        {{ end }}
-                                        <span>{{ .Name }}</span>
-                                    </a>
-                                </li>
-                            {{ end }}
-                        </ol>
-                    {{ end }}
-                </li>
-            {{ end }}
-
+    <ol class="menu" id="main-menu">
+        {{ range $name, $taxonomy := $page.Site.Taxonomies.categories }}
+            <li>
+                <a href="{{ $taxonomy.Page.RelPermalink }}">
+                    {{ $taxonomy.Page.Title }}
+                </a>
+            </li>
         {{ end }}
 
+        {{ range .Site.Menus.main }}
+            <li class="{{ if .Children }}menu-item-has-children{{ end }}">
+                <a href="{{ .URL }}"
+                    {{ if .Params.newTab }}target="_blank"{{ end }}>
+                    {{ with .Params.Icon }}
+                        {{ partial "helper/icon" . }}
+                    {{ end }}
+                    <span>{{ .Name }}</span>
+                </a>
+
+                {{ if .Children }}
+                    <ol class="menu sub-menu">
+                        {{ range .Children }}
+                            <li>
+                                <a href="{{ .URL }}"
+                                    {{ if .Params.newTab }}target="_blank"{{ end }}>
+                                    {{ with .Params.Icon }}
+                                        {{ partial "helper/icon" . }}
+                                    {{ end }}
+                                    <span>{{ .Name }}</span>
+                                </a>
+                            </li>
+                        {{ end }}
+                    </ol>
+                {{ end }}
+            </li>
+        {{ end }}
     </ol>
 
     <li class="menu-bottom-section">
@@ -117,5 +114,4 @@
             {{ end }}
         </ol>
     </li>
-
 </aside>
