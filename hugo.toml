@@ -5,14 +5,14 @@ theme = "hugo-theme-stack"
 paginate = 10
 enableRobotsTXT = true
 
+[taxonomies]
+category = "categories"
+tag = "tags"
+
 [params]
 mainSections = ["posts"]
 defaultTheme = "dark"
 readingSpeed = 500
-
-[taxonomies]
-category = "categories"
-tag = "tags"
 
 [params.profile]
 name = "Redz"
