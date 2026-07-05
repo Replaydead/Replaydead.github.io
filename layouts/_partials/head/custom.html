@@ -1,2 +1,14 @@
+{{ partial "head/script.html" . }}
+
+<script>
+(function () {
+  const scheme =
+    localStorage.getItem("StackColorScheme") ||
+    "dark";
+
+  document.documentElement.setAttribute("data-scheme", scheme);
+})();
+</script>
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1981131720126937"
      crossorigin="anonymous"></script>
