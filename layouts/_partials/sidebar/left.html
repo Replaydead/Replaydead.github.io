@@ -42,8 +42,7 @@
                 <li>
                     <a href="{{ .URL }}"
                         {{ if .Params.newTab }}target="_blank"{{ end }}
-                        rel="me"
-                        {{ with .Name }}title="{{ . }}"{{ end }}>
+                        rel="me">
                         {{ $icon := default "link" .Params.Icon }}
                         {{ partial "helper/icon" $icon }}
                     </a>
@@ -52,43 +51,24 @@
         </ol>
     {{ end }}
 
-    {{ $page := . }}
-
     <ol class="menu" id="main-menu">
 
-        {{ range $name, $taxonomy := $page.Site.Taxonomies.categories }}
+        {{ range .Site.Taxonomies.categories.Alphabetical }}
             <li>
-                <a href="{{ $taxonomy.Page.RelPermalink }}">
-                    {{ $taxonomy.Page.Title }}
+                <a href="{{ .Page.RelPermalink }}">
+                    {{ .Page.Title }}
                 </a>
             </li>
         {{ end }}
 
         {{ range .Site.Menus.main }}
             <li class="{{ if .Children }}menu-item-has-children{{ end }}">
-                <a href="{{ .URL }}"
-                    {{ if .Params.newTab }}target="_blank"{{ end }}>
+                <a href="{{ .URL }}">
                     {{ with .Params.Icon }}
                         {{ partial "helper/icon" . }}
                     {{ end }}
                     <span>{{ .Name }}</span>
                 </a>
-
-                {{ if .Children }}
-                    <ol class="menu sub-menu">
-                        {{ range .Children }}
-                            <li>
-                                <a href="{{ .URL }}"
-                                    {{ if .Params.newTab }}target="_blank"{{ end }}>
-                                    {{ with .Params.Icon }}
-                                        {{ partial "helper/icon" . }}
-                                    {{ end }}
-                                    <span>{{ .Name }}</span>
-                                </a>
-                            </li>
-                        {{ end }}
-                    </ol>
-                {{ end }}
             </li>
         {{ end }}
 
