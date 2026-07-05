@@ -46,12 +46,13 @@
 </article>
 {{ end }}
 
-    {{- $pages := partial "helper/pages.html" . -}}
-    {{- $subsections := .Sections -}}
-    
-    {{- if and (eq (len $pages) (len $subsections)) (eq $pages $subsections) -}}
-        {{- $subsections = slice -}}
-    {{- end -}}
+{{ $pages := where .Pages "Type" "post" }}
+
+<section class="article-list--compact">
+    {{ range $pages }}
+        {{ partial "article-list/compact" . }}
+    {{ end }}
+</section>
 
     {{- with $subsections -}}
         <aside>
