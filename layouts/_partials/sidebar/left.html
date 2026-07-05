@@ -55,14 +55,16 @@
     {{ $page := . }}
 
     <ol class="menu" id="main-menu">
-        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-    <li>
-        <a href="{{ $taxonomy.Page.RelPermalink }}">
-            {{ $taxonomy.Page.Title }}
-        </a>
-    </li>
-{{ end }}
-        
+
+        {{ range $name, $taxonomy := $page.Site.Taxonomies.categories }}
+            <li>
+                <a href="{{ $taxonomy.Page.RelPermalink }}">
+                    {{ $taxonomy.Page.Title }}
+                </a>
+            </li>
+        {{ end }}
+
+        {{ range .Site.Menus.main }}
             <li class="{{ if .Children }}menu-item-has-children{{ end }}">
                 <a href="{{ .URL }}"
                     {{ if .Params.newTab }}target="_blank"{{ end }}>
@@ -89,6 +91,7 @@
                 {{ end }}
             </li>
         {{ end }}
+
     </ol>
 
     <li class="menu-bottom-section">
@@ -113,4 +116,5 @@
             {{ end }}
         </ol>
     </li>
+
 </aside>
