@@ -1,7 +1,7 @@
 +++
 title = 'バットラング'
-date = '2026-07-12T21:38:44+09:00'
-categories = ["15"]
+date = '2026-07-12T21:51:33+09:00'
+categories = ["ガジェット"]
 draft = false
 comments = true
 +++
@@ -77,3 +77,4 @@ comments = true
 
 ・Toyark記事(MMS712商品情報)
 　https://www.toyark.com/2023/05/25/the-flash-michael-keaton-batman-figure-by-hot-toys-502385
+
