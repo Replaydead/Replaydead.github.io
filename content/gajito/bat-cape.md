@@ -74,6 +74,7 @@ McFarlane Toysではバットグライダー名義が使用されている。
 　基本的には穴が空いてはいけないと思うのだが破れた時はどうするんだろうか
 
 　【参考文献】
+
 　• Propstore（バットマンリターンズ本編用ケープ実物ロット）https://propstore.com/product/batman-returns-1992/batmans-michael-keaton-batsuit-components/
 
 　• Toyark記事(MMS712商品情報) https://www.toyark.com/2023/05/25/the-flash-michael-keaton-batman-figure-by-hot-toys-502385
