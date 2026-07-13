@@ -75,6 +75,7 @@ comments = true
 名前のブーメラン要素を捨ててまで利便性を出そうとしているところに制作人の苦心が伺える。
 
 　【参考文献】
+ 
 　• ホットトイズMMS692 Batman 1989バットマン（２.０版)
 
 https://www.sideshow.com/collectibles/dc-comics-batman-hot-toys-911372
