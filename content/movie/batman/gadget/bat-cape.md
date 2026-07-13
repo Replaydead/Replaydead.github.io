@@ -89,7 +89,7 @@ McFarlane Toysではバットグライダー名義が使用されている。
 
 　• McFarlane Toys
  
-　https://mcfarlane.com/toys/batman-bat-glider-gl-7in/
+https://mcfarlane.com/toys/batman-bat-glider-gl-7in/
 
 　• Hot Toys「The Batman」(2022)版
  
