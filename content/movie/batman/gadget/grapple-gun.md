@@ -8,14 +8,19 @@ comments = true
 
 
 　【名称】
+ 
 ・グラップルガン
+
 ・スピアガン：バットマンリターンズ(SFC)
+
 ・グラップネルガン
 
 　【登場作品】
-　バットマン、バットマン(1989）、バットマンリターンズ、ダークナイト、ザフラッシュ(2023)、バットマン(SFC)、ジャスティスリーグ(SFC)、インジャスティス
+
+ バットマン、バットマン(1989）、バットマンリターンズ、ダークナイト、ザフラッシュ(2023)、バットマン(SFC)、ジャスティスリーグ(SFC)、インジャスティス
 
 　【解説】
+ 
 銃火器の見た目をした非殺傷性のガジェット。
 
 トリガーを引くと中からワイヤーが飛び出し、先端に付いた鉤で対象を引っ掛ける事ができる。
@@ -61,6 +66,7 @@ SFCのゲーム版でも同様の使い方が出来る。
 「バットクロー・ディスアーム」にアップグレード可能。
 
 　【個人的解説】
+ 
 筆者の思うバットマン三種の神器の1つ。
 
 使用用途は、多岐にわたり飛行能力のないバットマンの移動を支える重要なガジェットになっている。
@@ -94,10 +100,13 @@ SFCのゲーム版でも同様の使い方が出来る。
 
 　【参考文献】
 　•  Arkham Knight 日本語マニュアル
+ 
 　https://wwws.warnerbros.co.jp/batmanarkham/arkhamknight/img/pdf/PLJM84016_emanual.pdf?utm_source=chatgpt.com
 
 　•Royal Armouries Museum Shop（英国の公式武器博物館）：ダークナイト三部作用レプリカ
+ 
 　https://shop.royalarmouries.org/products/the-grapnel-gun-batman-the-dark-night
 
 　• Hot Toys「The Flash」Blue & Grey Suit版フィギュア（2025年発表）
+ 
 　https://www.toyark.com/2025/11/24/batman-blue-and-grey-suit-hot-toys-exclusive-figure-577706
