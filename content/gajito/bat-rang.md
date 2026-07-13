@@ -49,7 +49,6 @@ comments = true
 アーカムシリーズではオーソドックスなブーメラン形式の他、マルチ・バットラング、リモートコントロール・バットラング、リバース・バットラングなどの派生ガジェットが登場。
 
 　【個人的評価】
-
 筆者が思うバットマン3種の神器の1つ。
 
 初登場が1939年の原作コミックからであり、派生したガジェットを含めれば、ほぼすべての作品で登場し使用されているガジェットだと思われる。
@@ -75,10 +74,8 @@ comments = true
 名前のブーメラン要素を捨ててまで利便性を出そうとしているところに制作人の苦心が伺える。
 
 　【参考文献】
-
 　• ホットトイズMMS692 Batman 1989バットマン（２.０版)
-　https://www.sideshow.com/collectibles/dc-comics-batman-hot-toys-911372
+https://www.sideshow.com/collectibles/dc-comics-batman-hot-toys-911372
 
 ・Toyark記事(MMS712商品情報)
-　https://www.toyark.com/2023/05/25/the-flash-michael-keaton-batman-figure-by-hot-toys-502385
-
+https://www.toyark.com/2023/05/25/the-flash-michael-keaton-batman-figure-by-hot-toys-502385
