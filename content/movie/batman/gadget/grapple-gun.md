@@ -99,14 +99,15 @@ SFCのゲーム版でも同様の使い方が出来る。
 バットマンの主戦力という意味でも頼もしいガジェットだ。
 
 　【参考文献】
+ 
 　•  Arkham Knight 日本語マニュアル
  
-　https://wwws.warnerbros.co.jp/batmanarkham/arkhamknight/img/pdf/PLJM84016_emanual.pdf?utm_source=chatgpt.com
+https://wwws.warnerbros.co.jp/batmanarkham/arkhamknight/img/pdf/PLJM84016_emanual.pdf?utm_source=chatgpt.com
 
 　•Royal Armouries Museum Shop（英国の公式武器博物館）：ダークナイト三部作用レプリカ
  
-　https://shop.royalarmouries.org/products/the-grapnel-gun-batman-the-dark-night
+https://shop.royalarmouries.org/products/the-grapnel-gun-batman-the-dark-night
 
 　• Hot Toys「The Flash」Blue & Grey Suit版フィギュア（2025年発表）
  
-　https://www.toyark.com/2025/11/24/batman-blue-and-grey-suit-hot-toys-exclusive-figure-577706
+https://www.toyark.com/2025/11/24/batman-blue-and-grey-suit-hot-toys-exclusive-figure-577706
