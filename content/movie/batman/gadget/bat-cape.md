@@ -8,12 +8,19 @@ comments = true
 
 
 　【名称】
-　バットケープ、バットグライダー、ウィングスーツ
+ 
+　・バットケープ
+ 
+ ・バットグライダー
+ 
+ ・ウィングスーツ
 
 　【登場作品】
+ 
 　バットマン、バットマンリターンズ、ダークナイト、ザフラッシュ (2023)、バットマン(SFC)、ジャスティスリーグ(MD)、バットマンフォーエバー(各種ゲーム作品)
 
 　【解説】
+ 
 背中のマントに引っ掛けるようなグライダー。
 
 ザフラッシュ2023のフィギュアではバットケープという名称が用いられているが、作品によってはそもそも名称が不明。
@@ -37,6 +44,7 @@ Bob Ringwoodのデザイン画をもとにSteve WangとJose Fernandezが手が�
 ジャスティスリーグ（MD）ではコマンド624Pで「回りながらマントで攻撃」というそのまんまな名称のコマンド技として登場。
 
 　【個人的解説】
+ 
 　筆者の思うバットマン3種の神器の1つ(バットラング、グラップルガン、バットケープ）
 
 グラップルガンと同じくバットマンがコウモリを象徴とするヒーローであるための重要なファクターとなっている。
@@ -70,11 +78,19 @@ McFarlane Toysではバットグライダー名義が使用されている。
 　基本的には穴が空いてはいけないと思うのだが破れた時はどうするんだろうか
 
 　【参考文献】
-　• Propstore（バットマンリターンズ本編用ケープ実物ロット）https://propstore.com/product/batman-returns-1992/batmans-michael-keaton-batsuit-components/
+ 
+　• Propstore（バットマンリターンズ本編用ケープ実物ロット）
+ 
+ https://propstore.com/product/batman-returns-1992/batmans-michael-keaton-batsuit-components/
 
-　• Toyark記事(MMS712商品情報) https://www.toyark.com/2023/05/25/the-flash-michael-keaton-batman-figure-by-hot-toys-502385
+　• Toyark記事(MMS712商品情報) 
+ 
+ https://www.toyark.com/2023/05/25/the-flash-michael-keaton-batman-figure-by-hot-toys-502385
 
 　• McFarlane Toys
+ 
 　https://mcfarlane.com/toys/batman-bat-glider-gl-7in/
 
-　• Hot Toys「The Batman」(2022)版https://www.sideshow.com/collectibles/dc-comics-batman-and-bat-signal-hot-toys-910596
+　• Hot Toys「The Batman」(2022)版
+ 
+ https://www.sideshow.com/collectibles/dc-comics-batman-and-bat-signal-hot-toys-910596
