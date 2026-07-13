@@ -74,17 +74,17 @@ DCショップでも「Batman（1989）Smoke Capsules」として販売されて
 
 　•DC.com「BATMAN,A HISTORY OF HEROICS：THE BEGINNING」
  
-　https://www.dc.com/blog/2019/03/19/batman-a-history-of-heroics-the-beginning
+https://www.dc.com/blog/2019/03/19/batman-a-history-of-heroics-the-beginning
 
 　•Prop Gallery「Batman Smoke Capsule」
  
-　https://www.thepropgallery.com/smoke-capsule
+https://www.thepropgallery.com/smoke-capsule
 
 　• DC SHOP「Batman（1989）Smoke Capsules」
  
-　https://shop.dc.com/products/batman-1989-smoke-capsules
+https://shop.dc.com/products/batman-1989-smoke-capsules
 
 　• ホットトイズMMS692 Batman 1989バットマン（２.０版)
  
-　https://www.sideshow.com/collectibles/dc-comics-batman-hot-toys-911372
+https://www.sideshow.com/collectibles/dc-comics-batman-hot-toys-911372
 
