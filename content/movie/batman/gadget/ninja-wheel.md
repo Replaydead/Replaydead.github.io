@@ -47,6 +47,7 @@ comments = true
 しかし少なくとも3回目の使用時はジョーカーに向かってディックが発砲したのを止めるために使用しているため、あくまで無力化のための毒を血中に入れるために皮膚を切れる程度の切れ味を持たせているのだろう。
 
 【参考文献】
+
 ・Toyark記事(MMS712商品情報)
 
 https://www.toyark.com/2023/05/25/the-flash-michael-keaton-batman-figure-by-hot-toys-502385
