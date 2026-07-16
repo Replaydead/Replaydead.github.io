@@ -88,6 +88,9 @@ disqusShortname = "bleeding-frames"
 [markup.goldmark.renderer]
 unsafe = true
 
+[markup.goldmark.extensions]
+  footnote = true
+
 [markup.highlight]
 codeFences = true
 noClasses = false
