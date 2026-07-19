@@ -1,11 +1,13 @@
 +++
 title = 'グラップルガン'
-date = '2026-07-19T16:14:23+09:00'
+date = '2026-07-19T23:03:23+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
 +++
 
+
+![image](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/grapplegun.webp)
 
 【名称】
 
