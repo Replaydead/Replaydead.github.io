@@ -1,6 +1,6 @@
 +++
 title = 'グラップルガン'
-date = '2026-07-19T23:03:23+09:00'
+date = '2026-07-19T23:22:43+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -117,15 +117,18 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 【参考文献】
 
-【参考文献】
 [^1]: Hot Toys「The Flash」Blue & Grey Suit版フィギュア（2025年発表）
+
 https://www.toyark.com/2025/11/24/batman-blue-and-grey-suit-hot-toys-exclusive-figure-577706
 
 [^2]: Sam Hamm, Warren Skaaren, Batman (Fifth Draft, October 6, 1988)
+
 https://indiegroundfilms.wordpress.com/wp-content/uploads/2014/01/batman-oct-5-88-5th.pdf
 
 [^3]: Royal Armouries Museum Shop（英国の公式武器博物館）：ダークナイト三部作用レプリカ
+
 https://shop.royalarmouries.org/products/the-grapnel-gun-batman-the-dark-night
 
 [^4]: Arkham Knight 日本語マニュアル
+
 https://wwws.warnerbros.co.jp/batmanarkham/arkhamknight/img/pdf/PLJM84016_emanual.pdf
