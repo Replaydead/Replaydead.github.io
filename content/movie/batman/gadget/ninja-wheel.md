@@ -1,6 +1,6 @@
 +++
 title = '忍者ホイール'
-date = '2026-07-20T20:05:01+09:00'
+date = '2026-07-20T20:33:47+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -16,7 +16,9 @@ comments = true
 バットマン（1989）では実際には使用されなかったが、映画上映前に公開されたTVスペシャル「Batman: The Making of a Hero」にて18分頃に登場。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/gadget/upload_3720672926853349330.webp" style="max-width:300px; width:100%;">
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/1989_allgadget.webp" style="max-width:300px; width:100%;">
+
 
 ※見えにくいがスティールガントレットの左右
 
