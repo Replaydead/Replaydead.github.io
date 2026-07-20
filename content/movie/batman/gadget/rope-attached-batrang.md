@@ -1,10 +1,14 @@
 +++
 title = 'ロープ付きバットラング'
-date = '2026-07-20T17:48:08+09:00'
+date = '2026-07-20T20:35:34+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
 +++
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/rope_batrang.webp" style="max-width:300px; width:100%;">
+
 
 
 ### 【名称】
@@ -31,7 +35,7 @@ comments = true
 
 ### 【個人的評価】
 
-脚本の時点ではグラップルガンは存在せず、リール機能はこのガジェットが想定されていたのが伺える。
+　脚本の時点ではグラップルガンは存在せず、リール機能はこのガジェットが想定されていたのが伺える。
 
 グラップルガンの解説でも書いた通り、ヒーロー活動をする上でグラップルガンはもはや欠かせぬガジェットとなっている。
 
