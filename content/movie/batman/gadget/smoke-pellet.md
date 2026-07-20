@@ -7,7 +7,7 @@ comments = true
 +++
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/gadget/smoke_capsule.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smoke_capsule.webp" style="max-width:300px; width:100%;">
 
 
 ### 【名称】
