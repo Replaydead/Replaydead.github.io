@@ -1,6 +1,6 @@
 +++
 title = 'ラインランチャー'
-date = '2026-07-20T20:36:48+09:00'
+date = '2026-07-20T21:33:12+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -18,7 +18,9 @@ comments = true
 
 •ライン発射装置付きガントレット[^3]
 
-・gauntlet with line launcher[^4]
+・Gauntlet with line launcher[^4]
+
+・Grapple[^5]
 
 ### 【登場作品】
 
@@ -52,7 +54,13 @@ comments = true
 
 [バットマンリターンズでは]
 
-　終盤シュレックとセリーナの元に駆けつける際に使用。
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/returns/grapple.webp" style="max-width:300px; width:100%;">
+
+
+　終盤シュレックとセリーナの元に駆けつける際に類似したガジェットを使用。
+
+1991年8月時点の脚本では単純に「Grapple」と命名されていた。
 
 ［アーカムシリーズでは］
 
@@ -97,3 +105,6 @@ https://www.sideshow.com/collectibles/dc-comics-batman-hot-toys-911372
 
 [^4]: Super Hot Toys「BATMAN（1989）BATMAN1/6SCALE FIGURE（DELUXE VERSION）」
 https://www.superhottoys.com/products/hot-toys-mms693-batman-1989-batman-1-6-scale-figure-deluxe-version
+
+[^5]: BATMAN RETURNS Daniel Waters with revisions by Wesley Strick August 1, 1991
+https://www.dailyscript.com/scripts/batman-returns_shooting.html
