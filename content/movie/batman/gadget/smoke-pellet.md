@@ -1,6 +1,6 @@
 +++
 title = 'スモークペレット'
-date = '2026-07-20T14:01:31+09:00'
+date = '2026-07-20T16:00:38+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -69,12 +69,20 @@ DCショップでも「Batman（1989）Smoke Capsules」として販売されて
 
 ###コマンド
 スーパーファミコン版：→↘↓A[^3]
+※ただし実際のゲーム内では→↘↓B
 
 メガドライブ版：→↘↓B[^4]
 
-グラフィックは蝙蝠の形をしたカプセルに緑色の液体が入っているように見える。
+選択画面でのグラフィックは蝙蝠の形をしたカプセルに緑色の液体が入っているように見える。
 
-![image](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/smoke_pellet_sfc.webp)
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/smoke_pellet_sfc.webp" style="max-width:300px; width:100%;">
+
+使用感としてはコマンドが出づらく、折角出してもすぐに煙が消えてしまうためあまり有効な使い方が出来ない。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/gadget/smoke_pellet_sfc2.webp" style="max-width:300px; width:100%;">
+
 
 また同作では同一グラフィックの色違いでエレクトリックペレットというガジェットも登場している。
 
