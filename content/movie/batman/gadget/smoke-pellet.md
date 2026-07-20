@@ -1,67 +1,91 @@
 +++
 title = 'スモークペレット'
-date = '2026-07-13T16:35:41+09:00'
+date = '2026-07-20T14:01:31+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
 +++
 
 
-　【名称】
+### 【名称】
 
-・スモークペレット
+・スモークペレット[^1]
 
 ・スモークカプセル
 
-・煙カプセル
+・煙カプセル[^2]
 
-　【登場作品】
+・煙幕弾[^3][^4]
 
-　バットマン、バットマン（1989）、バットマンフォーエバー(各種ゲーム)、バットマンアーカムシリーズ
+### 【登場作品】
 
-　【解説】
+・バットマン(Detective Comics #29～)[^5]
 
-薬品の入った試験管やカプセル、グレネードを投げつけ、煙幕のように煙を発生させ、敵の視界を奪うガジェット。
+・バットマン（1989）
 
-1939年7月の『Detective Comics #29』でユーティリティベルトと共に初登場。
+・バットマンフォーエヴァー(各種ゲーム)
+
+・バットマンアーカムシリーズ
+
+### 【解説】
+
+　薬品の入った試験管やカプセル、グレネードを投げつけ、煙幕のように煙を発生させ、敵の視界を奪うガジェット。
+
+1939年7月の『Detective Comics #29』でユーティリティベルトと共に初登場[^5]
 
 初期はガスを封入したガラス製ペレットとして描写され、敵の視界を奪う・動きを制限する用途で使用された。
 
-バットマン（1989）ではアクシス工場にて警察からの追跡を逃れるために使用。
+[バットマン（1989）では]
+
+　アクシス工場にて警察からの追跡を逃れるために使用。
 
 試験管を地面に叩きつけ煙を発生させた状態で、天井にグラップリングガンで逃走するように使用した。
 
-1986年10月当時の脚本では「TWO TINY CAPSULES」と表現されており、小さなカプセルとして扱われている。
+![image](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smokepellet.webp)
+
+![image](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smokepellet2.webp)
+
+　1986年10月当時の脚本では「TWO TINY CAPSULES」と表現されており、小さなカプセルとして扱われている[^1]
 
 また「BATMAN lobs a SMOKE PELLET」とも記されているため、89年時点でスモークペレット名義だった事が分かる。
 
 更には「フリューゲルハイム」から逃げた際にジョーカー達の追跡を逃れるために使用している。
 
-Prop Galleryでも「Batman Smoke Capsule」として販売されている。
+Prop Galleryでも「Batman Smoke Capsule」として販売されている[^6]
 
 サイト内では「特殊効果部門によって金属とガラスで製造されており、中身は粉末」と記載されている。
 
 カプセルの長さは約1.5インチ。
 
-DCショップでも「Batman（1989）Smoke Capsules」として販売されている。
+DCショップでも「Batman（1989）Smoke Capsules」として販売されている[^7]
 
 液体の色は青色。
 
-ホットトイズMMS692 Batman 1989バットマン（２.０版)では煙カプセル名義となっている。
+[バットマンフォーエヴァー各種ゲーム作品では]
 
-バットマンフォーエバー各種ゲーム作品では、持ち込み式のガジェットの1つとして登場。
+　持ち込み式のガジェットの1つとして登場。
 
-コマンドは632A。
+初期から使用可能であり、デフォルトで設定されている。
+
+###コマンド
+スーパーファミコン版：→↘↓A[^3]
+
+メガドライブ版：→↘↓B[^4]
 
 グラフィックは蝙蝠の形をしたカプセルに緑色の液体が入っているように見える。
 
+![image](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/smoke_pellet_sfc.webp)
+
 また同作では同一グラフィックの色違いでエレクトリックペレットというガジェットも登場している。
 
-バットマンアーカムシリーズでは手榴弾のようなグレネード形式で登場している。
+[バットマンアーカムシリーズでは]
 
-　【個人的解説】
+　手榴弾のようなグレネード形式で登場している。
 
-ユーティリティベルトと共にバットラングより早くに登場した古参ガジェット。
+### 【個人的解説】
+
+　ユーティリティベルトと共にバットラングより早くに登場した古参ガジェット。
+
 逃走又は戦闘においても汎用性の高いガジェットのように思われるが、映画作品では少なくとも必死の見た中では、戦闘中に使用している描写はない。
 
 多対一になることの多いバットマンには、相手の視界を奪うと言うのは非常に有用に思われるが、その役割は超音波装置で蝙蝠の大群を呼び出すことでも代用できるため、このスモークペレットは不要なのだろうか。
@@ -70,21 +94,25 @@ DCショップでも「Batman（1989）Smoke Capsules」として販売されて
 
 ガラス製のため中身が液体であれ粉末であれ銃撃を受けると思わぬタイミングで誤爆する可能性も考えられる。
 
-　【参考文献】
+### 【参考文献】
 
-　•DC.com「BATMAN,A HISTORY OF HEROICS：THE BEGINNING」
- 
-https://www.dc.com/blog/2019/03/19/batman-a-history-of-heroics-the-beginning
+[^1]: Sam Hamm, Batman (First Draft, October 20, 1986)
+https://www.dailyscript.com/scripts/batman_early.html
 
-　•Prop Gallery「Batman Smoke Capsule」
- 
-https://www.thepropgallery.com/smoke-capsule
-
-　• DC SHOP「Batman（1989）Smoke Capsules」
- 
-https://shop.dc.com/products/batman-1989-smoke-capsules
-
-　• ホットトイズMMS692 Batman 1989バットマン（２.０版)
- 
+[^2]: ホットトイズMMS692 Batman 1989バットマン（２.０版)
 https://www.sideshow.com/collectibles/dc-comics-batman-hot-toys-911372
 
+[^3]: バットマンフォーエヴァー（スーパーファミコン）取扱説明書
+9頁
+
+[^4]: バットマンフォーエヴァー（メガドライブ）取扱説明書
+8頁
+
+[^5]: DC.com「BATMAN,A HISTORY OF HEROICS：THE BEGINNING」
+https://www.dc.com/blog/2019/03/19/batman-a-history-of-heroics-the-beginning
+
+[^6]: Prop Gallery「Batman Smoke Capsule」
+https://www.thepropgallery.com/smoke-capsule
+
+[^7]: DC SHOP「Batman（1989）Smoke Capsules」
+https://shop.dc.com/products/batman-1989-smoke-capsules
