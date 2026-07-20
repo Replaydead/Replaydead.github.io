@@ -1,13 +1,14 @@
 +++
 title = 'ソニックパルス球'
-date = '2026-07-20T14:05:02+09:00'
+date = '2026-07-20T14:25:27+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
 +++
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/sonic_pulseGlobe.webp" style="max-width:400px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/sonic_pulseGlobe.webp" style="max-width:300px; width:100%;">
+
 
 
 ### 【名称】
@@ -28,6 +29,10 @@ comments = true
 放物線を描くように青いグレネードを投げつけ、ヒットした相手を一定時間気絶状態にする。
 
 爆発時のエフェクトは、青い蝙蝠型。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/sonic_pulseGrobe_sfc.webp" style="max-width:300px; width:100%;">
+
 
 ステージ開始前の選択時のアイコンは上記画像の物が表示されるが、説明書では何故かバットモーフのアイコンと入れ替わっている。
 
