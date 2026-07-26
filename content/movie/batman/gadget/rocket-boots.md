@@ -1,29 +1,34 @@
 +++
-title = 'ロケット•ブーツ'
-date = '2026-07-26T15:21:30+09:00'
+title = 'ロケット・ブーツ'
+date = '2026-07-26T15:29:12+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
 +++
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/rocket_boots.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/rocket_boots_movie.webp">
 
 
 ### 【名称】
-•Rocket boots[^1]
-•ロケット•ブーツ[^2][^3]
+・Rocket boots[^1]
+
+・ロケット・ブーツ[^2][^3]
 
 ### 【登場作品】
-•バットマンフォーエヴァー
-•バットマンフォーエヴァー（スーパーファミコン）
-• バットマンフォーエヴァー（メガドライブ）
-• バットマンフォーエヴァー（ゲームボーイ）
+・バットマンフォーエヴァー
+
+・バットマンフォーエヴァー（スーパーファミコン）
+
+・ バットマンフォーエヴァー（メガドライブ）
+
+・ バットマンフォーエヴァー（ゲームボーイ）
 
 ### 【解説】
 　バットマンフォーエヴァーでの通常装備のブーツ。
 
 映画版では終盤天井が下がってくるトラップに対して使用。
+
 ユーティリティベルトの右側についているボタンを押すと作動。
 
 壁に足をつけ、ブーツの推進機能を作動させることで、天井の落下速度を緩めるのに用いた。
@@ -31,7 +36,7 @@ comments = true
 劇中での正式名称は不明。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/rocket_boots_movie.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/rocket_boots.webp" style="max-width:300px; width:100%;">
 
 
 ゲーム版ではブループリント(設計図)を集めることで作成できる隠しガジェットになっている。
