@@ -1,6 +1,6 @@
 +++
-title = 'アセチレン•トーチ'
-date = '2026-07-27T20:10:44+09:00'
+title = 'アセチレン・トーチ'
+date = '2026-07-27T20:18:00+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -25,7 +25,7 @@ comments = true
 ユーティリティ・ベルトの収納部に格納されている。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/bat_cuffs_movie.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/bat_cuffs_movie.webp">
 
 
 サイズとしては、バットカフスやバットラングとほぼ同サイズなのが、開幕のシーンから伺える。
@@ -37,7 +37,7 @@ comments = true
 ヘリと金庫の接合されている鎖の連結部を焼き切ることでヘリと金庫を分離した。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/acetylene_torch.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/acetylene_torch.webp">
 
 
 [ザ・フラッシュでは]
