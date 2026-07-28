@@ -1,6 +1,6 @@
 +++
 title = 'ソニックパルス球'
-date = '2026-07-28T12:08:02+09:00'
+date = '2026-07-28T12:30:07+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -39,10 +39,11 @@ SFC版の爆発時のエフェクトは、青い蝙蝠型。
 
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/sonic_pulseGrobe_sfc.webp" style="max-width:300px; width:100%;">
 
-MD版の爆発時のエフェクトは、緑色の蝙蝠型になっており、SFC版よりも上の方に投げた後1回バウンドするため飛距離が長い。
+MD版の爆発時のエフェクトは、緑色の蝙蝠型。
+上の方に投げた後1回バウンドするため、SFC版よりも飛距離が長い。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/gadget/upload_15227822856058513603.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/upload_15227822856058513603.webp" style="max-width:300px; width:100%;">
 
 
 ステージ開始前の選択時のアイコンは上記画像の物が表示されるが、説明書では何故かバットモーフのアイコンと入れ替わっている。
