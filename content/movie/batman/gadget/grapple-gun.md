@@ -1,6 +1,6 @@
 +++
 title = 'グラップルガン'
-date = '2026-07-28T07:55:41+09:00'
+date = '2026-07-30T11:57:14+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -18,6 +18,8 @@ comments = true
 ・グラップネルガン[^3]
 
 ・グラップネル[^4]
+
+・グラップリングフック：インジャスティス
 
 ### 【登場作品】
 
@@ -43,9 +45,9 @@ comments = true
 
 ・バットマンフォーエバー（各種ゲーム作品）
 
-・インジャスティス
-
 ・アーカムシリーズ
+
+・インジャスティス
 
 ### 【解説】
 
@@ -86,7 +88,17 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 またスーパーマンの敵対勢力である大型モンスターに対して、背中を取る際にも使用している。
 
 [バットマンビギンズでは]
-作中の名称は不明だが、レプリカ品では「The Grapnel Gun」名義が使用されている。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/grapplegun.webp" style="width:100%;">
+
+
+　終盤、ラズ・グールの部下達との集団戦にて使用。
+相手を引き寄せるためにフックを打ち出そうとしたが、後ろから別の敵によって地面に叩き落とされた。
+
+　その後暴走する列車を止めるために列車に向かって発射し、ラズ・グールの元に追い付いた。
+
+作中の名称は不明だが、レプリカ品では「The Grapnel Gun」名義が使用されている[^3]
 
 [バットマンフォーエバーでは]
 　1989、リターンズに続いて使用。
@@ -101,13 +113,41 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 コマンドはセレクトボタン。
 
-ジャスティスリーグ(SFC)では上空に向かって放ち移動した後、斜め下に向かって急行キックする攻撃技として使用。
+［ジャスティスリーグ(SFC)では］
 
-アーカムシリーズではグラップネルガン名義で登場。
+　上空に向かって放ち移動した後、斜め下に向かって急行キックする攻撃技として使用。
+
+［アーカムシリーズでは］
+
+　グラップネルガン名義で登場。
 
 専用のかぎ爪状のアタッチメントは「バットクロー」と命名されている。
 
 「バットクロー・ディスアーム」にアップグレード可能。
+
+[インジャスティスでは」
+
+「グラップル・ランジ」と「アンチエアー・グラップル」というコマンド技が登場している。
+
+###コマンド
+・グラップル・ランジ：↓→L
+
+・アンチエアー・グラップル：↓←L
+
+###ゲーム内説明
+グラップル・ランジ：「バットマンは長距離グラップリングフックを発射し、相手に向かって引き寄せながら、強力な飛び蹴りを繰り出す。」
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/grapple_range.webp" style="max-width:300px; width:100%;">
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/grapple_range2.webp" style="max-width:300px; width:100%;">
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/grapple_range3.webp" style="max-width:300px; width:100%;">
+
+アンチエアー・グラップル：「バットマンは空中にいる敵を捕らえるため、グラップリングフックを斜め上方向に発射する。
+
+成功すれば、バットマンは素早く相手を頭上に持ち上げ、地面に叩きつける。」
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/anti_air_grapple.webp" style="max-width:300px; width:100%;">
 
 ### 【個人的解説】
 
