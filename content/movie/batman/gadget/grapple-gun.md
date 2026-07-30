@@ -1,6 +1,6 @@
 +++
 title = 'グラップルガン'
-date = '2026-07-30T11:57:14+09:00'
+date = '2026-07-30T22:01:17+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -29,7 +29,7 @@ comments = true
 
 ・バットマンリターンズ
 
-・バットマンフォーエバー
+・バットマンフォーエヴァー
 
 ・バットマンビギンズ
 
@@ -43,7 +43,7 @@ comments = true
 
 ・バットマンリターンズ（スーパーファミコン）
 
-・バットマンフォーエバー（各種ゲーム作品）
+・バットマンフォーエヴァー（各種ゲーム作品）
 
 ・アーカムシリーズ
 
@@ -75,15 +75,15 @@ comments = true
 
 [バットマンリターンズでは]
 
-　ピエロにとらわれたセリーナを救出する際に使用。
+　ピエロに捕らわれたセリーナを救出する際に使用。
 
 ピエロの背後にあるレンガへフックを引っ掛け、ワイヤーを引く事でレンガを落下させて気絶させた。
 
 SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に向かって移動する際に使用できる。
 
-[ザフラッシュ (2023)では]
+[ザ・フラッシュ (2023)では]
 
-バットマン(1989）のオマージュとして、バリー(ザフラッシュ)を片手に上空に移動する際使用。
+バットマン(1989）のオマージュとして、バリー(ザ・フラッシュ)を片手に上空に移動する際使用。
 
 またスーパーマンの敵対勢力である大型モンスターに対して、背中を取る際にも使用している。
 
@@ -100,7 +100,7 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 作中の名称は不明だが、レプリカ品では「The Grapnel Gun」名義が使用されている[^3]
 
-[バットマンフォーエバーでは]
+[バットマンフォーエヴァーでは]
 　1989、リターンズに続いて使用。
 
 トゥーフェイスが罠を仕掛けた金庫をビルと結び付けるように使用。
@@ -109,7 +109,7 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 また人2人が入った金属製の扉を空中で吊り上げた事から、ワイヤーの強度もかなりの物であると思われる。
 
-バットマンフォーエバー各種ゲームでは真上に移動する際に必要だが、説明書にコマンドが記載されておらず正式名称は不明。
+バットマンフォーエヴァー各種ゲームでは真上に移動する際に必要だが、説明書にコマンドが記載されておらず正式名称は不明。
 
 コマンドはセレクトボタン。
 
@@ -147,7 +147,20 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 成功すれば、バットマンは素早く相手を頭上に持ち上げ、地面に叩きつける。」
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/anti_air_grapple.webp" style="max-width:300px; width:100%;">
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/anti_air_grapple.webp" style="width:100%;">
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/antiair_grapple2.webp" style="width:100%;">
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/antiair_grapple3.webp" style="width:100%;">
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/antiair_grapple4.webp" style="width:100%;">
+
+
+
 
 ### 【個人的解説】
 
@@ -155,7 +168,7 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 使用用途は、多岐にわたり飛行能力のないバットマンの移動を支える重要なガジェットになっている。
 
-だが初登場は以外にもバットマン(1989)からであり、原作バットマンでは類似ガジェット「グラップルフック」という縄を約半世紀以上使用していた。
+だが初登場は以外にもバットマン(1989）)からであり、原作バットマンでは類似ガジェット「グラップルフック」という縄を約半世紀以上使用していた。
 
 蝙蝠と言えば翼を広げて飛ぶ動物だが、バットマンはあくまで人間であり、背中にアイアンマンのブースターのような直接飛行できるものは有していない。
 
@@ -181,7 +194,7 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 グラップルガンの耐久力不足を補うためのダイエットだったのだろうか。
 
-[^1]: Hot Toys「The Flash」Blue & Grey Suit版フィギュア（2025年発表）
+[^1]: Hot Toys「ザ・フラッシュ」Blue & Grey Suit版フィギュア（2025年発表）
 
 https://www.toyark.com/2025/11/24/batman-blue-and-grey-suit-hot-toys-exclusive-figure-577706
 
