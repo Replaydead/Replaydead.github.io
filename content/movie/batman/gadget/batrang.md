@@ -1,6 +1,6 @@
 +++
 title = 'バットラング'
-date = '2026-07-30T11:50:08+09:00'
+date = '2026-07-30T22:09:09+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -12,6 +12,8 @@ comments = true
 ・バットラング
 
 ・バタラン
+
+・バッタラン(インジャスティス)
 
 ### 【登場作品】
 
@@ -76,6 +78,10 @@ comments = true
 
 威力が非常に低く、しゃがんでいる相手にヒットしない。
 
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batrang_sfc.webp" style="width:100%;">
+
+
  敵AIが飛び道具に対してしゃがむアルゴリズムを持つため実用性が低い。
 
 ダメージ判定のある地面のステージでは相手を押し出して追加ダメージを与える使い方が出来る。
@@ -122,13 +128,32 @@ comments = true
 ####ゲーム内解説
 ・バットラング：「バットマンは中程度のダメージを与える長距離バットラングを2発投げる」
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/batrang.webp">
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/batrang.webp" style="width:100%;">
+
+・バットラング　Meter Burn「バッタランを投げた後にTabでバッタランが起爆する。攻撃を受けた相手をノックダウン」
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/batrang_meter_burn.webp" style="width:100%;">
+
+
 
 ・アップ・バットラング：「バットマンはバットラングを斜め上に投げ、空中の敵を攻撃する」
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/up_batrang.webp">
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/up_batrang.webp" style="width:100%;">
+
+・アップ・バットラング　Meter Burn「バッタランを投げた後にTabでバッタランが起爆する。攻撃を受けた相手をノックダウン」
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/up_batrang_meter_burn.webp" style="width:100%;">
+
 
 またゲージ技「ザ・ダークナイト」ではスモークペレットのように煙を発生させる蝙蝠型の飛び道具が登場しており、こちらもバットラングの派生ガジェットの可能性がある（詳細不明）。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/the_dark_knight.webp" style="width:100%;">
+
 
 ### 【個人的評価】
 　筆者が思うバットマン3種の神器の1つ。
