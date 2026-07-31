@@ -1,6 +1,6 @@
 +++
 title = 'グラップルガン'
-date = '2026-07-30T22:01:17+09:00'
+date = '2026-07-31T22:40:58+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -137,18 +137,21 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 ###ゲーム内説明
 グラップル・ランジ：「バットマンは長距離グラップリングフックを発射し、相手に向かって引き寄せながら、強力な飛び蹴りを繰り出す。」
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/grapple_range.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/grapple_range.webp" style= width:100%;">
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/grapple_range2.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/grapple_range2.webp" style= width:100%;">
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/grapple_range3.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/grapple_range3.webp" style= width:100%;">
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/grapple_range4.webp" style="width:100%;">
+
 
 アンチエアー・グラップル：「バットマンは空中にいる敵を捕らえるため、グラップリングフックを斜め上方向に発射する。
 
 成功すれば、バットマンは素早く相手を頭上に持ち上げ、地面に叩きつける。」
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/anti_air_grapple.webp" style="width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/antiair_grapple.webp" style="width:100%;">
 
 
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/antiair_grapple2.webp" style="width:100%;">
