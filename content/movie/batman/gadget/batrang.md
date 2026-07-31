@@ -1,6 +1,6 @@
 +++
 title = 'バットラング'
-date = '2026-07-30T22:09:09+09:00'
+date = '2026-07-31T23:34:34+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -35,7 +35,7 @@ comments = true
 
 ・バットマンリターンズ(スーパーファミコン、メガドライブ)
 
-・バットマンファーエバー（各種ゲーム作品）
+・バットマンファーエヴァー（各種ゲーム作品）
 
 ・アーカムナイトシリーズ
 
@@ -79,7 +79,7 @@ comments = true
 威力が非常に低く、しゃがんでいる相手にヒットしない。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batrang_sfc.webp" style="width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batrang_sfc.webp">
 
 
  敵AIが飛び道具に対してしゃがむアルゴリズムを持つため実用性が低い。
@@ -119,7 +119,8 @@ comments = true
 
 [インジャスティスでは」
 
-「バットラング」と「アップ・バットラング」の2種類のコマンド技として登場。
+「バットラング」と「アップ・バットラング」の2種類の特殊ムーブとして登場。
+ヒットした相手から出血エフェクトが発生する事から、ビギンズ以降の手裏剣要素を踏襲している可能性が高い。
 
 ####コマンド
 ・バットラング：←→M
@@ -129,12 +130,11 @@ comments = true
 ・バットラング：「バットマンは中程度のダメージを与える長距離バットラングを2発投げる」
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/batrang.webp" style="width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/batrang.webp">
 
 ・バットラング　Meter Burn「バッタランを投げた後にTabでバッタランが起爆する。攻撃を受けた相手をノックダウン」
 
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/batrang_meter_burn.webp" style="width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/batrang_meter_burn.webp">
 
 
 
@@ -146,13 +146,23 @@ comments = true
 ・アップ・バットラング　Meter Burn「バッタランを投げた後にTabでバッタランが起爆する。攻撃を受けた相手をノックダウン」
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/up_batrang_meter_burn.webp" style="width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/up_batrang_meter_burn.webp">
+
+またベーシックムーブ「バットラング・スワイプ」とコンボムーブ「ステイダウン」でもバットラングを使用している。
+
+####コマンド
+・バットラング・スワイプ：←M
+・ステイダウン：←MH
+
+####ゲーム内解説（記載無し）
+・バットラング・スワイプ：両手に持った２つのバットラングを下から上に振り上げて切り裂くように攻撃する。
+
+・ステイダウン：バットラング・スワイプで振り上げたバットラングを地面に突き刺し爆発させて攻撃する。
+
+さらにゲージ技「ザ・ダークナイト」ではスモークペレットのように煙を発生させる蝙蝠型の飛び道具が登場しており、こちらもバットラングの派生ガジェットの可能性がある（詳細不明）。
 
 
-またゲージ技「ザ・ダークナイト」ではスモークペレットのように煙を発生させる蝙蝠型の飛び道具が登場しており、こちらもバットラングの派生ガジェットの可能性がある（詳細不明）。
-
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/the_dark_knight.webp" style="width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/the_dark_knight.webp">
 
 
 ### 【個人的評価】
