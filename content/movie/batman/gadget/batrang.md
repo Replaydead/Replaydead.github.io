@@ -1,6 +1,6 @@
 +++
 title = 'バットラング'
-date = '2026-08-01T14:05:09+09:00'
+date = '2026-08-01T14:24:48+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -80,7 +80,7 @@ comments = true
 威力が非常に低く、しゃがんでいる相手にヒットしない。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batrang_sfc.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batrang_sfc.webp" style="max-width:200px; width:100%;">
 
 
  敵AIが飛び道具に対してしゃがむアルゴリズムを持つため実用性が低い。
@@ -91,7 +91,7 @@ comments = true
 ・スーパーファミコン版：↓↘︎→B
 ・メガドライブ版：↓↘︎→A
 
-類似したガジェットの「ホーミング・バットラング」も登場している。
+類似したガジェットの「ホーミング・バットラング」[「ホーミング・バットラング」](https://replaydead.github.io/movie/batman/gadget/homing-batrang/)も登場している。
 
 ［バットマンビギンズでは］
 
@@ -142,7 +142,7 @@ comments = true
 ・アップ・バットラング：「バットマンはバットラングを斜め上に投げ、空中の敵を攻撃する」
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/up_batrang.webp" style="width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/up_batrang.webp">
 
 ・アップ・バットラング　Meter Burn「バッタランを投げた後にTabでバッタランが起爆する。攻撃を受けた相手をノックダウン」
 
