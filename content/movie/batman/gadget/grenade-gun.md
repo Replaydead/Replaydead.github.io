@@ -1,6 +1,6 @@
 +++
 title = 'グレネードガン'
-date = '2026-08-02T15:55:08+09:00'
+date = '2026-08-02T16:05:43+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -13,9 +13,9 @@ comments = true
 
 ### 【名称】
 
-・グレネードガン[^1]
+・グレネードガン[^1][^2]
 
-・クリプトナイトガン[^2]
+・クリプトナイトガン[^3]
 
 ### 【登場作品】
 
@@ -39,14 +39,19 @@ comments = true
 
 対峙してすぐと、屋内の2カ所にて使用。
 
+作中での名称は不明だが、2015年当時の取材記事ではグレネードガンとして実際の小道具が紹介されている[^1]
+
 ### 【個人的解説】
 
 　作中ではクリプトナイトを発射するためのガジェットとしてのみ使用された描写があるが、催涙弾や煙幕など、別のガス弾を発射するのにも非常に有用なガジェットではないかと思われる。
 
 　使用される場面が限局的なのは、おそらく重火器に寄りすぎるとバットマンの不殺のキャラクター性を外してしまうと言うのと、他ガジェットの出番を削ってしまうからではないだろうか。
 
-[^1]: Hot Toys MMS 417 Batman V Superman – Armored Batman (Battle Damaged)
+[^1]: Cinemablend「See Batman's Grenade Launchers, Sticky Bombs And Other New Weapons」
+https://www.cinemablend.com/new/See-Batman-Grenade-Launchers-Sticky-Bombs-Other-Weapons-72472.html
+
+[^2]: Hot Toys MMS 417 Batman V Superman – Armored Batman (Battle Damaged)
 https://www.hottoysph.com/checklist/hot-toys-mms-417-batman-v-superman-armored-batman-battle-damaged/
 
-[^2]: Batman v Superman: Dawn of Justice – Armored Batman 2.0 Figure by Hot Toys
+[^3]: Batman v Superman: Dawn of Justice – Armored Batman 2.0 Figure by Hot Toys
 https://www.toyark.com/2024/04/12/batman-v-superman-dawn-of-justice-armored-batman-2-0-figure-by-hot-toys-530736
