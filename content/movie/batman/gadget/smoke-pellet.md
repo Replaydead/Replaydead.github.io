@@ -1,6 +1,6 @@
 +++
 title = 'スモークペレット'
-date = '2026-07-20T17:44:59+09:00'
+date = '2026-08-02T16:56:57+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -20,13 +20,19 @@ comments = true
 
 ・煙幕弾[^4][^5]
 
+・スモークグレネード[^6]
+
 ### 【登場作品】
 
-・バットマン(Detective Comics #29～)[^6]
+・バットマン(Detective Comics #29～)[^7]
 
 ・バットマン（1989）
 
 ・バットマンフォーエヴァー(各種ゲーム)
+
+・バットマンvsスーパーマン　ジャスティスの誕生
+
+・ザ・フラッシュ(2023)
 
 ・バットマンアーカムシリーズ
 
@@ -34,7 +40,7 @@ comments = true
 
 　薬品の入った試験管やカプセル、グレネードを投げつけ、煙幕のように煙を発生させ、敵の視界を奪うガジェット。
 
-1939年7月の『Detective Comics #29』でユーティリティベルトと共に初登場[^6]
+1939年7月の『Detective Comics #29』でユーティリティベルトと共に初登場[^7]
 
 初期はガスを封入したガラス製ペレットとして描写され、敵の視界を奪う・動きを制限する用途で使用された。
 
@@ -54,13 +60,13 @@ comments = true
 
 更には「フリューゲルハイム」から逃げた際にジョーカー達の追跡を逃れるために使用している。
 
-Prop Galleryでも「Batman Smoke Capsule」として販売されている[^7]
+Prop Galleryでも「Batman Smoke Capsule」として販売されている[^8]
 
 サイト内では「特殊効果部門によって金属とガラスで製造されており、中身は粉末」と記載されている。
 
 カプセルの長さは約1.5インチ。
 
-DCショップでも「Batman（1989）Smoke Capsules」として販売されている[^8]
+DCショップでも「Batman（1989）Smoke Capsules」として販売されている[^9]
 
 液体の色は青色。
 
@@ -89,7 +95,29 @@ DCショップでも「Batman（1989）Smoke Capsules」として販売されて
 
 また同作では同一グラフィックの色違いでエレクトリックペレットというガジェットも登場している。
 
-#### [バットマンアーカムシリーズでは]
+[バットマンvsスーパーマン　ジャスティスの誕生では]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman_vs_superman/smoke_granade.webp">
+
+
+　スーパーマンとの戦闘時に使用。
+
+スーパーマンに投げ飛ばされたバットマンが視界を防ぐために使用し、スーパーマンの背後を取るのに役立った。
+
+[ザ・フラッシュ(2023)では」
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/smoke_granade.webp">
+
+
+　「アース89」の世界のバットマンが使用。
+
+ロシア軍からの追跡を逃れるために使用した。
+
+一瞬閃光が発生した後煙が生じていた。
+
+ [バットマンアーカムシリーズでは]
 
 　手榴弾のようなグレネード形式で登場している。
 
@@ -120,11 +148,14 @@ https://www.sideshow.com/collectibles/dc-comics-batman-hot-toys-911372
 [^5]: バットマンフォーエヴァー（メガドライブ）取扱説明書
 8頁
 
-[^6]: DC.com「BATMAN,A HISTORY OF HEROICS：THE BEGINNING」
+[^6]: ComicBook「Zack Snyder Confirms ‘Batman v. Superman’ Fan Theory on How Batman Hid From Superman」
+https://comicbook.com/dc/news/batman-v-superman-lead-grenade/
+
+[^7]: DC.com「BATMAN,A HISTORY OF HEROICS：THE BEGINNING」
 https://www.dc.com/blog/2019/03/19/batman-a-history-of-heroics-the-beginning
 
-[^7]: Prop Gallery「Batman Smoke Capsule」
+[^8]: Prop Gallery「Batman Smoke Capsule」
 https://www.thepropgallery.com/smoke-capsule
 
-[^8]: DC SHOP「Batman（1989）Smoke Capsules」
+[^9]: DC SHOP「Batman（1989）Smoke Capsules」
 https://shop.dc.com/products/batman-1989-smoke-capsules
