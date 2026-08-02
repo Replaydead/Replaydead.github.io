@@ -1,6 +1,6 @@
 +++
 title = 'バットラング'
-date = '2026-08-01T14:24:48+09:00'
+date = '2026-08-02T16:14:31+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -26,6 +26,8 @@ comments = true
 ・バットマンフォーエヴァー
 
 ・バットマンビギンズ
+
+・バットマンvsスーパーマン　ジャスティスの誕生
 
 ・ザ・フラッシュ（2023）
 
@@ -53,9 +55,7 @@ comments = true
 
 ［バットマン(1989）では］
 
-ロープ付きバットラングが使用されている。
-
-※詳細は[ロープ付きバットラングのページ](https://replaydead.github.io/movie/batman/gadget/rope-attached-batrang/)を参照
+[ロープ付きバットラング](https://replaydead.github.io/movie/batman/gadget/rope-attached-batrang/)が使用されている。
 
 また1986年10月時点の脚本では「縁が蝙蝠の羽のように波打っている」と表現されている[^1]
 
@@ -69,10 +69,22 @@ comments = true
 　バット・ラング名義にて登場。
 オーソドックスな飛び道具。
 
+[バットマンフォーエヴァーでは]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batrang.webp">
+
+
+　銀色の蝙蝠型のガジェット。
+
+終盤でリドラーの使用している3Dホログラム装置「BOX」に対して使用。
+
+BOXのテレビ信号の収集元である塔に投げつけ破壊した。
+
 ［バットマンフォーエヴァー（各種ゲーム）では］
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batrang.webp" style="max-width:200px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batrang_icon.webp" style="max-width:200px; width:100%;">
 
 
 標準搭載のガジェットの一つ。
@@ -95,6 +107,10 @@ comments = true
 
 ［バットマンビギンズでは］
 
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/batrang.webp">
+
+
 　ブルースが自身で金属を削って作成した、蝙蝠型の飛び道具。
 
 ダークナイトオフィシャルブックによると、伝統的な手裏剣を元にアルフレッドが作成した刃付き武器とされている。
@@ -106,6 +122,16 @@ comments = true
 
 それぞれにはバネ仕掛けの折りたたみ機構が備えられており、収納時にはコンパクトになり、ユーティリティベルトへ収めやすくなっている。
 
+[バットマンvsスーパーマン　ジャスティスの誕生では]
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman_vs_superman/batrang.webp">
+
+　マーサを誘拐したテロリスト相手に使用。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman_vs_superman/batrang2.webp">
+　
+
 ［ジャスティスリーグ（スーパーファミコン、メガドライブ）では］
 
 コマンド236Pで「バタラン投げ」という名称で登場。
@@ -113,6 +139,10 @@ comments = true
 ［ザ・フラッシュ(2023)では］
 
 　ロシアの軍事施設に侵入した際に飛び道具として対人戦で使用。
+
+直接投げつける他、壁に当てて跳ね返すように使用した。
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/batrang.webp">
+
 
 ［アーカムシリーズでは］
 
