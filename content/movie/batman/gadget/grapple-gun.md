@@ -1,6 +1,6 @@
 +++
 title = 'グラップルガン'
-date = '2026-07-31T23:33:28+09:00'
+date = '2026-08-02T16:37:03+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -11,13 +11,13 @@ comments = true
 
 ### 【名称】
 
-・グラップルガン[^1]
+・グラップルガン[^1][^2][^3]
 
-・スピアガン：バットマン1988脚本[^2]、バットマンリターンズ(SFC)
+・スピアガン：バットマン1988脚本[^4]、バットマンリターンズ(SFC)
 
-・グラップネルガン[^3]
+・グラップネルガン[^5]
 
-・グラップネル[^4]
+・グラップネル[^6]
 
 ・グラップリングフック：インジャスティス
 
@@ -34,6 +34,8 @@ comments = true
 ・バットマンビギンズ
 
 ・ダークナイト
+
+・バットマン vs スーパーマン ジャスティスの誕生
 
 ・ザ・フラッシュ(2023)
 
@@ -81,26 +83,12 @@ comments = true
 
 SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に向かって移動する際に使用できる。
 
-[ザ・フラッシュ (2023)では]
-
-バットマン(1989）のオマージュとして、バリー(ザ・フラッシュ)を片手に上空に移動する際使用。
-
-またスーパーマンの敵対勢力である大型モンスターに対して、背中を取る際にも使用している。
-
-[バットマンビギンズでは]
-
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/grapplegun.webp" style="width:100%;">
-
-
-　終盤、ラズ・グールの部下達との集団戦にて使用。
-相手を引き寄せるためにフックを打ち出そうとしたが、後ろから別の敵によって地面に叩き落とされた。
-
-　その後暴走する列車を止めるために列車に向かって発射し、ラズ・グールの元に追い付いた。
-
-作中の名称は不明だが、レプリカ品では「The Grapnel Gun」名義が使用されている[^3]
-
 [バットマンフォーエヴァーでは]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/grapplegun.webp">
+
+
 　1989、リターンズに続いて使用。
 
 トゥーフェイスが罠を仕掛けた金庫をビルと結び付けるように使用。
@@ -109,13 +97,60 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 また人2人が入った金属製の扉を空中で吊り上げた事から、ワイヤーの強度もかなりの物であると思われる。
 
-バットマンフォーエヴァー各種ゲームでは真上に移動する際に必要だが、説明書にコマンドが記載されておらず正式名称は不明。
+[バットマンフォーエヴァー各種ゲームでは]
 
-コマンドはセレクトボタン。
+　グラップル・フック名義で登場しているため別記事にて紹介する。
+
+[バットマンビギンズでは]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/grapplegun.webp">
+
+
+　終盤、ラズ・グールの部下達との集団戦にて使用。
+相手を引き寄せるためにフックを打ち出そうとしたが、後ろから別の敵によって地面に叩き落とされた。
+
+　その後暴走する列車を止めるために列車に向かって発射し、ラズ・グールの元に追い付いた。
+
+作中の名称は不明だが、レプリカ品では「The Grapnel Gun」名義が使用されている[^5]
+
+[バットマン vs スーパーマン ジャスティスの誕生では]
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman_vs_superman/grapplegun.webp">
+
+　マーサを誘拐したテロリスト相手に使用。
+
+地面から天井に向かって打ち上方に高速移動する用途で使用された。
+
+またテロリストの足元に放つ事で宙吊りにしたり、肩に撃って相手を手繰り寄せた後殴りつける、スーパーマンをハンマー投げの要領で放り投げるなど戦闘時にも使用されている。
+
+人間を引き寄せる強度を持っている他、木箱を投げつけるなど90年代のグラップルガンよりも強度が上がっている描写が見受けられる。
 
 ［ジャスティスリーグ(SFC)では］
 
 　上空に向かって放ち移動した後、斜め下に向かって急行キックする攻撃技として使用。
+
+[ザ・フラッシュ (2023)では]
+
+　バリーの世界と「アース89」の世界のバットマン両方が使用。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/grapplegun.webp">
+
+
+バリーの世界のバットマンは死のウイルスをゴッサム総合病院から盗み出した強盗とのチェイスにて使用。
+
+空中から強盗の車にフックを取り付け、高速道路を滑りながら移動した。
+
+また死のウイルスを持ったファルコーネの息子が海に落下するのを防ぐために使用したが、耐久力の限界によりリールの巻取りが出来なくなっていた。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/speargun.webp">
+
+
+「アース89」の世界のバットマンは、バットマン(1989）のオマージュとして、バリー(ザ・フラッシュ)を片手に上空に移動する際使用。
+
+またスーパーマンの敵対勢力である大型モンスターに対して、背中を取る際にも使用している。
 
 ［アーカムシリーズでは］
 
@@ -127,7 +162,7 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 [インジャスティスでは」
 
-「グラップル・ランジ」と「アンチエアー・グラップル」というコマンド技が登場している。
+「グラップル・ランジ」と「アンチエアー・グラップル」というコマンド技で使用しているのが確認できる。
 
 ###コマンド
 ・グラップル・ランジ：↓→L
@@ -201,14 +236,20 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 https://www.toyark.com/2025/11/24/batman-blue-and-grey-suit-hot-toys-exclusive-figure-577706
 
-[^2]: Sam Hamm, Warren Skaaren, Batman (Fifth Draft, October 6, 1988)
+[^2]: Hot Toys MMS 417 Batman V Superman – Armored Batman (Battle Damaged)
+https://www.hottoysph.com/checklist/hot-toys-mms-417-batman-v-superman-armored-batman-battle-damaged/
+
+[^3]: Batman v Superman: Dawn of Justice – Armored Batman 2.0 Figure by Hot Toys
+https://www.toyark.com/2024/04/12/batman-v-superman-dawn-of-justice-armored-batman-2-0-figure-by-hot-toys-530736
+
+[^4]: Sam Hamm, Warren Skaaren, Batman (Fifth Draft, October 6, 1988)
 
 https://indiegroundfilms.wordpress.com/wp-content/uploads/2014/01/batman-oct-5-88-5th.pdf
 
-[^3]: Royal Armouries Museum Shop（英国の公式武器博物館）：ダークナイト三部作用レプリカ
+[^5]: Royal Armouries Museum Shop（英国の公式武器博物館）：ダークナイト三部作用レプリカ
 
 https://shop.royalarmouries.org/products/the-grapnel-gun-batman-the-dark-night
 
-[^4]: Arkham Knight 日本語マニュアル
+[^6]: Arkham Knight 日本語マニュアル
 
 https://wwws.warnerbros.co.jp/batmanarkham/arkhamknight/img/pdf/PLJM84016_emanual.pdf
