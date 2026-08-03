@@ -1,13 +1,13 @@
 +++
 title = 'ロープ付きバットラング'
-date = '2026-08-03T18:58:43+09:00'
+date = '2026-08-03T19:05:08+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
 +++
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/rope_batarang.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/rope_batarang.webp">
 
 
 
