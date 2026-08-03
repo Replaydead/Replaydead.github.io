@@ -1,6 +1,6 @@
 +++
 title = 'バットラング'
-date = '2026-08-02T16:14:31+09:00'
+date = '2026-08-03T18:57:59+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -55,7 +55,7 @@ comments = true
 
 ［バットマン(1989）では］
 
-[ロープ付きバットラング](https://replaydead.github.io/movie/batman/gadget/rope-attached-batrang/)が使用されている。
+[ロープ付きバットラング](https://replaydead.github.io/movie/batman/gadget/rope-attached-batarang/)が使用されている。
 
 また1986年10月時点の脚本では「縁が蝙蝠の羽のように波打っている」と表現されている[^1]
 
@@ -72,7 +72,7 @@ comments = true
 [バットマンフォーエヴァーでは]
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batrang.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batarang.webp">
 
 
 　銀色の蝙蝠型のガジェット。
@@ -84,7 +84,7 @@ BOXのテレビ信号の収集元である塔に投げつけ破壊した。
 ［バットマンフォーエヴァー（各種ゲーム）では］
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batrang_icon.webp" style="max-width:200px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batarang_icon.webp" style="max-width:200px; width:100%;">
 
 
 標準搭載のガジェットの一つ。
@@ -92,7 +92,7 @@ BOXのテレビ信号の収集元である塔に投げつけ破壊した。
 威力が非常に低く、しゃがんでいる相手にヒットしない。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batrang_sfc.webp" style="max-width:200px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batarang_sfc.webp" style="max-width:200px; width:100%;">
 
 
  敵AIが飛び道具に対してしゃがむアルゴリズムを持つため実用性が低い。
@@ -103,12 +103,12 @@ BOXのテレビ信号の収集元である塔に投げつけ破壊した。
 ・スーパーファミコン版：↓↘︎→B
 ・メガドライブ版：↓↘︎→A
 
-類似したガジェットの「ホーミング・バットラング」[「ホーミング・バットラング」](https://replaydead.github.io/movie/batman/gadget/homing-batrang/)も登場している。
+類似したガジェットの「ホーミング・バットラング」[「ホーミング・バットラング」](https://replaydead.github.io/movie/batman/gadget/homing-batarang/)も登場している。
 
 ［バットマンビギンズでは］
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/batrang.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/batarang.webp">
 
 
 　ブルースが自身で金属を削って作成した、蝙蝠型の飛び道具。
@@ -124,12 +124,12 @@ BOXのテレビ信号の収集元である塔に投げつけ破壊した。
 
 [バットマンvsスーパーマン　ジャスティスの誕生では]
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman_vs_superman/batrang.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman_vs_superman/batarang.webp">
 
 　マーサを誘拐したテロリスト相手に使用。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman_vs_superman/batrang2.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman_vs_superman/batarang2.webp">
 　
 
 ［ジャスティスリーグ（スーパーファミコン、メガドライブ）では］
@@ -141,7 +141,7 @@ BOXのテレビ信号の収集元である塔に投げつけ破壊した。
 　ロシアの軍事施設に侵入した際に飛び道具として対人戦で使用。
 
 直接投げつける他、壁に当てて跳ね返すように使用した。
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/batrang.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/batarang.webp">
 
 
 ［アーカムシリーズでは］
@@ -161,23 +161,23 @@ BOXのテレビ信号の収集元である塔に投げつけ破壊した。
 ・バットラング：「バットマンは中程度のダメージを与える長距離バットラングを2発投げる」
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/batrang.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/batarang.webp">
 
 ・バットラング　Meter Burn「バッタランを投げた後にTabでバッタランが起爆する。攻撃を受けた相手をノックダウン」
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/batrang_meter_burn.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/batarang_meter_burn.webp">
 
 
 
 ・アップ・バットラング：「バットマンはバットラングを斜め上に投げ、空中の敵を攻撃する」
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/up_batrang.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/up_batarang.webp">
 
 ・アップ・バットラング　Meter Burn「バッタランを投げた後にTabでバッタランが起爆する。攻撃を受けた相手をノックダウン」
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/up_batrang_meter_burn.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/up_batarang_meter_burn.webp">
 
 またベーシックムーブ「バットラング・スワイプ」とコンボムーブ「ステイダウン」でもバットラングを使用している。
 
