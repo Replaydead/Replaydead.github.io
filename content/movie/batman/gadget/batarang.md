@@ -1,6 +1,7 @@
 +++
 title = 'バットラング'
-date = '2026-08-03T18:57:59+09:00'
+date = '2026-07-16T21:18:42+09:00'
+lastmod = '2026-08-10T07:57:29+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -10,6 +11,10 @@ comments = true
 ### 【名称】
 
 ・バットラング
+
+・baterang
+
+・batarang
 
 ・バタラン
 
@@ -49,15 +54,35 @@ comments = true
 
 蝙蝠の形を模った殺傷性の低い飛び道具。
 
-ガジェット名のバットラングとはファンからはBatとBoomerangを掛け合わせた造語が由来と言われている。
-
 初出より基本的にはブーメランだが、作品によっては手裏剣。
+
+[バットマンでは]
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman/baterang.webp">
+
+　Detective COMICS No.31で初登場。
+
+作中では「オーストラリアのブッシュマンのブーメランを模したフライングバットラング」と説明されている[^1]
+
+初登場ではマスターモンクに使用したが、催眠術にかけられて動きが制限されていたためかあっさり躱されている。
+
+投げたバットラングはブーメランのように手元に戻る描写がある。
+
+またマスターモンクの罠にかかり網に捕らえられた際にも使用。
+
+バットラングを部屋にあるレバーに投げつけ、蛇の巣窟に向かって落下する網を止めた。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman/baterang2.webp">
+
+
+そのまま上昇しガラスのシャンデリアを破壊している。
 
 ［バットマン(1989）では］
 
 [ロープ付きバットラング](https://replaydead.github.io/movie/batman/gadget/rope-attached-batarang/)が使用されている。
 
-また1986年10月時点の脚本では「縁が蝙蝠の羽のように波打っている」と表現されている[^1]
+また1986年10月時点の脚本では「縁が蝙蝠の羽のように波打っている」と表現されている[^2]
 
 ［バットマンリターンズでは］
 
@@ -141,6 +166,7 @@ BOXのテレビ信号の収集元である塔に投げつけ破壊した。
 　ロシアの軍事施設に侵入した際に飛び道具として対人戦で使用。
 
 直接投げつける他、壁に当てて跳ね返すように使用した。
+
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/batarang.webp">
 
 
@@ -229,5 +255,8 @@ https://www.sideshow.com/collectibles/dc-comics-batman-hot-toys-911372
 ・Toyark記事(MMS712商品情報)
 https://www.toyark.com/2023/05/25/the-flash-michael-keaton-batman-figure-by-hot-toys-502385
 
-[^1]: Sam Hamm, Batman (First Draft, October 20, 1986)
+[^1]: Batman: The Golden Age Vol. 1 (Detective Comics (1937-2011)) (English Edition)
+47頁
+
+[^2]: Sam Hamm, Batman (First Draft, October 20, 1986)
 https://www.dailyscript.com/scripts/batman_early.html
