@@ -1,13 +1,14 @@
 +++
 title = 'ホーミング・バットラング'
-date = '2026-08-01T14:18:33+09:00'
+date = '2026-08-01T05:20:08.036171+09:00'
+lastmod = '2026-08-10T12:03:45+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
 +++
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/homing_batrang.webp" style="max-width:200px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/homing_batarang.webp" style="max-width:200px; width:100%;">
 
 
 
@@ -16,7 +17,7 @@ comments = true
 
 ・ホーミング・バットラング
 
-・Horming batrang
+・Horming batarang
 
 ### 【登場作品】
 
@@ -34,7 +35,7 @@ comments = true
 名前に「ホーミング」とあるがしゃがんでいる相手にはヒットしない。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/homing_batrang_sfc.webp" style="max-width:200px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/homing_batarang_sfc.webp" style="max-width:200px; width:100%;">
 
 
 ####コマンド
@@ -51,6 +52,7 @@ comments = true
 前作「バットマンリターンズ」では追跡型のバットラングを使用していたため、そちらを参考に作成された可能性がある。
 
 名前のわりに威力が高いだけのバットラングなのが悲しいところ。
+
 グラフィックもほとんど違いが無い・・・。
 
 [^1]: バットマンフォーエヴァー（スーパーファミコン）取扱説明書
