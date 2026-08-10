@@ -1,13 +1,14 @@
 +++
 title = 'スモークペレット'
-date = '2026-08-02T16:56:57+09:00'
+date = '2026-07-13T16:35:41+09:00'
+lastmod = '2026-08-10T11:53:23+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
 +++
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smoke_capsule.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smoke_capsule.webp">
 
 
 ### 【名称】
@@ -30,6 +31,8 @@ comments = true
 
 ・バットマンフォーエヴァー(各種ゲーム)
 
+・バットマンビギンズ
+
 ・バットマンvsスーパーマン　ジャスティスの誕生
 
 ・ザ・フラッシュ(2023)
@@ -40,9 +43,22 @@ comments = true
 
 　薬品の入った試験管やカプセル、グレネードを投げつけ、煙幕のように煙を発生させ、敵の視界を奪うガジェット。
 
+[バットマンでは]
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman/glass_pellet.webp">
+
+
 1939年7月の『Detective Comics #29』でユーティリティベルトと共に初登場[^7]
 
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman/glass_pellet2.webp">
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman/glass_pellet3.webp">
+
+
 初期はガスを封入したガラス製ペレットとして描写され、敵の視界を奪う・動きを制限する用途で使用された。
+
 
 #### [バットマン（1989）では]
 
@@ -50,9 +66,10 @@ comments = true
 
 試験管を地面に叩きつけ煙を発生させた状態で、天井にグラップリングガンで逃走するように使用した。
 
-![image](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smokepellet.webp)
 
-![image](https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smokepellet2.webp)
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smokepellet.webp">
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smokepellet2.webp">
 
 　1986年10月当時の脚本では「TWO TINY CAPSULES」と表現されており、小さなカプセルとして扱われている[^1]
 
@@ -70,7 +87,11 @@ DCショップでも「Batman（1989）Smoke Capsules」として販売されて
 
 液体の色は青色。
 
-#### [バットマンフォーエヴァー各種ゲーム作品では]
+ [バットマンフォーエヴァー各種ゲーム作品では]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/smoke_pellet.webp">
+
 
 　持ち込み式のガジェットの1つとして登場。
 
@@ -94,6 +115,16 @@ DCショップでも「Batman（1989）Smoke Capsules」として販売されて
 
 
 また同作では同一グラフィックの色違いでエレクトリックペレットというガジェットも登場している。
+
+[バットマンビギンズでは]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/smoke_pellet.webp">
+
+
+　ラーズ・アル・グールとの修業シーンにて登場。
+
+忍者の使用する煙幕として登場しており、バットマンになってからは使用していない。
 
 [バットマンvsスーパーマン　ジャスティスの誕生では]
 
