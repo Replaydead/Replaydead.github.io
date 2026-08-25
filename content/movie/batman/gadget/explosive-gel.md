@@ -1,7 +1,7 @@
 +++
 title = '爆破ジェル'
 date = '2026-08-24T11:04:51.647128+09:00'
-lastmod = '2026-08-24T20:20:58+09:00'
+lastmod = '2026-08-25T21:50:24+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -51,7 +51,7 @@ comments = true
 
 その際ガントレットが壊れていた。
 
-レベルアップで「多周波起爆装置」と「自動接近起爆装置」にアップグレード可能。
+レベルアップで「[多周波起爆装置](https://replaydead.github.io/movie/batman/gadget/multi-frequency-detonation/)」と「[自動接近起爆装置](https://replaydead.github.io/movie/batman/gadget/auto-proximity-detonation/)」にアップグレード可能。
 
 ［アーカムシティでは］
 　
