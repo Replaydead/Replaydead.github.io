@@ -1,110 +1,103 @@
 +++
 title = 'ラインランチャー'
-date = '2026-07-20T21:33:12+09:00'
+date = '2026-07-14T12:33:29+09:00'
+lastmod = '2026-08-27T20:44:41+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
 +++
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/steelgauntlet.webp" style="max-width:300px; width:100%;">
-
-
 ### 【名称】
 
 •ラインランチャー[^1]
 
-•スティールガントレット[^2]
-
-•ライン発射装置付きガントレット[^3]
-
-・Gauntlet with line launcher[^4]
-
-・Grapple[^5]
-
 ### 【登場作品】
 
-・バットマン（1989）
+・アーカムアサイラム
 
-・バットマンリターンズ
+・アーカムシティ
 
-・アーカムシリーズ
+・アーカムナイト
 
 ### 【解説】
 
-　バットマンの腕に付いているガントレット。
+　アーカムシリーズに登場するガジェット。
 
-二点間に張ったワイヤーを利用し、水平方向を非常に素早く移動できるガジェット。
+二点間に張ったワイヤーを利用し、水平方向を素早く移動できる。
 
-［バットマン（1989）では］
+アーカムアサイラムのゲーム内では以下のように設定されている。
 
-　ビッキーを救出するために美術館で使用。
+・射程：100m
 
-ビッキーを抱えたまま、固く閉じた美術館の扉を蹴飛ばすようにして、前方に高速移動した。
+・移動速度：13.3m/秒
 
-ジョーカーからは「シャレたオモチャだ」とコメントされた。
+・ライン強度：600kg
 
-［1986年10月当時の脚本では］
-
-「Steel gauntlet」と表記されていた。
-
-ガントレットから金属製のスパイクを発射し、壁へ固定したロープでヴィッキーを救出する装備として描かれている。
-
-また、ガントレットから鋼鉄の翼が展開して防弾シールドとなり、ロープはバンジージャンプのように落下を減速させる描写も存在する。
-
-[バットマンリターンズでは]
+［アーカムアサイラムでは］
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/returns/grapple.webp" style="max-width:300px; width:100%;">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/asylum/line_launcher.webp">
 
 
-　終盤シュレックとセリーナの元に駆けつける際に類似したガジェットを使用。
+　2体のタイタン戦後に入手。
 
-1991年8月時点の脚本では単純に「Grapple」と命名されていた。
+バットウィングから輸送して届けられた。
 
-［アーカムシリーズでは］
+感電する床やポイズンアイビーのフェロモン、クロックの巣など地上が危険な場面にて安全に移動する事が出来る。
 
-　移動手段の1つとして登場。
 
-バットマンアーカムシティ公式マニュアルでは以下のように説明されている。
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/asylum/line_launcher2.webp">
 
-「バットマンが水平方向を素早く移動するための移動用ツールである。
-ラインを発射して自動的に移動する。
-移動中にもう一度ラインを発射して進行方向を変更できる。
 
-アップグレードするとワイヤーの上を綱渡りできる」
+またグラップル出来ない高所から高所への移動も可能。
 
-バットマン（1989）と同じように横方向に固定して前方に移動する際に使用できる。
+メインミッションの中では狙撃手が狙っているステージがある為、見つからずに高速移動する用途が有効。
 
-またグラップルガンと異なり、氷や水面など、通常は歩いて渡れない場所を移動する際にも使用される。
+敵が前方にいる際にはグラインドキックのように攻撃する事が出来る。
 
-移動中に△ボタンで無警戒のターゲットに向かって飛び降りる「ラインランチャー・テイクダウン」に派生可能。
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/asylum/line_launcher3.webp">
+
+
+［アーカムシティでは］
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/line_launcher2.webp">
+
+
+　中盤にロビンから届けられる。
+
+移動中に方向転換出来るようになった。
+またコーナーカバー中にも使用可能となっている。
+
+移動中に無警戒のターゲットに向かって飛び降りる「ラインランチャー・テイクダウン」に派生可能。
+
+レベルアップで「ラインランチャー・タイトロープ」にアップグレード可能。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/tightrope.webp">
+
+ゲーム内では「このラインランチャーのアップグレードにより、ジップラインの上に飛び上がり、綱渡りのように使用できるようになる。
+これにより、敵を観察したり攻撃したりするための新しい位置を作り出したり、リドラーのトロフィーを集めたりすることができる。
+ケーブル上では、敵の上方に移動してドロップアタックやグライドキックを行うことができる」と説明されている。
+
+タイトロープからのドロップアタックはフリーズ戦でもテイクダウンを奪う事が出来る。
+
+［アーカムナイトでは］
+
+　最初から使用可能になった他、タイトロープはデフォルトで使用可能となった。
+
+またグラインド中にクイックファイアーが可能になった。
+建物の間に展開する事が出来る。
 
 ### 【個人的解説】
 
-　グラップルガンと用途が非常に似ているガジェットだが、グラップルガンが垂直方向に対しての移動手段であれば、ラインランチャーは水平方向に対しての移動に特化したガジェットだと言えよう。
+　アーカムシリーズからの登場だが、1989にて登場した[スチールガントレット](https://replaydead.github.io/movie/batman/gadget/steel-gauntlet/)が元ネタだろう。
 
-1989ではビッキーを救出する際に使用しており、脚本時点では盾の機能や落下速度制御などの機能もあったとの事であるため、レスキュー用のガジェットだった可能性がある。
+ただスチールガントレットと異なり、完全に水平方向にしか移動出来ないため、斜め下方向に移動したい時にはグラインド、高所への移動はグラップルと使い分ける必要がある。
 
-　ただ格闘ゲームインジャスティスではグラップルガンを前方に打ちヒットした相手に向かって前方に高速移動していたので、やはり1度横に固定した後で前方に行くと言う移動までに時間かかるのが欠点になるだろうか。
-
-また便宜上ラインランチャーと言っているが、1989ではラインランチャーと言う名称は使用されていない。
-
-海外のサイトではFoefie Gauntletという名称が使用されているが、今のところ一次文献にあたるものが見つかっていない。
-
-ここでは正式名称が確定しているアーカムシリーズから、ラインランチャーとして紹介している。
+移動速度も走るよりは速い程度であり、グラインドやグラップルの速度には大きく劣る為、安全に移動したい時に使用するガジェットと言えよう。
 
 [^1]: Arkham Knight 日本語マニュアル
 https://wwws.warnerbros.co.jp/batmanarkham/arkhamknight/img/pdf/PLJM84016_emanual.pdf
-
-[^2]: Sam Hamm, Batman (First Draft, October 20, 1986)
-https://www.dailyscript.com/scripts/batman_early.html
-
-[^3]: ホットトイズMMS692 Batman 1989バットマン（２.０版)
-https://www.sideshow.com/collectibles/dc-comics-batman-hot-toys-911372
-
-[^4]: Super Hot Toys「BATMAN（1989）BATMAN1/6SCALE FIGURE（DELUXE VERSION）」
-https://www.superhottoys.com/products/hot-toys-mms693-batman-1989-batman-1-6-scale-figure-deluxe-version
-
-[^5]: BATMAN RETURNS Daniel Waters with revisions by Wesley Strick August 1, 1991
-https://www.dailyscript.com/scripts/batman-returns_shooting.html
