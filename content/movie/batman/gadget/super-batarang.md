@@ -1,11 +1,15 @@
 +++
 title = 'スーパーバットラング'
-date = '2026-08-26T11:59:48.795705+09:00'
-lastmod = '2026-08-27T20:48:30+09:00'
+date = '2026-08-27T11:51:04.571665+09:00'
+lastmod = '2026-08-29T00:36:46+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
 +++
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/returns/super_batarang.webp">
+
 
 
 ### 【名称】
@@ -22,15 +26,19 @@ comments = true
 
 ターゲットをプログラムできる読み出し画面が搭載されており、中央にあるボタンを押すとターゲットを自動認識する。
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/returns/super_batrang2.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/returns/super_batarang2.webp">
 
 そのまま認識したターゲットを自動追尾する。
 
 　作中ではペンギンの部下に囲まれた際に使用。
 
-3人のサーカス団員の顔面にヒットしたが、女性相手にヒットする直前でフリスビーのように犬に回収された。
+3人のサーカス団員の顔面にヒットしたが、プードルレディにヒットする直前でフリスビーのように犬に回収された。
 
-その後ペンギンと女性が一緒に映るシーンでは奪われたままなのが確認出来る。
+その後ペンギンとプードルレディが一緒に映るシーンでは奪われたままなのが確認出来る。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/returns/super_batarang3.webp">
+
 
 作中での名称は不明だが、Batman Returns: The Official Movie Bookにてボー・ウェルチ氏がインタビュー内で「スーパーバットラング」と説明している。
 
@@ -44,5 +52,7 @@ comments = true
 
 自動追尾式は比較的現実的な案と言えるだろう。
 
+また後年のアーカムシリーズには類似したガジェット「リモートコントロール・バットラング」が登場している。
+
 [^1]: Batman Returns: The Official Movie Book
-1頁
+75頁
