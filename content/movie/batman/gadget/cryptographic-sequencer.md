@@ -1,7 +1,7 @@
 +++
 title = '暗号シーケンサー'
-date = '2026-08-27T12:03:03.507005+09:00'
-lastmod = '2026-08-28T23:18:37+09:00'
+date = '2026-08-28T14:22:52.546944+09:00'
+lastmod = '2026-08-30T10:59:22+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -50,27 +50,55 @@ comments = true
 　主に進行不能エリアのセキュリティ解除に用いるが、ジョーカーの作った毒ガス発生装置を解除する際にも使用される。
 その際暗号解除は制限時間内に3回要求される。
 
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/asylum/cryptographic_sequencer2.webp">
+
 ゲーム内では「超音波周波数を使用してセキュリティシステムをバイパスする。
 512ビットの復号鍵を使用してセキュリティプロトコルを破る」と説明されている。
 
 レベルアップで「暗号範囲増幅器」と「暗号パワー増幅器」にアップグレード可能。
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/asylum/cryptographic_sequencer2.webp">
 
 [アーカムシティでは]
 
 　初期から使用可能になった。
 
 今作ではカタカナ(海外版はアルファベット)で単語を組み合わせてセキュリティ解除する方式に変更された。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/cryptographic_sequencer2.webp">
+
+
 セキュリティーパネルにも1〜5までのレベルが導入され、レベルの高いセキュリティでは複数回の入力が必要になった。
+
+またチップを差し込む形で使用する用途もあり、その際は新しいセキュリティを発見し、ローディングする事で敵の無線を傍受する事が出来るようになる。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/cryptographic_sequencer3.webp">
+
+
+一度ハッキングした場所のセキュリティゲートに再度使用すると同様の画面になる。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/cryptographic_sequencer4.webp">
+
+メインミッション終盤では空爆を行っているTYGERヘリからマスター・コントロールプログラムをダウンロードする用途でも使用される。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/cryptographic_sequencer5.webp">
+
+
 
 　ゲーム内では「暗号化シーケンサーは、セキュリティコンソールに侵入し、セキュリティエリアへのアクセスを解除するために使用される。
 暗号化キーを復元した後、シーケンサーを使用すると、安全な無線放送をロックオンできる。
 これらの放送は、その後、バットコンピュータによって保存、追跡、再生される」と説明されている。
 
-一度ハッキングした場所のセキュリティゲートに再度使用すると敵の無線を確認する事が出来る。
-
 ペンギンがジャミング装置を作成しており、ハッキング出来ない場面がある。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/cryptographic_sequencer6.webp">
+
+
+その際「バットコンピューターへの接続不可」と画面に表示されており、バットマンも「バットケイブへの更新が妨害している」と発言している事から、
+セキュリティを破る機能はバットコンピューターに依存している事が伺える。
 
 ［アーカムナイトでは］
 
