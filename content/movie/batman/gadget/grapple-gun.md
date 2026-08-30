@@ -1,7 +1,7 @@
 +++
 title = 'グラップルガン'
 date = '2026-07-19T23:03:23+09:00'
-lastmod = '2026-08-30T16:26:53+09:00'
+lastmod = '2026-08-30T17:46:19+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -155,13 +155,23 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 またスーパーマンの敵対勢力である大型モンスターに対して、背中を取る際にも使用している。
 
-［アーカムシリーズでは］
+[アーカムアサイラムでは]
 
-　グラップネルガン名義で登場。
+　初期から使用可能。
 
-専用のかぎ爪状のアタッチメントは「バットクロー」と命名されている。
+グラップネルでガーゴイルや屋根などの上に飛び移る事が出来る。
 
-「バットクロー・ディスアーム」にアップグレード可能。
+専用のかぎ爪状のアタッチメントは「[バットクロー](https://replaydead.github.io/movie/batman/gadget/bat-claw/)」と命名されている。
+
+［アーカムシティでは］
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/grapnel_boost_takedown.webp">
+
+
+　ゲーム内で直接名称は示されていないが、アーカムシティのGrapnel Boost Takedownの説明欄にて「Grapnel Gun」と記されている。
+
+拡張現実トレーニング初級を4つクリアすると「グラップネルブースト」にアップグレード可能。
 
 [インジャスティスでは」
 
