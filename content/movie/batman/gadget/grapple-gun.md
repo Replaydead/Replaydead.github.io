@@ -1,6 +1,7 @@
 +++
 title = 'グラップルガン'
-date = '2026-08-02T16:37:03+09:00'
+date = '2026-07-19T23:03:23+09:00'
+lastmod = '2026-08-30T16:26:53+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -37,9 +38,9 @@ comments = true
 
 ・バットマン vs スーパーマン ジャスティスの誕生
 
-・ザ・フラッシュ(2023)
+・ザ・バットマン
 
-・バットマン(SFC)
+・ザ・フラッシュ(2023)
 
 ・ジャスティスリーグ(SFC)
 
@@ -50,6 +51,8 @@ comments = true
 ・アーカムシリーズ
 
 ・インジャスティス
+
+・Batman: The Telltale Series
 
 ### 【解説】
 
@@ -197,16 +200,33 @@ SFCのゲーム版でも同様の使い方が出来る他、斜め上、横に�
 
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/antiair_grapple4.webp">
 
+[Batman: The Telltale Seriesでは]
 
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/telltales/grapple_gun.webp">
+
+
+　Grapple Gun名義で登場。
+
+
+主に目標に向かってEキーで発射し移動に用いたり、マウスで照準を定めて相手を引き寄せる用途で用いる。
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/telltales/grapple_gun2.webp">
+
+
+ガジェットテーブルで名称が確認できるが、Episode1でキャットウーマンに奪われるため、「Spare Grapple Gun」というスペアを代用している。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/telltales/grapple_gun3.webp">
 
 
 ### 【個人的解説】
 
-　筆者の思うバットマン三種の神器の1つ。
+　筆者の思うバットマン三種の神器の1つ(バットラング/グラップルガン/バットケープ)。
 
-使用用途は、多岐にわたり飛行能力のないバットマンの移動を支える重要なガジェットになっている。
+使用用途は多岐にわたり、飛行能力のないバットマンの移動を支える重要なガジェットになっている。
 
-だが初登場は以外にもバットマン(1989）)からであり、原作バットマンでは類似ガジェット「グラップルフック」という縄を約半世紀以上使用していた。
+だが初登場は以外にもバットマン(1989）からであり、原作バットマンでは類似ガジェット「グラップルフック」という縄を約半世紀以上使用していた。
 
 蝙蝠と言えば翼を広げて飛ぶ動物だが、バットマンはあくまで人間であり、背中にアイアンマンのブースターのような直接飛行できるものは有していない。
 
