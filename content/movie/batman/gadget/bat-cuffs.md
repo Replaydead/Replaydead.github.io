@@ -1,6 +1,7 @@
 +++
 title = 'バットカフス'
-date = '2026-08-02T15:52:29+09:00'
+date = '2026-07-28T03:28:37.200257+09:00'
+lastmod = '2026-08-31T22:07:35+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -23,6 +24,8 @@ comments = true
 
 ・バットマンフォーエヴァー
 
+・バットマン&ロビン　Mrフリーズの逆襲！
+
 ・スーサイド・スクワッド
 
 ### 【解説】
@@ -39,7 +42,7 @@ comments = true
 
 　初出撃のシーンで装備を装着していく過程で登場。
 
-バットラングやアセチレン・トーチなどと同じく金庫内に格納されているが、作中では一度も使用される事はなかった。
+[バットラング](https://replaydead.github.io/movie/batman/gadget/batarang/)や[バット・トーチ](https://replaydead.github.io/movie/batman/gadget/bat-torch/)などと同じく金庫内に格納されているが、作中では一度も使用される事はなかった。
 
 また本作では後半のシーンでリドラーにバットケイブ内を爆破されているので、本ガジェットについても消失したと思われる。
 
@@ -61,6 +64,16 @@ comments = true
 
 ####コマンド
 ・バットマンフォーエヴァー(スーパーファミコン)：→↓X
+
+[バットマン&ロビン　Mrフリーズの逆襲では]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/Mr.Freeze/bat_cuffs.webp">
+
+
+　最序盤に「[バットレーザー](https://replaydead.github.io/movie/batman/gadget/bat-lazer/)などと一緒にバットケイブの金庫内に保管されているのが確認できる。
+
+前作同様実際には使用されなかった。
 
 [スーサイド・スクワッドでは]
 
