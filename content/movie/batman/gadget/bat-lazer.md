@@ -1,7 +1,7 @@
 +++
 title = 'バットレーザー'
-date = '2026-08-31T12:41:57.062949+09:00'
-lastmod = '2026-08-31T21:52:16+09:00'
+date = '2026-08-31T12:52:46.189151+09:00'
+lastmod = '2026-08-31T22:01:21+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -25,13 +25,20 @@ comments = true
 
 　バットマン&ロビン Mrフリーズの逆襲にて登場したガジェット。
 
-Mrフリーズのフリーズガンによって凍らされたロビンを解凍するために使用した。
+最序盤にバットケイブの金庫から持ち出す様子が確認できる。
 
+作中ではグリップを握る事で赤色のレーザーを発射するように使用していた。
 
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/Mr.Freeze/batlazer2.webp">
 
+Mrフリーズのフリーズガンによって凍らされたロビンを解凍するために使用した。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/Mr.Freeze/batlazer3.webp">
+
 
 ロビンもフリーズガンで両腕を凍らされたバットマンに対して、類似した赤色のレーザー銃のようなガジェットを使用している。
+
 
 ### 【個人的解説】
 
