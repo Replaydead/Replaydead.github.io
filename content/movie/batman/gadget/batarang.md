@@ -1,7 +1,7 @@
 +++
 title = 'バットラング'
 date = '2026-07-16T21:18:42+09:00'
-lastmod = '2026-08-31T21:02:54+09:00'
+lastmod = '2026-08-31T21:19:41+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -101,6 +101,10 @@ comments = true
 
 [バットマンフォーエヴァーでは]
 
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batarang.webp">
+
+
 公式ムックによると「バットラングには2つの異なるバージョンがあり、1つは投擲用、もう1つはバットマンの腕に取り付けられたランチャーから発射されます」とされており2種類存在している。
 
 どちらも終盤のリドラー戦にて使用。
@@ -135,6 +139,10 @@ comments = true
 類似したガジェットの[「ホーミング・バットラング」](https://replaydead.github.io/movie/batman/gadget/homing-batarang/)も登場している。
 
 [バットマン&ロビン　Mrフリーズの逆襲では]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/Mr.Freeze/batarang.webp">
+
 
 　前作フォーエヴァーと同じくバットラングランチャーのアンカー部として使用。
 
