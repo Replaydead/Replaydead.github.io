@@ -1,17 +1,20 @@
 +++
-title = 'アセチレン・トーチ'
-date = '2026-07-27T20:18:00+09:00'
+title = 'バットトーチ'
+date = '2026-07-27T20:18+09:00'
+lastmod = '2026-09-01T20:35:59+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
 +++
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/acetylene_torch.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/bat_torch.webp">
 
 ### 【名称】
 
-・アセチレン・トーチ[^1]
+・バットトーチ[^1]
+
+・アセチレン・トーチ[^2]
 
 ### 【登場作品】
 
@@ -24,11 +27,7 @@ comments = true
 　熱を発して金属を溶かすガジェット。
 ユーティリティ・ベルトの収納部に格納されている。
 
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/bat_cuffs_movie.webp">
-
-
-サイズとしては、バットカフスやバットラングとほぼ同サイズなのが、開幕のシーンから伺える。
+なお、ザ・フラッシュについては、資料から正式名称が確認されていないため、本項目にて紹介する。
 
 [バットマンフォーエヴァーでは]
 
@@ -37,7 +36,16 @@ comments = true
 ヘリと金庫の接合されている鎖の連結部を焼き切ることでヘリと金庫を分離した。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/acetylene_torch.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/bat_torch.webp">
+
+公式ムックでは「最も頑丈な素材さえも焼き尽くすことが出来る、小さな青く熱い炎のバットトーチ」と記載されている。
+
+
+サイズとしては、バットカフスやバットラングとほぼ同サイズなのが、開幕のシーンから伺える。
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/bat_cuffs_movie.webp">
+
+続編のバットマン&ロビン　Mrフリーズの逆襲!では類似するガジェット「[バットレーザー](https://replaydead.github.io/movie/batman/gadget/bat-lazer/)」が登場している。
 
 
 [ザ・フラッシュでは]
@@ -50,13 +58,11 @@ comments = true
 
 　同名のガジェットとして登場している。
 
-なお、ザ・フラッシュについては、資料から正式名称が確認されていないため、本項目にて紹介する。
-
 ### 【個人的解説】
 
 　金属を溶かすと言う形で初登場した本ガジェット。
 
-バットマン単体であれば、グラップルガンやバットケープで逃げる事は可能だろうが、人質にとられている際は様々な脱出手段を考える必要がある。
+バットマン単体であれば、グラップルガンやバットケープで逃げる事は可能だろうが、人質を取られている際は様々な脱出手段を考える必要がある。
 
 バットマンフォーエヴァーの本ガジェット使用シーンでは空中におり、移動するためには横方向に固定するラインランチャーなどは使用不可能であった。
 
@@ -66,14 +72,14 @@ comments = true
 
 とは言え、看守の輸送に使用したのはジップラインのような別ガジェットになるのだが。
 
-ガジェットの欠点としてはユーティリティベルトの右側に装着されているので、持ってきてなかった際は当然使用できないと言う点であろう。
-
 ザ・フラッシュでは右手のガントレットに手首内側に同封される形になっていたので忘れる心配はないし、いざという時に簡単に使用できるという意味から改良型と言う見方もできるだろう。
 
-作中での名称は不明だが、1994年時点の脚本ではアセチレン・トーチと命名されている。
-[^1]
+作中での名称は不明だが、1994年時点の脚本ではアセチレン・トーチと命名されており、公式ムックではバットトーチと名称が変更されている。
 
 バットマンフォーエヴァー各種ゲームでは映画に出てきたガジェットほぼすべて登場しているが、本ガジェットについては未登場となっている。
 
-[^1]: BATMAN FOREVER Written by AKIVA GOLDSMAN PRODUCTION DRAFT June 24, 1994
+[^1]: The Official Movie Book ("Batman Forever": The Official Movie Book)
+94頁
+
+[^2]: BATMAN FOREVER Written by AKIVA GOLDSMAN PRODUCTION DRAFT June 24, 1994
 https://www.dailyscript.com/scripts/batman_forever.html
