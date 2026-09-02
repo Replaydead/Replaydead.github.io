@@ -1,7 +1,7 @@
 +++
 title = 'スーパーバットラング'
 date = '2026-08-27T11:51:04.571665+09:00'
-lastmod = '2026-08-29T00:36:46+09:00'
+lastmod = '2026-09-02T12:34:55+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
@@ -52,7 +52,7 @@ comments = true
 
 自動追尾式は比較的現実的な案と言えるだろう。
 
-また後年のアーカムシリーズには類似したガジェット「リモートコントロール・バットラング」が登場している。
+また後年のアーカムシリーズには類似したガジェット「[リモートコントロール・バットラング](https://replaydead.github.io/movie/batman/gadget/remote-control-batarang/)」が登場している。
 
 [^1]: Batman Returns: The Official Movie Book
 75頁
