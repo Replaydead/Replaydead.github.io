@@ -10,7 +10,7 @@ category = "categories"
 tag = "tags"
 
 [params]
-mainSections = ["movie", "drama", "note", "tech"]
+mainSections = ["movie", "drama", "game", "note", "tech"]
 defaultTheme = "dark"
 readingSpeed = 500
 
@@ -50,16 +50,22 @@ url = "/drama/"
 weight = 3
 
 [[menu.main]]
+identifier = "game"
+name = "ゲーム"
+url = "/drama/"
+weight = 4
+
+[[menu.main]]
 identifier = "note"
 name = "雑記"
 url = "/note/"
-weight = 4
+weight = 5
 
 [[menu.main]]
 identifier = "tech"
 name = "技術"
 url = "/tech/"
-weight = 5
+weight = 6
 
 [[menu.footer]]
 name = "お問い合わせ"
