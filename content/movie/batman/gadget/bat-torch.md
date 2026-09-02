@@ -1,7 +1,7 @@
 +++
 title = 'バットトーチ'
-date = '2026-07-27T20:18+09:00'
-lastmod = '2026-09-01T20:35:59+09:00'
+date = '2026-07-27T20:18:00+09:00'
+lastmod = '2026-09-02T20:46:40+09:00'
 categories = ["ガジェット"]
 draft = false
 comments = true
