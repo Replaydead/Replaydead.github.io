@@ -1,7 +1,7 @@
 +++
 title = 'バット弾'
 date = '2026-07-31T13:16:12+09:00'
-lastmod = '2026-09-15T22:20:43+09:00'
+lastmod = '2026-09-21T15:10:59+09:00'
 categories = ["バットマン"]
 draft = false
 comments = true
@@ -33,7 +33,7 @@ comments = true
 
 [バットマン&ロビン　Mr.フリーズの逆襲では]
 
-　最序盤に「[バットレーザー](https://replaydead.github.io/movie/batman/gadget/bat-lazer/)」などと同じくバットケイブから持ち出す様子が確認できる。
+　最序盤に「[バットレーザー](https://replaydead.github.io/reference/batman/gadget/batman/bat-lazer/)」などと同じくバットケイブから持ち出す様子が確認できる。
 
 
 　バットマンがMr.フリーズを追って閉じ込められたロケットから脱出する際に使用。
@@ -57,7 +57,9 @@ Bat bombは投擲後一定時間経過すると爆発するグレネードのよ
 
 爆発判定には自爆判定もあり、大ダメージを受けてしまうため注意が必要。
 
-マニュアル上ではExplosiveと付いているが、ゲーム内では普通の「Bat bomb」となっている。
+マニュアル上ではExplosiveと付いているが、ゲーム内では普通の「Bat bomb」となっている[^2]
+
+また同マニュアルでは「Timed explosive device（次元爆弾装置）」と説明されている。
 
 [インジャスティスでは]
 
@@ -79,3 +81,6 @@ Bat bombは投擲後一定時間経過すると爆発するグレネードのよ
 
 [^1]: Making of "Batman and Robin"
 67頁
+
+[^2]: BATMAN &  ROBIN Playstation Manual
+17頁
