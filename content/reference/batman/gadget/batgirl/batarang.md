@@ -1,7 +1,7 @@
 +++
 title = 'バットラング'
 date = '2026-09-22T04:47:21+09:00'
-lastmod = '2026-09-22T22:18:38+09:00'
+lastmod = '2026-09-22T23:01:05+09:00'
 categories = ["バットガール"]
 draft = false
 comments = true
@@ -26,7 +26,7 @@ comments = true
 
 ### 【解説】
 
-　バットガール用の[バットラング](reference/batman/gadget/robin/batarang)。
+　バットガール用の[バットラング](reference/batman/gadget/batman/batarang)。
 
 バットマン & ロビン Mrフリーズの逆襲にて登場しているが、ゲーム版では採用されなかった。
 
