@@ -1,7 +1,7 @@
 +++
 title = 'バットラング'
-date = '2026-07-16T21:18:42+09:00'
-lastmod = '2026-09-22T19:37:41+09:00'
+date = '2026-09-22T10:39:16+09:00'
+lastmod = '2026-09-22T22:00:51+09:00'
 categories = ["バットマン"]
 draft = false
 comments = true
@@ -45,6 +45,8 @@ comments = true
 ・ザ・バットマン
 
 ・ザ・フラッシュ（2023）
+
+・バットマン・ザ・フューチャー/蘇ったジョーカー
 
 ・ジャスティスリーグ(スーパーファミコン、メガドライブ)
 
@@ -243,6 +245,21 @@ comments = true
 　シベリアの軍事施設に侵入した際に飛び道具として対人戦で使用。
 
 直接投げつける他、壁に当てて跳ね返すように使用した。
+
+[バットマン・ザ・フューチャー/蘇ったジョーカーでは]
+
+　ブルースの姿で訓練として使用しているシーンがある。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/beyond/batarang_bruce.webp">
+
+また現役時代にも使用。
+
+罠の可能性のある、ジョーカーのプレゼントボックスのリボンを切断した。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/beyond/batarang_batman.webp">
+
 
 ［アーカムアサイラムでは］
 
