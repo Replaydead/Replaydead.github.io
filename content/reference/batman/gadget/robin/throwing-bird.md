@@ -1,7 +1,7 @@
 +++
 title = 'スローイングバード'
-date = '2026-09-06T13:25:43+09:00'
-lastmod = '2026-09-22T09:01:26+09:00'
+date = '2026-09-22T00:38:38+09:00'
+lastmod = '2026-09-22T23:14:08+09:00'
 categories = ["ロビン"]
 draft = false
 comments = true
@@ -32,7 +32,7 @@ comments = true
 
 　最序盤にバットケイブの金庫内に保管されているのが確認出来る。
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/Mr.Freeze/throwing_bird.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/Mr.Freeze/throwing_bird2.webp">
 
 実際に使用されるのは物語終盤になる。
 
