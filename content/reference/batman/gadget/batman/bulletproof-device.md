@@ -1,14 +1,14 @@
 +++
 title = '防弾装置'
-date = '2026-09-23T11:03:57+09:00'
-lastmod = '2026-09-23T11:48:22+09:00'
+date = '2026-09-23T12:03:22+09:00'
+lastmod = '2026-09-23T13:17:57+09:00'
 categories = ["バットマン"]
 draft = false
 comments = true
 +++
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/gotham_knight/field.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/gotham_knight/bulletproof-device.webp">
 
 
 
@@ -31,13 +31,13 @@ comments = true
 ルーシャスは「銃声の音を感知すると波動が生み出されて、その波動が銃弾を跳ね返す衝撃波センサー」を発生する装置と解説している。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/gotham_knight/field2.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/gotham_knight/bulletproof-device2.webp">
 
 
 「拳銃なら至近距離でも大丈夫ですがライフルは無理です」と説明されており、イタリアンマフィアの銃撃を完全に無力化する事が出来た。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/gotham_knight/field3.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/gotham_knight/bulletproof-device3.webp">
 
 
 ボスを解放しようと手下が射撃した銃弾が弾かれた際に、手下のマフィアを負傷させた事から、効きすぎるとの事でルーシャスに返却された。
