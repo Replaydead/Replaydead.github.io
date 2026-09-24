@@ -1,7 +1,7 @@
 +++
 title = 'バットラング'
 date = '2026-09-22T10:39:16+09:00'
-lastmod = '2026-09-22T22:26:48+09:00'
+lastmod = '2026-09-24T12:20:24+09:00'
 categories = ["バットマン"]
 draft = false
 comments = true
@@ -47,6 +47,8 @@ comments = true
 ・ザ・フラッシュ（2023）
 
 ・バットマン・ザ・フューチャー/蘇ったジョーカー
+
+・バットマン　ダークナイト　リターンズ
 
 ・ジャスティスリーグ(スーパーファミコン、メガドライブ)
 
@@ -96,13 +98,13 @@ comments = true
 
 ［バットマン(1989）では］
 
-[ロープ付きバットラング](https://replaydead.github.io/movie/batman/gadget/rope-attached-batarang/)が使用されている。
+[ロープ付きバットラング](https://replaydead.github.io/reference/batman/gadget/batman/rope-attached-batarang/)が使用されている。
 
 また1986年10月時点の脚本では「縁が蝙蝠の羽のように波打っている」と表現されている[^2]
 
 ［バットマンリターンズでは］
 
-　自動追尾する[スーパーバットラング](https://replaydead.github.io/movie/batman/gadget/super-batarang/)が使用されている。
+　自動追尾する[スーパーバットラング](https://replaydead.github.io/reference/batman/gadget/batman/super-batarang/)が使用されている。
 
 ［バットマンリターンズ(SFC)では］
 
@@ -115,13 +117,13 @@ comments = true
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batarang.webp">
 
 
-公式ムックによると「バットラングには2つの異なるバージョンがあり、1つは投擲用、もう1つはバットマンの腕に取り付けられたランチャーから発射されます」とされており2種類存在している[^3]
+公式ムックによると「バットラングには2つの異なるバージョンがあり、1つは投擲用、もう1つはバットマンの腕に取り付けられたランチャーから発射されます」とされており、2種類存在している[^3]
 
 どちらも終盤のリドラー戦にて使用。
 
 　投擲用はリドラーの使用している3Dホログラム装置「BOX」に対して使用。
 
-公式ムックでは「バットラング」名義だったが、フィギュアでは「[ソニック・バットラング](https://replaydead.github.io/movie/batman/gadget/sonic-batarang/)」の名義が使われている。
+公式ムックでは「バットラング」名義だったが、フィギュアでは「[ソニック・バットラング](https://replaydead.github.io/reference/batman/gadget/batman/sonic-batarang/)」の名義が使われている。
 
 ［バットマンフォーエヴァー（各種ゲーム）では］
 
@@ -146,7 +148,7 @@ comments = true
 
 ・メガドライブ版：↓↘︎→A
 
-類似したガジェットの[「ホーミング・バットラング」](https://replaydead.github.io/movie/batman/gadget/homing-batarang/)も登場している。
+類似したガジェットの[「ホーミング・バットラング」](https://replaydead.github.io/reference/batman/gadget/batman/homing-batarang/)も登場している。
 
 [バットマン&ロビン　Mrフリーズの逆襲では]
 
@@ -193,7 +195,8 @@ comments = true
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/batrang2.webp">
 
 
-また終盤のラーズ・アル・グールとの決戦でも使用。
+　また終盤のラーズ・アル・グールとの決戦でも使用。
+
 ラーズを地面に倒した際に指の間に2枚挟んだ状態で止め刺しの形で用いたが、実際には刺さずに未遂で終わった。
 
 [ダークナイトライジングでは]
@@ -210,7 +213,7 @@ comments = true
 
 　終盤リドラーの起こした洪水の中で使用。
 
-漏電した高圧ケーブルが市民の避難経路を塞いでいたため、胸部の蝙蝠型エンブレムを取り外し、ワイヤーを切断した。
+漏電した高圧ケーブルが市民の避難経路を塞いでいたため、ケーブルを切断するために刃物のように用いた。
 
 
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_batman/batarang.webp">
@@ -259,6 +262,26 @@ comments = true
 
 
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/beyond/batarang_batman.webp">
+
+[ダークナイトリターンズでは]
+
+　キャリー達を襲ったミュータント相手に使用。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/dark_knight_returns/batarang.webp">
+
+
+4枚同時に構えて腕に向かって投げつけた。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/dark_knight_returns/batarang2.webp">
+
+またケビンを誘拐したミュータント相手にも使用。
+
+蝙蝠を部屋に入れて混乱している状態で手を貫通するように投げつけた。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/dark_knight_returns/batarang3.webp">
 
 
 ［アーカムアサイラムでは］
@@ -320,9 +343,11 @@ comments = true
 
 初登場が1939年の原作コミックからであり、派生したガジェットを含めれば、ほぼすべての作品で登場し使用されているガジェットだと思われる。
 
-リモコン式や遠隔式、紐がついて引きずれるようなものなど、様々な種類の派生ガジェットが存在している。
+リモコン式や遠隔式、紐がついて引き摺れるようなものなど、様々な種類の派生ガジェットが存在している。
 
-そのため、遠距離で投げる蝙蝠型の飛び道具という部分以外は共通する設定は少ないように思える。
+そのため、遠距離で投げる蝙蝠型の飛び道具という部分以外は共通する設定は少ない。
+
+なんならザ・バットマンでは投擲武器ですら無い。
 
 理由としては、そもそもブーメランに利便性がそこまでない事が挙げられるだろうか。
 
