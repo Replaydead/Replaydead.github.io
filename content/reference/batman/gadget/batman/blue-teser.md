@@ -1,11 +1,15 @@
 +++
 title = 'ブルーテーザー'
-date = '2026-09-29T08:03:47+09:00'
-lastmod = '2026-09-29T08:11:12+09:00'
+date = '2026-09-30T22:16:11+09:00'
+lastmod = '2026-10-01T22:01:49+09:00'
 categories = ["バットマン"]
 draft = false
 comments = true
 +++
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_batman/blue_taser.webp">
+
 
 
 ### 【名称】
@@ -23,6 +27,10 @@ comments = true
 グローブに備わっており、スタンガンのように電流を当てて使用する。
 
 作中では序盤の地下道にてギャングを痙攣させる形で使用した。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_batman/blue_taser2.webp">
+
 
 ### 【個人的解説】
 
