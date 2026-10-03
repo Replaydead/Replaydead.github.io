@@ -23,3 +23,34 @@ a {
     display: block;
     margin-bottom: 4px;
 }
+
+.spoiler-block {
+  margin: 1.5rem 0;
+}
+
+.spoiler-toggle {
+  cursor: pointer;
+  background: #8b6914;
+  color: #d4c4a0;
+  border: none;
+  padding: 0.4rem 1rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.spoiler-toggle:hover {
+  background: #a07820;
+}
+
+.spoiler-content {
+  display: none;
+  margin-top: 0.75rem;
+  padding: 1rem;
+  border-left: 3px solid #8b6914;
+  background: #221c14;
+  color: #d4c4a0;
+}
+
+.spoiler-content.open {
+  display: block;
+}
