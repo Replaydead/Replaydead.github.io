@@ -1,7 +1,7 @@
 +++
 title = 'ロープ付きバットラング'
 date = '2026-09-22T23:08:34+09:00'
-lastmod = '2026-09-23T21:56:09+09:00'
+lastmod = '2026-10-03T15:43:59+09:00'
 categories = ["バットマン"]
 draft = false
 comments = true
@@ -25,6 +25,8 @@ comments = true
 ・バットマン
 
 ・バットマン(1989）
+
+・Batman Returns(DOS)
 
 ・バットマン　ダークナイト　リターンズ
 
@@ -53,6 +55,16 @@ comments = true
 1986年10月20日付のSam Hammによる初期脚本ではバットマン(1989)でビッキーとのチェイスシーンで[スピアーガン](reference/batman/gadget/batman/grapple-gun)が使用されたシーンで、このロープ付きバットラングが使用された事が確認されている。
 
 脚本によると「バットマンがユーティリティ・ベルトのバネ式リールを作動させると、彼とヴィッキーは勢いよく空中に引き上げられる」とされている。
+
+[atman Returns(DOS)では]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/returns/rope.webp">
+
+
+　「ROPE」名義で登場。
+
+バットケイブにてユーティリティベルトに装備できる。
 
 [ダークナイトリターンズでは]
 
