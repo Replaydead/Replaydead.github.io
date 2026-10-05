@@ -1,7 +1,7 @@
 +++
 title = '酸の花'
-date = '2026-09-24T22:00:37+09:00'
-lastmod = '2026-10-01T07:59:51+09:00'
+date = '2026-10-01T08:00:59+09:00'
+lastmod = '2026-10-06T08:05:00+09:00'
 categories = ["ジョーカー"]
 draft = false
 comments = true
@@ -20,13 +20,17 @@ comments = true
 
 ・THE ACID FLOWER[^1]
 
-•Acid Blossom：インジャスティス
+・蘭の花[^2]
+
+・Acid Blossom：インジャスティス
+
+・アシッド・ブラッサム
 
 ### 【登場作品】
 
-•バットマン（1989）
+・バットマン（1989）
 
-•インジャスティス
+・インジャスティス
 
 ### 【解説】
 
@@ -52,9 +56,15 @@ comments = true
 
 ［インジャスティスでは］
 
-素早く酸を撒き散らすコマンド技。
 
-コマンドは←，→+M
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/injustice/acid_blossom.webp">
+
+
+　「Acid Blossom」名義で登場。
+
+日本語名では「アシッド・ブラッサム」。
+
+素早く酸を撒き散らすコマンド技。
 
 ### 【個人的解説】
 
@@ -68,3 +78,6 @@ comments = true
 
 [^1]: バットマンオフィシャル・パーフェクト・アルバム
 96頁
+
+[^2]: 【ムービー・マスターピース ＤＸ】『バットマン』１／６スケールフィギュア　ジョーカー
+https://www.hottoys.jp/item/view/100001731.php
