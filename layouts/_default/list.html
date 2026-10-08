@@ -10,7 +10,7 @@
     {{ range .Pages }}
         {{ $title := .Title }}
         <article class="post-item">
-            <h2 class="post-item-title">
+                        <h2 class="post-item-title">
                 <a href="{{ .RelPermalink }}">{{ $title }}</a>
             </h2>
             <a href="{{ .RelPermalink }}" class="post-item-image">
