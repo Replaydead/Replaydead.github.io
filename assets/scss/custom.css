@@ -33,3 +33,38 @@ a {
     display: block;
     margin-bottom: 4px;
 }
+
+.post-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 2rem;
+    margin-top: 1.5rem;
+}
+
+.post-item-title {
+    font-size: 1.1rem;
+    margin: 0 0 0.5rem;
+}
+
+.post-item-title a {
+    color: #d4c4a0 !important;
+    text-decoration: none;
+}
+
+.post-item-title a:hover {
+    color: #e8b923 !important;
+}
+
+.post-item-image img,
+.post-item-noimage {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    display: block;
+    border-radius: 8px;
+    background: #3a2f25;
+}
+
+.post-item-image:hover img {
+    opacity: 0.85;
+}
