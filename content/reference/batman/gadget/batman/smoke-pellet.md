@@ -1,10 +1,12 @@
 +++
 title = 'スモークペレット'
-date = '2026-07-13T16:35:41+09:00'
-lastmod = '2026-09-22T19:20:30+09:00'
-categories = ["バットマン"]
+date = '2026-09-22T10:20:49+09:00'
+lastmod = '2026-10-09T07:53:04+09:00'
+categories = ["batman"]
 draft = false
 comments = true
+image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/smoke_pellet.webp'
+
 +++
 
 
@@ -13,9 +15,11 @@ comments = true
 
 ### 【名称】
 
-・スモークペレット[^1]
+・SMOKE PELLET[^1]
 
-・スモークカプセル[^2]
+・SMOKE BOMB
+
+・smoke capsules[^2]
 
 ・煙カプセル[^3]
 
@@ -28,6 +32,8 @@ comments = true
 ・バットマン(Detective Comics #29～)[^7]
 
 ・バットマン（1989）
+
+・Batman Returns(DOS)
 
 ・バットマンフォーエヴァー(各種ゲーム)
 
@@ -92,6 +98,16 @@ Prop Galleryでも「Batman Smoke Capsule」として販売されている[^8]
 DCショップでも「Batman（1989）Smoke Capsules」として販売されている[^9]
 
 液体の色は青色。
+
+[Batman Returns(DOS)では]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/returns/smoke_bomb.webp">
+
+
+　「SMOKE BOMB」名義で登場。
+
+バットケイブにてユーティリティベルトに装備出来る。
 
  [バットマンフォーエヴァー各種ゲーム作品では]
 
@@ -172,11 +188,11 @@ DCショップでも「Batman（1989）Smoke Capsules」として販売されて
 
 　手榴弾のようなグレネード形式で登場している。
 
-地面または目標に向かって投擲すると煙幕が発生し、煙が発生している間は敵からの追跡を逃れることが出来る。
+地面または目標に向かって投擲すると煙幕が発生し、煙が発生している間は敵からの追跡を逃れる事が出来る。
 
 投擲後一定時間のクールタイムがあり、連続では使用できない。
 
-ゲーム内では「スモークペレットは周囲を混乱させる煙で満たし、攻撃を受けている時でも安全に逃げることができる。
+ゲーム内では「スモークペレットは周囲を混乱させる煙で満たし、攻撃を受けている時でも安全に逃げる事ができる。
 さらにスモークペレットで敵の集団を狙い、混乱に乗じて静かに倒すことも可能。
 戦闘中に使用すると敵はパニックに陥り、互いに攻撃し合うなど、無差別に攻撃を仕掛けてくる。
 使用後は再使用に時間がかかる」と説明されている。
