@@ -6,12 +6,22 @@
     {{ .Content }}
 </div>
 
-<ul>
+<div class="post-list">
     {{ range .Pages }}
-        <li>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </li>
+        {{ $title := .Title }}
+        <article class="post-item">
+            <h2 class="post-item-title">
+                <a href="{{ .RelPermalink }}">{{ $title }}</a>
+            </h2>
+            <a href="{{ .RelPermalink }}" class="post-item-image">
+                {{ with .Params.image }}
+                    <img src="{{ . }}" alt="{{ $title }}" loading="lazy">
+                {{ else }}
+                    <div class="post-item-noimage"></div>
+                {{ end }}
+            </a>
+        </article>
     {{ end }}
-</ul>
+</div>
 
 {{ end }}
