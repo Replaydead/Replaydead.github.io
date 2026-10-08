@@ -1,10 +1,12 @@
 +++
 title = 'ライフル'
-date = '2026-09-24T07:48:57+09:00'
-lastmod = '2026-09-24T19:54:05+09:00'
-categories = ["バットマン"]
+date = '2026-09-24T20:38:27+09:00'
+lastmod = '2026-10-09T08:02:17+09:00'
+categories = ["batman"]
 draft = false
 comments = true
+image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/dark_knight_returns/rifle.webp'
+
 +++
 
 
