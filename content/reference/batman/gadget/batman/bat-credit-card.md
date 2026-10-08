@@ -1,20 +1,22 @@
 +++
 title = 'バットクレジットカード'
-date = '2026-09-25T12:35:56+09:00'
-lastmod = '2026-09-26T11:12:01+09:00'
-categories = ["バットマン"]
+date = '2026-09-26T13:33:09+09:00'
+lastmod = '2026-10-09T07:50:33+09:00'
+categories = ["batman"]
 draft = false
 comments = true
+image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/Mr.Freeze/bat_creditcard.webp'
+
 +++
 
 
 ### 【名称】
 
-• Bat-Credit Card[^1]
+・ Bat-Credit Card[^1]
 
 ### 【登場作品】
 
-•バットマン　& ロビン Mrフリーズの逆襲！
+・バットマン　& ロビン Mrフリーズの逆襲！
 
 ### 【解説】
 
@@ -24,7 +26,7 @@ comments = true
 
 映像では有効期限が「FOREVER」となっていた（前作ネタ）。
 
-供給元は「GothCard（ゴスカード）」とされている[^1]
+供給元は「GothCard」とされている[^1]
 
 ### 【個人的解説】
 
