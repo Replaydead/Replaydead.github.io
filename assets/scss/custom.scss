@@ -11,16 +11,6 @@ a {
     color: #8b6914 !important;
 }
 
-/* 記事タイトルのリンクは本文リンクより明るくして読めるようにする */
-.article-title,
-.article-title a {
-    color: #d4c4a0 !important;
-}
-
-.article-title a:hover {
-    color: #e8b923 !important;
-}
-
 .article-title {
   text-transform: uppercase;
 }
