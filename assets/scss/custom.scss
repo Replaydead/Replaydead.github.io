@@ -1,10 +1,10 @@
 body {
     background-color: #1a1410 !important;
-    color: #d4c4a0 !important;
+    color: #ffffff !important;
 }
 
 h1, h2, h3, p {
-    color: #d4c4a0 !important;
+    color: #ffffff !important;
 }
 
 a {
@@ -58,4 +58,19 @@ a {
 
 .post-item-image:hover img {
     opacity: 0.85;
+}
+
+.article-content,
+.article-content p,
+.article-content li,
+.article-content td,
+.article-content th,
+.article-content blockquote,
+.article-content h1,
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.article-content h5,
+.article-content h6 {
+    color: #ffffff !important;
 }
