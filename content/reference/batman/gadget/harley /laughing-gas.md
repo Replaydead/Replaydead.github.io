@@ -1,10 +1,12 @@
 +++
 title = '笑気ガス'
-date = '2026-10-08T21:31:09+09:00'
-lastmod = '2026-10-08T22:12:53+09:00'
-categories = ["ハーレイ・クイン"]
+date = '2026-10-08T22:15:43+09:00'
+lastmod = '2026-10-08T22:37:23+09:00'
+categories = ["harley "]
 draft = false
 comments = true
+image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/superman_tas/laughing_gas_harley2.webp'
+
 +++
 
 
