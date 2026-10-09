@@ -1,14 +1,13 @@
 +++
 title = 'スピアガン'
-date = '2026-09-28T13:35:21+09:00'
-lastmod = '2026-10-01T20:32:36+09:00'
-categories = ["バットマン"]
+date = '2026-10-02T10:15:47+09:00'
+lastmod = '2026-10-09T12:15:23+09:00'
+categories = ["batman"]
 draft = false
 comments = true
+image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/speargun.webp'
+
 +++
-
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_flash/grapplegun.webp">
 
 
 ### 【解説】
