@@ -1,15 +1,13 @@
 +++
 title = 'ライフル'
 date = '2026-09-24T20:38:27+09:00'
-lastmod = '2026-10-09T08:02:17+09:00'
+lastmod = '2026-10-09T12:38:19+09:00'
 categories = ["batman"]
 draft = false
 comments = true
+image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/dark_knight_returns/rifle.webp'
+
 +++
-
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/dark_knight_returns/rifle.webp">
-
 
 
 ### 【名称】
@@ -46,7 +44,7 @@ comments = true
 
 ### 【個人的解説】
 
-　[スピアーガン](reference/batman/gadget/batman/grapple-gun)で良いのでは？
+　[スピアーガン](movie/batman/1989/gadget/batman/spear-gun)で良いのでは？
 と思うが、メタな話、ダークナイトリターンズはスピアーガンが初登場する1989年より2年前の作品である。
 
 そのため上方への移動は[ロープ付きバットラング](reference/batman/gadget/batman/rope-attached-batarang)が担っており、本ガジェットはスピアーガンの原型の一つと考えられる。
