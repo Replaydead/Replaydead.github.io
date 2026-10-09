@@ -1,4 +1,0 @@
----
-title: "アップグレード"
-description: ""
----
