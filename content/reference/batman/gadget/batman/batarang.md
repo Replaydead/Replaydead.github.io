@@ -1,8 +1,8 @@
 +++
 title = 'バットラング'
 date = '2026-09-22T10:39:16+09:00'
-lastmod = '2026-09-24T12:20:24+09:00'
-categories = ["バットマン"]
+lastmod = '2026-10-11T23:39:06+09:00'
+categories = ["batman"]
 draft = false
 comments = true
 +++
@@ -16,9 +16,9 @@ comments = true
 
 ・baterang
 
-・batarang
+・batarang[^1]
 
-・バットラング
+・バットラング：バットマン(1989)[^2]
 
 ・バタラン
 
@@ -34,7 +34,7 @@ comments = true
 
 ・バットマンフォーエヴァー
 
-・バットマン&ロビン　Mrフリーズの逆襲
+・バットマン　&　ロビン　Mrフリーズの逆襲
 
 ・バットマンビギンズ
 
@@ -46,15 +46,23 @@ comments = true
 
 ・ザ・フラッシュ（2023）
 
+・Gotham：ファイナルシーズン
+
 ・バットマン・ザ・フューチャー/蘇ったジョーカー
 
 ・バットマン　ダークナイト　リターンズ
+
+・バットマン & ハーレイ・クイーン
+
+・アサルト・オン・アーカム
+
+・デス・オブ・スーパーマン
 
 ・ジャスティスリーグ(スーパーファミコン、メガドライブ)
 
 ・バットマン(ファミコン)
 
-・バットマンリターンズ(スーパーファミコン、メガドライブ)
+・バットマンリターンズ(スーパーファミコン、メガドライブ、DOS)
 
 ・バットマンファーエヴァー（各種ゲーム作品）
 
@@ -80,7 +88,7 @@ comments = true
 
 　Detective COMICS No.31で初登場。
 
-作中では「オーストラリアのブッシュマンのブーメランを模したフライングバットラング」と説明されている[^1]
+作中では「オーストラリアのブッシュマンのブーメランを模したフライングバットラング」と説明されている[^3]
 
 初登場ではマスターモンクに使用したが、催眠術にかけられて動きが制限されていたためかあっさり躱されている。
 
@@ -100,7 +108,10 @@ comments = true
 
 [ロープ付きバットラング](https://replaydead.github.io/reference/batman/gadget/batman/rope-attached-batarang/)が使用されている。
 
-また1986年10月時点の脚本では「縁が蝙蝠の羽のように波打っている」と表現されている[^2]
+公式ムックでは「4つに折りたたんでベルトに収納するブーメラン状の武器。
+ワイヤーを接続したまま投げつける事もある」と説明されている[^2]
+
+また1986年10月時点の脚本では「縁が蝙蝠の羽のように波打っている」と表現されている[^4]
 
 ［バットマンリターンズでは］
 
@@ -111,13 +122,21 @@ comments = true
 　バット・ラング名義にて登場。
 オーソドックスな飛び道具。
 
+[Batman Returns(DOS)では]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/returns/batarang.webp">
+
+
+バットケイブにてユーティリティベルトに装備できる。
+
 [バットマンフォーエヴァーでは]
 
 
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/forever/batarang.webp">
 
 
-公式ムックによると「バットラングには2つの異なるバージョンがあり、1つは投擲用、もう1つはバットマンの腕に取り付けられたランチャーから発射されます」とされており、2種類存在している[^3]
+公式ムックによると「バットラングには2つの異なるバージョンがあり、1つは投擲用、もう1つはバットマンの腕に取り付けられたランチャーから発射されます」とされており、2種類存在している[^5]
 
 どちらも終盤のリドラー戦にて使用。
 
@@ -142,11 +161,6 @@ comments = true
  敵AIが飛び道具に対してしゃがむアルゴリズムを持つため実用性が低い。
 
 ダメージ判定のある地面のステージでは相手を押し出して追加ダメージを与える使い方が出来る。
-
-####コマンド
-・スーパーファミコン版：↓↘︎→B
-
-・メガドライブ版：↓↘︎→A
 
 類似したガジェットの[「ホーミング・バットラング」](https://replaydead.github.io/reference/batman/gadget/batman/homing-batarang/)も登場している。
 
@@ -177,7 +191,7 @@ comments = true
 
 　ブルースが自身で金属を削って作成した、蝙蝠型の飛び道具。
 
-ダークナイトオフィシャルブックによると、伝統的な手裏剣を元にアルフレッドが作成した刃付き武器とされている[^4]
+ダークナイトオフィシャルブックによると、伝統的な手裏剣を元にアルフレッドが作成した刃付き武器とされている[^6]
 
 また犯罪者を武装解除し、混乱させるための手段として使用するとも記載されており、対人想定なのが窺える。
 
@@ -209,20 +223,6 @@ comments = true
 
 投擲する様子は直接映っていないが、囚人に小型のバットラングのようなガジェットが刺さった後、時間差で気絶させていた事から毒性がある事が伺える。
 
-［ザ・バットマンでは］
-
-　終盤リドラーの起こした洪水の中で使用。
-
-漏電した高圧ケーブルが市民の避難経路を塞いでいたため、ケーブルを切断するために刃物のように用いた。
-
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_batman/batarang.webp">
-
-
-本作のバットラングはユーティリティベルトから取り出す従来作品とは異なり、バットスーツのエンブレムそのものを兼ねている。
-
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_batman/batarang2.webp">
 
 
 [バットマンvsスーパーマン　ジャスティスの誕生では]
@@ -239,6 +239,23 @@ comments = true
 
 コマンド236Pで「バタラン投げ」という名称で登場。
 
+［ザ・バットマンでは］
+
+　終盤リドラーの起こした洪水の中で使用。
+
+漏電した高圧ケーブルが市民の避難経路を塞いでいたため、ケーブルを切断するために刃物のように用いた。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_batman/batarang.webp">
+
+
+本作のバットラングはユーティリティベルトから取り出す従来作品とは異なり、バットスーツのエンブレムそのものを兼ねている。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_batman/batarang2.webp">
+
+脚本では映画での使用シーンの描写を「folding his TACTICAL KNIFE」と記述しており、撮影の際にバットラングに変更された可能性がある。
+
 ［ザ・フラッシュ(2023)では］
 
 
@@ -248,6 +265,18 @@ comments = true
 　シベリアの軍事施設に侵入した際に飛び道具として対人戦で使用。
 
 直接投げつける他、壁に当てて跳ね返すように使用した。
+
+［Gotham ファイナルシーズンでは］
+
+　最終話に登場。
+
+バーバラを人質に取られたゴードンを救うために使用。
+
+1枚目でジョーカーの手に持ったピストルを撃ち落とし、2枚目で手を貫通した。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/gotham/batarang.webp">
+
 
 [バットマン・ザ・フューチャー/蘇ったジョーカーでは]
 
@@ -282,6 +311,37 @@ comments = true
 
 
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/dark_knight_returns/batarang3.webp">
+
+[バットマン & ハーレイ・クイーンでは]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman & harley_quinn/batarang.webp">
+
+
+　ポイズンアイビーの研究室にて使用。
+
+ジェイソン・ウッドルーに向かって投擲するが弾かれた。
+
+地面に突き刺さった後電流が走ると共に爆発した。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman & harley_quinn/batarang2.webp">
+
+[アサルト・オン・アーカムでは]
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/assault_on_arkham/batarang.webp">
+
+
+
+[デス・オブ・スーパーマンでは]
+
+　ドゥームズデイとの戦闘にて使用。
+
+マーシャン・マンハンターを攻撃したドームズデイの頭部に向かって投擲し、ぶつけると同時に爆発した。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/death_of_superman/batarang.webp">
 
 
 ［アーカムアサイラムでは］
@@ -365,14 +425,20 @@ comments = true
 
 名前のブーメラン要素を捨ててまで利便性を出そうとしているところに制作人の苦心が伺える。
 
-[^1]: Batman: The Golden Age Vol. 1 (Detective Comics (1937-2011)) (English Edition)
-47頁
+[^1]: Hot Toys Batman Sixth Scale Figure
+https://www.sideshow.com/collectibles/dc-comics-batman-hot-toys-914044
 
-[^2]: Sam Hamm, Batman (First Draft, October 20, 1986)
-https://www.dailyscript.com/scripts/batman_early.html
-
-[^3]: The Official Movie Book ("Batman Forever": The Official Movie Book)
+[^2]: バットマンオフィシャル・パーフェクト・アルバム
 94頁
 
-[^4]: The Dark Knight Manual: Tools, Weapons, Vehicles & Documents from the Batcave
+[^3]: Batman: The Golden Age Vol. 1 (Detective Comics (1937-2011)) (English Edition)
+47頁
+
+[^4]: Sam Hamm, Batman (First Draft, October 20, 1986)
+https://www.dailyscript.com/scripts/batman_early.html
+
+[^5]: The Official Movie Book ("Batman Forever": The Official Movie Book)
+94頁
+
+[^6]: The Dark Knight Manual: Tools, Weapons, Vehicles & Documents from the Batcave
 57頁
