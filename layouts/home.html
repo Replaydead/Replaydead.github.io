@@ -1,0 +1,29 @@
+{{ define "main" }}
+    {{- $paginator := partial "helper/paginator.html" . -}}
+
+    {{ if eq $paginator.PageNumber 1 }}
+    <h2 class="post-section-title">最近更新された記事</h2>
+    <section class="article-list">
+        {{ $contentSections := slice "reference" "game" "movie" "anime" "tech" "note" "drama" }}
+        {{ $articles := where site.RegularPages "Section" "in" $contentSections }}
+        {{ range first 5 (sort $articles "Lastmod" "desc") }}
+            {{ partial "article-list/default" . }}
+        {{ end }}
+    </section>
+
+    <h2 class="post-section-title">新着記事</h2>
+    {{ end }}
+
+    <section class="article-list">
+        {{ range $paginator.Pages }}
+            {{ partial "article-list/default" . }}
+        {{ end }}
+    </section>
+
+    {{ partial "pagination.html" . }}
+    {{ partial "footer/footer" . }}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}
