@@ -6,21 +6,20 @@
     {{ .Content }}
 </div>
 
+{{ if .IsHome }}
+<h2 class="post-section-title">最近更新された記事</h2>
+<div class="post-list">
+    {{ range first 6 (sort (where site.RegularPages "Section" "reference") "Lastmod" "desc") }}
+        {{ partial "post-card.html" . }}
+    {{ end }}
+</div>
+
+<h2 class="post-section-title">新着記事</h2>
+{{ end }}
+
 <div class="post-list">
     {{ range .Pages }}
-        {{ $title := .Title }}
-        <article class="post-item">
-                        <h2 class="post-item-title">
-                <a href="{{ .RelPermalink }}">{{ $title }}</a>
-            </h2>
-            <a href="{{ .RelPermalink }}" class="post-item-image">
-                {{ with .Params.image }}
-                    <img src="{{ . }}" alt="{{ $title }}" loading="lazy">
-                {{ else }}
-                    <div class="post-item-noimage"></div>
-                {{ end }}
-            </a>
-        </article>
+        {{ partial "post-card.html" . }}
     {{ end }}
 </div>
 
