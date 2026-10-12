@@ -110,7 +110,7 @@ style = "monokai"
 
 [params.widgets]
 
-homepage = [{type = "archives", params = {limit = 10}}, {type = "recent-updates", params = {limit = 10}}]
+homepage = [{type = "archives", params = {limit = 10}}, {type = "recent-updates", params = {limit = 10}}, {type = "categories", params = {limit = 10}}]
 
 [params.footer]
 since = 2026
