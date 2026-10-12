@@ -7,11 +7,13 @@
   {{- end }}
 </url>
 {{ range site.RegularPages }}
+{{ if ne .RelPermalink "/archives/" }}
 <url>
   <loc>{{ .Permalink }}</loc>
   {{- if not .Lastmod.IsZero }}
   <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}</lastmod>
   {{- end }}
 </url>
+{{ end }}
 {{ end }}
 </urlset>
