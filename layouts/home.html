@@ -1,21 +1,24 @@
 {{ define "main" }}
     {{- $paginator := partial "helper/paginator.html" . -}}
 
-        {{ if eq $paginator.PageNumber 1 }}
+    {{ if eq $paginator.PageNumber 1 }}
+    {{ $contentSections := slice "reference" "game" "movie" "anime" "tech" "note" "drama" }}
+    {{ $articles := where site.RegularPages "Section" "in" $contentSections }}
+    {{ $edited := slice }}
+    {{ range sort $articles "Lastmod" "desc" }}
+        {{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}
+            {{ $edited = $edited | append . }}
+        {{ end }}
+    {{ end }}
+
+    {{ with first 5 $edited }}
     <h2 class="post-section-title">最近更新された記事</h2>
     <section class="article-list">
-        {{ $contentSections := slice "reference" "game" "movie" "anime" "tech" "note" "drama" }}
-        {{ $articles := where site.RegularPages "Section" "in" $contentSections }}
-        {{ $edited := slice }}
-        {{ range sort $articles "Lastmod" "desc" }}
-            {{ if .Lastmod.After .Date }}
-                {{ $edited = $edited | append . }}
-            {{ end }}
-        {{ end }}
-        {{ range first 5 $edited }}
+        {{ range . }}
             {{ partial "article-list/default" . }}
         {{ end }}
     </section>
+    {{ end }}
 
     <h2 class="post-section-title">新着記事</h2>
     {{ end }}
