@@ -1,0 +1,13 @@
+{{ $title := .Title }}
+<article class="post-item">
+    <h2 class="post-item-title">
+        <a href="{{ .RelPermalink }}">{{ $title }}</a>
+    </h2>
+    <a href="{{ .RelPermalink }}" class="post-item-image">
+        {{ with .Params.image }}
+            <img src="{{ . }}" alt="{{ $title }}" loading="lazy">
+        {{ else }}
+            <div class="post-item-noimage"></div>
+        {{ end }}
+    </a>
+</article>
