@@ -1,11 +1,11 @@
 +++
 title = 'ジョー・チルの銃'
-date = '2026-10-12T17:53:55+09:00'
-lastmod = '2026-10-12T17:57:27+09:00'
+date = '2026-10-12T18:35:33+09:00'
+lastmod = '2026-10-12T19:40:59+09:00'
 categories = ["item"]
 draft = false
 comments = true
-image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/chill''s_gun.webp'
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/chill's_gun.webp"
 
 +++
 
