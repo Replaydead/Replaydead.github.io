@@ -1,0 +1,31 @@
+{{/* 最近更新された記事ウィジェット: タイトルのみ。新着記事(最新10件)は除外する */}}
+{{ $limit := 10 }}
+{{ with .Params }}{{ with .limit }}{{ $limit = . }}{{ end }}{{ end }}
+
+{{ $contentSections := slice "reference" "game" "movie" "anime" "tech" "note" "drama" }}
+
+{{/* 新着記事として表示される記事(最新10件)のURL一覧 */}}
+{{ $newest := first 10 (sort (where site.RegularPages "Type" "in" site.Params.mainSections) "Date" "desc") }}
+{{ $newPermalinks := slice }}
+{{ range $newest }}
+    {{ $newPermalinks = $newPermalinks | append .Permalink }}
+{{ end }}
+
+{{/* 投稿日と更新日(年月日)が違い、新着に出ていない記事 */}}
+{{ $edited := slice }}
+{{ range sort (where site.RegularPages "Section" "in" $contentSections) "Lastmod" "desc" }}
+    {{ if and (ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02")) (not (in $newPermalinks .Permalink)) }}
+        {{ $edited = $edited | append . }}
+    {{ end }}
+{{ end }}
+
+{{ with first $limit $edited }}
+<section class="widget recent-updates">
+    <h2 class="widget-title section-title">最近更新された記事</h2>
+    <ul class="recent-updates-list">
+        {{ range . }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+</section>
+{{ end }}
