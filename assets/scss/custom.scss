@@ -80,25 +80,11 @@ a {
 }
 
 .spoiler-toggle {
-    background: #3a2f25;
-    color: #ffffff;
-    border: 1px solid #8b6914;
-    border-radius: 6px;
-    padding: 0.6rem 1.2rem;
-    font-size: 1.4rem;
     cursor: pointer;
-}
-
-.spoiler-toggle:hover {
-    background: #4a3d30;
 }
 
 .spoiler-content {
     display: none;
-    margin-top: 1rem;
-    padding: 1rem 1.5rem;
-    border-left: 4px solid #8b6914;
-    background: #241c15;
 }
 
 .spoiler-content.open {
