@@ -1,35 +1,6 @@
 {{ define "main" }}
     {{- $paginator := partial "helper/paginator.html" . -}}
 
-    {{ if eq $paginator.PageNumber 1 }}
-    {{ $contentSections := slice "reference" "game" "movie" "anime" "tech" "note" "drama" }}
-    {{ $articles := where site.RegularPages "Section" "in" $contentSections }}
-
-    {{/* 新着記事(1ページ目)に出る記事のURL一覧。更新側から除外するために使う */}}
-    {{ $newPermalinks := slice }}
-    {{ range $paginator.Pages }}
-        {{ $newPermalinks = $newPermalinks | append .Permalink }}
-    {{ end }}
-
-    {{ $edited := slice }}
-    {{ range sort $articles "Lastmod" "desc" }}
-        {{ if and (ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02")) (not (in $newPermalinks .Permalink)) }}
-            {{ $edited = $edited | append . }}
-        {{ end }}
-    {{ end }}
-
-    {{ with first 5 $edited }}
-    <h2 class="post-section-title">最近更新された記事</h2>
-    <section class="article-list">
-        {{ range . }}
-            {{ partial "article-list/default" . }}
-        {{ end }}
-    </section>
-    {{ end }}
-
-    <h2 class="post-section-title">新着記事</h2>
-    {{ end }}
-
     <section class="article-list">
         {{ range $paginator.Pages }}
             {{ partial "article-list/default" . }}
