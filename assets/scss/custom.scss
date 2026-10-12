@@ -98,3 +98,24 @@ a {
 .post-section-title {
     margin: 2.5rem 0 1rem;
 }
+
+.recent-updates-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.recent-updates-list li {
+    margin: 0 0 0.8rem;
+}
+
+.recent-updates-list a {
+    color: #ffffff !important;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    text-decoration: none;
+}
+
+.recent-updates-list a:hover {
+    color: #e8b923 !important;
+}
