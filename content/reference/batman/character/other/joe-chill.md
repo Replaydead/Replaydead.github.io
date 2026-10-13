@@ -1,11 +1,11 @@
 +++
 title = 'ジョー・チル'
-date = '2026-10-11T22:44:37+09:00'
-lastmod = '2026-10-12T10:59:50+09:00'
+date = '2026-10-12T11:00:14+09:00'
+lastmod = '2026-10-14T08:10:59+09:00'
 categories = ["other"]
 draft = false
 comments = true
-image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/chill.webp'
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/chill.webp"
 
 +++
 
@@ -13,6 +13,8 @@ image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-
 ### 【基本情報】
 
 ・本名：ジョー・チル
+
+・初登場：ディテクティブ・コミックス #33 (1939)
 
 ### 【登場作品】
 
@@ -30,26 +32,29 @@ image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-
 
 　回想にて登場。
 
-オペラ座「怪傑ゾロ」を観て蝙蝠の恐怖を思い出し、劇場を出た直後で遭遇。
+ブルース達がオペラ座「[メフィストーフェレ](reference/batman/event/mefistofele)」の上演中に劇場を抜け出た直後に遭遇。
 
-トーマスに財布を寄越せと銃で脅迫し、マーサの首飾りもだと言った瞬間にトーマスがマーサを庇う動きをしたため、焦って二人を射殺してしまう。
+トーマスに財布を寄越せと銃で脅迫した。
 
-その直後捕まり、刑務所に入っていた。
+マーサの首飾りも出せと言った瞬間にトーマスがマーサを庇う動きをしたため、焦って二人を射殺してしまう。
 
-　ブルースが大学生の頃に裁判所で判決を受けており、更生している様子を見せていたが、実際はファルコーニに買収されていた。
+その直後に逮捕され、刑務所に入った。
 
+　ブルースが大学生の頃に裁判所で仮釈放審問を受けており、更生している様子を見せていたが、実際はファルコーニに買収されていた。
 
 <img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/begins/chill2.webp">
 
+ファルコーニによるとブルースの父親は負け犬のように命乞いをしたとチルから聞いていたとの事。
 
-復讐を決意するブルースに射殺されそうだったが、ファルコーニの手下に先に射殺された。
 
-レイチェルはチルに対して、不況が悪化し生活が苦しくなるとチルのような人物が出てきてしまうと述べた。
+復讐を決意するブルースに射殺されそうだったが、[ファルコーニの手下に先に至近距離で射殺された](reference/batman/event/the_murder_of_joe_chill)
+
+レイチェルはチルについて、不況が悪化し生活が苦しくなるとチルのような人物が出てきてしまうと述べた。
 
 ### 【個人的解説】
 
 　ただのチンピラなのだが、役割を考えればバットマン作品最大の功労者かもしれない。
 
-もし彼が存在しなかった場合ブルースはバットマンになってなかった可能性すらあるのだ。
+もし彼が存在しなかった場合ブルースはバットマンになってなかった可能性すらあり、ブルースにとっては人生のターニングポイントとなっている。
 
 1989ではジャックが代わりを務めたが、個人的にはブルースになんの恨みも因縁も無い人物が彼の人生を変えたという方がドラマティックだと思う。
