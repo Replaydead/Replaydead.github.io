@@ -1,15 +1,13 @@
 +++
 title = '自動注射器'
 date = '2026-09-30T22:11:15+09:00'
-lastmod = '2026-10-06T08:12:25+09:00'
-categories = ["バットマン"]
+lastmod = '2026-10-14T08:13:44+09:00'
+categories = ["batman"]
 draft = false
 comments = true
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_batman/auto_injector.webp"
+
 +++
-
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/the_batman/auto_injector.webp">
-
 
 
 ### 【名称】
@@ -18,26 +16,11 @@ comments = true
 
 ### 【登場作品】
 
-・バットマン & ハーレイ・クイーン
-
 ・ザ・バットマン
 
 ### 【解説】
 
-　自動注射器。
-
-[バットマン & ハーレイ・クイーンでは]
-
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman_and_harley_quinn/auto_injector.webp">
-
-　ウッドルーの腕で左胸を貫かれ瀕死の状態のゴールドブラムの大腿部に注射した。
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman_and_harley_quinn/auto_injector2.webp">
-
-おそらく鎮痛作用のある薬剤を投与した物と思われる。
-
-[ザ・バットマンでは]
+　ザ・バットマンに登場した自動注射器。
 
 終盤リドラーにナイフで刺された後で使用。
 
@@ -55,7 +38,7 @@ comments = true
 
 　[焼灼器(仮称)](reference/batman/gadget/batman/cautery)と同じように緊急時に役立つガジェット。
 
-ザ・バットマンでアドレナリンを注射して体を起こしたという事は、交感神経を優位にして無理矢理体を可動させている状態なのだろう。
+アドレナリンを注射して体を起こしたという事は、交感神経を優位にして無理矢理体を可動させている状態なのだろう。
 
 ただアドレナリンだとすれば、錯乱状態になってまでリドラーを半殺しにするかと言われると怪しい。
 
