@@ -1,10 +1,12 @@
 +++
 title = '酸の花'
 date = '2026-10-01T08:00:59+09:00'
-lastmod = '2026-10-06T08:05:00+09:00'
-categories = ["ジョーカー"]
+lastmod = '2026-10-15T21:23:07+09:00'
+categories = ["joker"]
 draft = false
 comments = true
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/mask_of_the_phantasm/acid_flower.webp"
+
 +++
 
 
@@ -30,6 +32,8 @@ comments = true
 
 ・バットマン（1989）
 
+・バットマン/マスク・オブ・ファンタズム
+
 ・インジャスティス
 
 ### 【解説】
@@ -53,6 +57,18 @@ comments = true
 
 
 公式ムックでは「手錠を溶かしたり、ガールフレンドを傷つけるのに便利」と記載されている[^1]
+
+［バットマン/マスク・オブ・ファンタズムでは］
+
+　終盤ファンタズムに対して使用。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/mask_of_the_phantasm/acid_flower.webp">
+
+
+腕の金属を完全に溶かしてしまった。
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/mask_of_the_phantasm/acid_flower2.webp">
 
 ［インジャスティスでは］
 
