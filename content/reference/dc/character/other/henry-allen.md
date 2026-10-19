@@ -1,7 +1,7 @@
 +++
 title = 'ヘンリー・アレン'
-date = '2026-10-10T18:24:28+09:00'
-lastmod = '2026-10-19T19:16:15+09:00'
+date = '2026-10-19T19:18:02+09:00'
+lastmod = '2026-10-20T07:53:42+09:00'
 categories = ["other"]
 draft = false
 comments = true
@@ -49,6 +49,7 @@ image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-
 
 日本では現行犯であっても殺意の有無で判決は大きく変わるところがあるが、アメリカはそうではないのかもしれない。
 
+{{< spoiler >}}
 またヘンリーとしては妻を殺した犯人を捕まえたい気持ちがあるはずなのだが、ザ・フラッシュでは真犯人が分からず物語が終わっている。
 
 それで良いのか?
@@ -56,3 +57,4 @@ image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-
 　そもそもエンディングで無罪釈放されたが、物語の流れとして過去を変えてはいけないという話だった筈なのだが、ヘンリーが無罪を勝ち取るきっかけを作ったのもまたバリーである。
 
 結局バリーが元の世界に戻れなかった事からも、命の有無に関わらず過去改竄した結果なのだろう。
+{{< /spoiler >}}
