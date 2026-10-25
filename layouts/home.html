@@ -1,5 +1,7 @@
 {{ define "main" }}
-    {{- $paginator := partial "helper/paginator.html" . -}}
+    {{/* mainSections の記事を、更新日(lastmod)の新しい順に並べてページ分けする */}}
+    {{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections -}}
+    {{- $paginator := .Paginate $pages.ByLastmod.Reverse -}}
 
     <section class="article-list">
         {{ range $paginator.Pages }}
