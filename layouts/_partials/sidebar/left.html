@@ -10,12 +10,17 @@
 
     <ol class="menu">
 
-        <!-- TOPŒÅ’è -->
+        {{/* TOP(å›ºå®š) */}}
         <li>
             <a href="{{ .Site.Home.RelPermalink }}">TOP</a>
         </li>
 
-        <!-- Œ»İŠK‘w‚ÌŒZ’íƒy[ƒW -->
+        {{/* æ¤œç´¢(å›ºå®š) */}}
+        <li>
+            <a href="{{ "page/search/" | relURL }}">æ¤œç´¢</a>
+        </li>
+
+        {{/* ç¾åœ¨éšå±¤ã®å…„å¼Ÿãƒšãƒ¼ã‚¸ */}}
         {{ with .CurrentSection }}
             {{ range .Pages }}
                 <li>
