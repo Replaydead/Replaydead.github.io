@@ -5,7 +5,7 @@ lastmod = '2026-10-09T07:50:33+09:00'
 categories = ["batman"]
 draft = false
 comments = true
-image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/Mr.Freeze/bat_creditcard.webp'
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman_and_robin/bat-credit_card.webp"
 
 +++
 
