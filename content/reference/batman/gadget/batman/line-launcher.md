@@ -1,15 +1,13 @@
 +++
 title = 'ラインランチャー'
-date = '2026-07-14T21:33:29+09:00'
-lastmod = '2026-09-24T12:08:05+09:00'
-categories = ["バットマン"]
+date = '2026-09-24T12:09:00+09:00'
+lastmod = '2026-10-25T18:58:57+09:00'
+categories = ["batman"]
 draft = false
 comments = true
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/line_launcher.webp"
+
 +++
-
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/line_launcher.webp">
-
 
 
 ### 【名称】
@@ -18,11 +16,13 @@ comments = true
 
 ### 【登場作品】
 
-・アーカムアサイラム
+・バットマン：アーカム・アサイラム
 
-・アーカムシティ
+・バットマン：アーカム・シティ
 
-・アーカムナイト
+・バットマン：アーカム・ビギンズ（作中未使用）
+
+・バットマン：アーカム・ナイト
 
 ### 【解説】
 
@@ -38,10 +38,10 @@ comments = true
 
 ・ライン強度：600kg
 
-［アーカムアサイラムでは］
+［アーカム・アサイラムでは］
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/asylum/line_launcher.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_asylum/line_launcher.webp">
 
 
 　2体のタイタン戦後に入手。
@@ -51,7 +51,7 @@ comments = true
 感電する床やポイズンアイビーのフェロモン、クロックの巣など地上が危険な場面にて安全に移動する事が出来る。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/asylum/line_launcher2.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_asylum/line_launcher2.webp">
 
 
 またグラップル出来ない高所から高所への移動も可能。
@@ -61,18 +61,19 @@ comments = true
 敵が前方にいる際にはグラインドキックのように攻撃する事が出来る。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/asylum/line_launcher3.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_asylum/line_launcher3.webp">
 
 
-［アーカムシティでは］
+［アーカム・シティでは］
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/line_launcher2.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/line_launcher2.webp">
 
 
 　中盤にロビンから届けられる。
 
 移動中に方向転換出来るようになった。
+
 またコーナーカバー中にも使用可能となっている。
 
 ゲーム内では「ラインランチャーを使って、エリアを水平方向に素早く移動できる。
@@ -83,18 +84,27 @@ comments = true
 
 移動中に無警戒のターゲットに向かって飛び降りる「ラインランチャー・テイクダウン」に派生可能。
 
-レベルアップで「[ラインランチャー・タイトロープ](game/batman/Arkham/ArkhamCity/Upgrade/line-launcher-tight-rope)」にアップグレード可能。
+レベルアップで「[ラインランチャー・タイトロープ](game/batman/arkham/arkhamcity/Upgrade/line-launcher-tight-rope)」にアップグレード可能。
 
-［アーカムナイトでは］
+［アーカム・ビギンズでは］
+
+　ゲーム内にて使用する事は出来ないが、バットケイブ内にて試作品が確認出来る。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_origins/line-launcher.webp">
+
+
+［アーカム・ナイトでは］
 
 　最初から使用可能になった他、タイトロープはデフォルトで使用可能となった。
 
 またグラインド中にクイックファイアーが可能になった。
+
 建物の間に展開する事が出来る。
 
 ### 【個人的解説】
 
-　アーカムシリーズからの登場だが、1989にて登場した[スチールガントレット](https://replaydead.github.io/movie/batman/gadget/steel-gauntlet/)が元ネタと思われる。
+　アーカムシリーズからの登場だが、1989にて登場した[スチールガントレット](https://replaydead.github.io/reference/batman/gadget/batman/steel-gauntlet/)が元ネタと思われる。
 
 ただスチールガントレットと異なり、完全に水平方向にしか移動出来ないため、斜め下方向に移動したい時にはグラインド、高所への移動はグラップルと使い分ける必要がある。
 
