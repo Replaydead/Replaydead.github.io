@@ -8,18 +8,14 @@
         </div>
     </header>
 
-    {{/* 検索フォーム(メニューとは分離) */}}
-    <form class="sidebar-search" action="{{ "page/search/" | relURL }}" method="get" role="search">
-        <input type="search" name="keyword" placeholder="記事を検索" aria-label="記事を検索" autocomplete="off">
-        <button type="submit">検索</button>
-    </form>
-
     <ol class="menu">
 
-        {{/* TOP(固定) */}}
+        {{/* トップページ以外では TOP を表示 */}}
+        {{ if not .IsHome }}
         <li>
             <a href="{{ .Site.Home.RelPermalink }}">TOP</a>
         </li>
+        {{ end }}
 
         {{/* 現在階層の兄弟ページ。フッターや右サイドバーに出ているものは除く */}}
         {{ $hidden := slice "/archives/" "/page/" "/contact/" "/privacy-policy/" "/disclaimer/" }}
@@ -34,5 +30,11 @@
         {{ end }}
 
     </ol>
+
+    {{/* 検索フォーム(メニューの下) */}}
+    <form class="sidebar-search" action="{{ "page/search/" | relURL }}" method="get" role="search">
+        <input type="search" name="keyword" placeholder="記事を検索" aria-label="記事を検索" autocomplete="off">
+        <button type="submit">検索</button>
+    </form>
 
 </aside>
