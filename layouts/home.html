@@ -7,6 +7,10 @@
         {{ end }}
     </section>
 
+    <div class="recent-updates-mobile">
+        {{ partial "recent-updates.html" (dict "limit" 10) }}
+    </div>
+
     {{ partial "pagination.html" . }}
     {{ partial "footer/footer" . }}
 {{ end }}
