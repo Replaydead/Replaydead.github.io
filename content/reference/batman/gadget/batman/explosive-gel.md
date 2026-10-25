@@ -1,23 +1,23 @@
 +++
 title = '爆破ジェル'
-date = '2026-08-24T11:04:51+09:00'
-lastmod = '2026-09-17T22:48:36+09:00'
-categories = ["バットマン"]
+date = '2026-08-24T20:04:51+09:00'
+lastmod = '2026-10-25T10:14:15+09:00'
+categories = ["batman"]
 draft = false
 comments = true
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/explosive_gel.webp"
+
 +++
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/explosive_gel.webp">
-
-
-
 ### 【登場作品】
-・アーカムアサイラム
+・バットマン：アーカム・アサイラム
 
-・アーカムシティ
+・バットマン：アーカム・シティ
 
-・アーカムナイト
+・バットマン：アーカム・ビギンズ
+
+・バットマン：アーカム・ナイト
 
 ### 【解説】
 　アーカムシリーズに登場するガジェット。
@@ -26,23 +26,21 @@ comments = true
 
 同時に最大3発分設置する事が出来、爆破すると数が補充される。
 
-ロビンも同様に爆破ジェルを持つ作品もあるが、その際は「R」の文字に吹きかけている。
-
 主に破壊可能オブジェクトを破壊して進行ルートを拡大したり、敵を爆発に巻き込んで気絶させる用途で用いる。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/asylum/explosive_gel2.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_asylum/explosive_gel2.webp">
 
 
-［アーカムアサイラムでは］
+[アーカム・アサイラムでは]
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/asylum/explosive_gel.webp">
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_asylum/explosive_gel.webp">
 
 
 　バットモービルのトランクに収納されていた。
 
-探索では破壊可能な壁などを破壊する用途で用いるが、自分より高い位置には届かないためアルティメットバットクローで代替する場面もある。
+探索では破壊可能な壁などを破壊する用途で用いるが、自分より高い位置には届かないため[ウルトラバットクロー](reference/batman/gadget/batman/ultra-bat-claw)で代替する場面もある。
 
 プレデターアクションでは後続作品のように複数相手を同時にテイクダウンする手段がないため、未発見時に設置して起爆する使い方が強力。
 
@@ -54,9 +52,9 @@ comments = true
 
 その際ガントレットが壊れていた。
 
-レベルアップで「[多周波起爆装置](https://replaydead.github.io/movie/batman/gadget/multi-frequency-detonation/)」と「[自動接近起爆装置](https://replaydead.github.io/movie/batman/gadget/auto-proximity-detonation/)」にアップグレード可能。
+レベルアップで「[多周波起爆装置](game/batman/arkham/asylum/upgrade/multi-frequency-detonation)」と「[自動接近起爆装置](game/batman/arkham/asylum/upgrade/auto-proximity-detonation)」にアップグレード可能。
 
-［アーカムシティでは］
+[アーカム・シティでは]
 
 　
 　本作ではゲーム開始時より使用可能。
@@ -67,17 +65,27 @@ comments = true
 
 フリーズ戦でもテイクダウンを奪う事ができる。
 
-またクイック爆破ジェルが実装された。
+またクイックファイアが実装された。
 
 クイックの場合は側転をしながら地面にジェルを吹きかけるモーションとなっており、ソロモン戦では電撃波を回避しながら攻撃する事が出来る。
 
 ただし一つしか設置する事が出来ず、複数設置済みの場合でも起爆してしまう。
 
-［アーカムナイトでは］
+[アーカム・ビギンズでは」
+
+　アーカム・シティと同様の仕様になっている。
+
+　ゲーム内では「このガジェットを使って、壁や床に爆発性接着剤を噴射できる。
+
+罠を仕掛けたり、弱い構造物を破壊したりするのに非常に便利。
+
+クイックファイア爆発ジェルを使えば、素早く罠を仕掛け、戦闘中に爆破できる」と説明されている。
+
+[アーカム・ナイトでは]
 
 　シティ同様クイック爆破ジェルは存在するが、地面に素早く吹きかけるモーションに変化した。
 
-そのため前作のような回避しながらの攻撃手段としては使用不可。
+そのため前作までのような回避しながらの攻撃手段としては使用不可。
 
 　また最初から起爆が1つずつになった。
 
@@ -87,7 +95,7 @@ comments = true
 
 　アーカムシリーズを代表するオリジナルガジェット。
 
-他作品のバットマンも粘着爆弾やバットグレネード、Mini-Mineなど様々な爆発型ガジェットは使用しているが、相手に対して直接使用出来るのは珍しく、アーカムシリーズのバットマンの過激さを象徴したガジェットと感じられる。
+他作品のバットマンも[スティッキーボム](reference/batman/gadget/batman/sticky-bomb)や[バットグレネード](reference/batman/gadget/batman/bat-grenade)、[小型爆弾](reference/batman/gadget/batman/mini_mine)など様々な爆発型ガジェットは使用しているが、相手に対して直接使用出来るのは珍しく、アーカムシリーズのバットマンの過激さを象徴したガジェットと感じられる。
 
 何せ強力な爆発をするのに対人戦でも使用できるため、不殺と言うにはあまりにも厳しいのでは無いだろうか。
 
