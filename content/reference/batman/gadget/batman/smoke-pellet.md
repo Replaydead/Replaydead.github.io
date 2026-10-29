@@ -1,16 +1,13 @@
 +++
 title = 'スモークペレット'
 date = '2026-09-22T10:20:49+09:00'
-lastmod = '2026-10-09T07:53:04+09:00'
+lastmod = '2026-10-29T19:46:10+09:00'
 categories = ["batman"]
 draft = false
 comments = true
-image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/city/smoke_pellet.webp'
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smoke_capsule.webp"
 
 +++
-
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/smoke_capsule.webp">
 
 
 ### 【名称】
@@ -45,9 +42,11 @@ image = 'https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-
 
 ・ザ・フラッシュ(2023)
 
-・アーカムシティ
+・バットマン：アーカム・シティ
 
-・アーカムナイト
+・バットマン：アーカム・ビギンズ
+
+・バットマン：アーカム・ナイト
 
 ・Batman: The Telltale Series
 
@@ -196,6 +195,13 @@ DCショップでも「Batman（1989）Smoke Capsules」として販売されて
 さらにスモークペレットで敵の集団を狙い、混乱に乗じて静かに倒すことも可能。
 戦闘中に使用すると敵はパニックに陥り、互いに攻撃し合うなど、無差別に攻撃を仕掛けてくる。
 使用後は再使用に時間がかかる」と説明されている。
+
+[アーカム・ビギンズでは]
+
+ゲーム内では「スモークペレットは周囲を混乱させる煙で満たし、攻撃を受けている最中でも安全に脱出できます。
+さらに、スモークペレットで敵の集団を狙い、混乱に乗じて静かに倒すことも可能です。
+戦闘中に使用すると、敵はパニックに陥り、互いに攻撃し合うなど、無差別に攻撃を仕掛けてきます。
+使用後は再使用時間が必要です」と説明されている。
 
 [Telltale Seriesでは」
 
