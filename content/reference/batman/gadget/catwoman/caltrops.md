@@ -5,6 +5,8 @@ lastmod = '2026-10-31T11:10:07+09:00'
 categories = ["catwoman"]
 draft = false
 comments = true
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/caltrops.webp"
+
 +++
 
 
