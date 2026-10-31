@@ -1,12 +1,10 @@
 +++
 title = '鉄菱'
 date = '2026-10-25T15:00:21+09:00'
-lastmod = '2026-10-30T12:46:10+09:00'
+lastmod = '2026-10-31T11:10:07+09:00'
 categories = ["catwoman"]
 draft = false
 comments = true
-image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/caltrops.webp"
-
 +++
 
 
@@ -23,6 +21,10 @@ image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-
 ### 【解説】
 
 　キャットウーマンが自室から持ち出すガジェットの一つ。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/caltrops2.webp">
+
 
 撒菱のように地面に撒いておき、踏んだ相手をその場に転倒させる。
 
