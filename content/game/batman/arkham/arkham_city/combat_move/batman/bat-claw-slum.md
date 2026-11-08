@@ -5,6 +5,8 @@ lastmod = '2026-10-25T19:33:01+09:00'
 categories = ["batman"]
 draft = false
 comments = true
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/batclaw_slam.webp"
+
 +++
 
 
