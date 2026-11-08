@@ -1,52 +1,77 @@
 +++
-title = 'かく乱機：フリーズ・オーバーライド'
-date = '2026-08-28T16:29:21.409009+09:00'
-lastmod = '2026-08-30T10:06:44+09:00'
-categories = ["ガジェット"]
+title = 'リモートコントロール・バットラング'
+date = '2026-09-02T12:33:46+09:00'
+lastmod = '2026-11-08T21:19:00+09:00'
+categories = ["batman"]
 draft = false
 comments = true
-image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/disruptor_freeze_override.webp"
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/remote_control_batarang.webp"
 
 +++
 
 
 ### 【名称】
 
-・かく乱機：フリーズ・オーバーライド
+・REMOTO CONTROL BATARANG
 
-・Disruptor：Freeze Override
+・リモートコントロール・バットラング
 
 ### 【登場作品】
 
+・バットマン：アーカム・アサイラム
+
 ・バットマン：アーカム・シティ
+
+・バットマン：アーカム・ビギンズ
+
+・バットマン：アーカム・ナイト
 
 ### 【解説】
 
+　アーカムシリーズに登場した、バットラングの派生ガジェットの一つ。
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/disruptor_freeze_override2.webp">
+投擲すると一人称視点となり、コントローラーでバットラングを操作する事が出来る。
+
+［アーカムアサイラムでは］
+
+　アップグレード品となっている。
+
+他作品のように遠隔でスイッチを押すようなギミックは無いため、あまり有効な場面は無い。
+
+投擲後にバットラングに向かって進行すると、バットマンがキャッチするモーションを取り、実績解除する事が出来る。
+
+ゲーム内では「リリース後にバットマンが直接操作できる特別なバットラング。
+
+一度投げた場合、再び使用できるまでに短い充電期間が必要」と説明されている。
+
+［アーカムシティでは］
 
 
-　アーカムシリーズのガジェット、かく乱機のバリエーションの一つ。
-
-ゲーム内では「特注のフリーズガン兵器を遠隔操作で無効化するために使用する。
-ターゲットの近距離で起動する必要がある」と説明されている。
-
-フリーズによるとフリーズガンが自身を攻撃しないようにスーツにセキュリティ・オーバーライド・チップが仕込んであるとの事。
-
-フリーズスーツを見つけた際に腕の部分からチップを回収して使用している。
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/remote_control_batarang2.webp">
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/disruptor_freeze_override3.webp">
+　初期から使用可能になった。
 
+　クールタイムが大幅に短くなった他、ブースト、ブレーキ、Uターンなどの操作が可能となった。
 
-アイスバーグ・ラウンジにてペンギンの持つフリーズガンを無効化する際に使用した。
+最大までブーストして敵に当てると、大きく吹き飛ばして長時間ダウンを奪える他、高所からダウンさせる事も可能。
 
+メインミッションで必要な場面が三箇所あり、遠隔でスイッチを押す、電気を通してからヒューズボックスに当てて破壊するといった用途が増えた。
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_city/disruptor_freeze_override4.webp">
+[アーカム・ビギンズでは]
 
+ゲーム内では「リリース後も操作可能な洗練されたプロトタイプバットラング。
+手の届かないスイッチや物体を攻撃するのに便利です。
+ブレーキとフリップ操作で高い機動性を実現。
+ブーストを長押しすると、敵に高速で衝突し、吹き飛ばします。
+電気に当てると、バットラングは電荷を保持し、ヒューズボックスなどのアイテムを過負荷状態にするために使用できます」と説明されている。
 
 ### 【個人的解説】
 
-　ペンギンの持っているフリーズガンを無効化するためのガジェット。
+　性能からして元ネタはバットマンリターンズの「[スーパーバットラング](https://replaydead.github.io/reference/batman/gadget/batman/super-batarang/)」と思われる。
 
-機能としてはそれだけなのだが、映画「バットマン & ロビン Mr.フリーズの逆襲」ではフリーズガンにかなり苦戦させられていたので、非常に強力なガジェットと言えるだろう。
+また一人称視点でバットラングを追いかける演出としては、バットマンフォーエヴァーの「[ソニック・バットラング](https://replaydead.github.io/reference/batman/gadget/batman/sonic-batarang/)」の演出が類似している。
+
+アサイラムではパッとしなかったが、シティでは使用場面が大幅に増えた。
+
+バットマンが直接発見されていない状況では遠距離からダウンさせる事の出来る貴重なガジェットである。
