@@ -5,11 +5,9 @@ lastmod = '2026-09-26T15:39:10+09:00'
 categories = ["ジョーカー"]
 draft = false
 comments = true
+image = "https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/joker%27s_ring.webp"
+
 +++
-
-
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/joker's_ring.webp">
-
 
 
 ### 【名称】
@@ -24,6 +22,8 @@ comments = true
 
 •バットマン（1989）
 
+・バットマン：アーカム・アサイラム(PS3版)
+
 ### 【解説】
 
  バットマン（1989）に登場したジョーカーのガジェット。
@@ -31,18 +31,32 @@ comments = true
 右手のグローブにリングが備わっており、ボタンを押すと高圧電流を発生させる。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/joker's_ring2.webp">
 
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/joker%27s_ring2.webp">
+
+[バットマン(1989)では]
 
 作中ではジャック時代に所属していたマフィア達の会議にて使用。
 
 ジャックに対して快く思っていないロッテリと握手をした状態でリングを起動し、数秒で骸骨になるまで感電させた。
 
 
-<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/joker's_ring3.webp">
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/batman1989/joker%27s_ring3.webp">
+
 
 
 公式ムックでは「相手を丸焦げにする高電圧リング」として紹介されている[^1]
+
+[バットマン：アーカム・アサイラムでは]
+
+　PS3版のジョーカーチャレンジにて登場。
+
+コンボテイクダウンの一種類として使用している。
+
+
+<img src="https://fiobrqfdsebtpbgnhdpz.supabase.co/storage/v1/object/public/blog-images/arkham_asylum/joker%27s_ring.webp">
+
 
 ### 【個人的解説】
 
