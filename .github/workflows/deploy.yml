@@ -26,6 +26,8 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
       - name: Build
         run: hugo --minify --baseURL "https://replaydead.github.io/"
       - name: Upload artifact
